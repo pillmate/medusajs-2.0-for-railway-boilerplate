@@ -1,0 +1,3182 @@
+[
+  {
+    "id": "pcat_01K0X9GQ48PE9SBWHV38BE8PSK",
+    "name": "1,3-Dimethylamylamine",
+    "description": "1,3-DMAA (1,3-Dimethylamylamine) is a neural stimulant with a structure similar to ephedrine and adrenaline that has been used as a pre-workout stimulant. Not much information is available on 1,3-DMAA supplementation, and is no longer commonly sold as a supplement.",
+    "handle": "1-3-dimethylamylamine"
+  },
+  {
+    "id": "pcat_01K0X9GQ5TT6K2JFJZT7F8Z364",
+    "name": "5-HTP",
+    "description": "5-HTP is the precursor to serotonin, a neurotransmitter involved in regulating many body processes like mood, sleep, and appetite. 5-HTP can increase levels of serotonin in the brain, which may reduce symptoms of depression and reduce appetite.",
+    "handle": "5-htp"
+  },
+  {
+    "id": "pcat_01K0X9GQ7D5NKJ9C5BWQXSTFAT",
+    "name": "7-Keto DHEA",
+    "description": "7-Keto DHEA is a metabolite of DHEA that is nonhormonal, and it appears to be a fat loss agent as it may increase the metabolic rate. Studies in humans show promise for helping during a fat loss diet, but currently are of questionable quality due to potential conflicts of interest.",
+    "handle": "7-keto-dhea"
+  },
+  {
+    "id": "pcat_01K0X9GQ90HCPY2XYAYWMPJF91",
+    "name": "7,8-Dihydroxyflavone",
+    "description": "7,8-DHF is a natural flavonoid which can reach the brain and activate a receptor (TrkB) that promotes neuronal growth. Some animal evidence suggests that 7,8-DHF may have some cognitive and motor benefits and may be nootropic, but no human evidence for these claims exists to date.",
+    "handle": "7-8-dihydroxyflavone"
+  },
+  {
+    "id": "pcat_01K0X9GQAMTTGPBXAPR1SYTEK9",
+    "name": "African Mango",
+    "description": "African mango supplements are derived from the seeds of the African mango fruit that grows on the Irvingia gabonensis tree. They are reported to cause weight loss but there is currently only low-quality evidence to support this claim.",
+    "handle": "african-mango"
+  },
+  {
+    "id": "pcat_01K0X9GQC4QVE5DV16V9EGZ772",
+    "name": "Agmatine",
+    "description": "Agmatine is a metabolite of L-Arginine. It shows promise for alleviating neuropathic pain and drug addiction and shows some potential in protecting against strokes and benefitting cognitive health.",
+    "handle": "agmatine"
+  },
+  {
+    "id": "pcat_01K0X9GQDNNASKNZN77VQE2V71",
+    "name": "Akarkara",
+    "description": "Akarkara (Anacyclus pyrethrum) is an herb used in traditional medicine that is also sold as a supplement. There is currently a lack of clinical evidence to support its numerous claimed benefits.",
+    "handle": "akarkara"
+  },
+  {
+    "id": "pcat_01K0X9GQFANP2GKYYART508P94",
+    "name": "Akkermansia Muciniphila",
+    "description": "Akkermansia muciniphila is a species of bacteria found in the intestinal microbiome. A. muciniphila is generally considered health promoting and is thought to support our gastrointestinal and metabolic health. While A. muciniphila can be taken as a supplement, clinical research is needed to confirm whether this has any beneficial effects.",
+    "handle": "akkermansia-muciniphila"
+  },
+  {
+    "id": "pcat_01K0X9GQH680HXWGQ8T2TJDGWQ",
+    "name": "Alanine",
+    "description": "Alanine is a non-essential amino acid used in protein synthesis and the regeneration of glucose within the liver via the glucose–alanine cycle.",
+    "handle": "alanine"
+  },
+  {
+    "id": "pcat_01K0X9GQJSTCM7RNPKMNHP26MT",
+    "name": "Alanylglutamine",
+    "description": "L-Alanyl-L-Glutamine, also known by the brand name Sustamine, is a dipeptide molecule of glutamine and alanine, which makes it more stable and water-soluble than glutamine by itself. Current evidence does not support L-alanyl-L-glutamine’s use as a performance-enhancing supplement.",
+    "handle": "alanylglutamine"
+  },
+  {
+    "id": "pcat_01K0X9GQMCGK9TK8PT8AK2PCNA",
+    "name": "Alcohol",
+    "description": "Alcohol is one of the world’s favorite intoxicants. It is frequently found at social gatherings because it provides an anxiety-reducing effect. Consuming too much alcohol will result in alcohol poisoning, which can be fatal.",
+    "handle": "alcohol"
+  },
+  {
+    "id": "pcat_01K0X9GQP0TSYZF3WEET695BK3",
+    "name": "Aloe Vera",
+    "description": "Aloe vera is a plant that has traditionally been used topically to alleviate burns and pain and orally against constipation. Despite its widespread use, the results of research on the benefits of Aloe vera remain conflicted.",
+    "handle": "aloe-vera"
+  },
+  {
+    "id": "pcat_01K0X9GQQNPK5S9N1NRVE86GHX",
+    "name": "Alpha-GPC",
+    "description": "Alpha-glycerylphosphorylcholine (alpha-GPC or α-GPC) is a compound used by the body in the synthesis of neurotransmitters. It is taken as a supplement for cognitive enhancement/prevention of cognitive decline and for increased power output in athletic performance.",
+    "handle": "alpha-gpc"
+  },
+  {
+    "id": "pcat_01K0X9GQSAABNWBJB6BBERRFY8",
+    "name": "Alpha-Ketoglutarate",
+    "description": "Alpha-ketoglutarate (AKG) is an important biological compound that plays a central role in regulating energy production through the Krebs cycle, which is the main way cells create energy. AKG has been used to increase muscle protein synthesis, but may also be useful as a supplement for longevity and healthy aging.",
+    "handle": "alpha-ketoglutarate"
+  },
+  {
+    "id": "pcat_01K0X9GQTX99GCYKXF5J14PDDA",
+    "name": "Alpha-Linolenic Acid (ALA)",
+    "description": "Alpha-linolenic acid (ALA) is an essential omega-3 fatty acid found primarily in plants, including walnuts, chia seeds, flaxseed, hemp seeds, canola, and their respective oils. ALA has primarily been studied for its potential benefits for cardiovascular health and the prevention of cardiovascular disease, but the effects seem to be marginal at best.",
+    "handle": "alpha-linolenic-acid-ala"
+  },
+  {
+    "id": "pcat_01K0X9GQWHV8G73V2BBMRYJZAD",
+    "name": "Alpha-Lipoic Acid",
+    "description": "Alpha-lipoic acid (ALA) is a mitochondrial compound involved in energy metabolism. It is commonly taken with L-Carnitine supplements, as they are related in mechanisms. ALA provides a short but potent reduction of oxidation by increasing antioxidant enzymes, and may decrease blood glucose acutely.",
+    "handle": "alpha-lipoic-acid"
+  },
+  {
+    "id": "pcat_01K0X9GQY4WDT9G44JJDDAEWN2",
+    "name": "Althaea Officinalis",
+    "description": "The roots, flowers, and leaves of Althaea officinalis are used in traditional herbal medicine to treat a variety of issues. The current clinical evidence suggests that Althaea officinalis extracts might help suppress coughing.",
+    "handle": "althaea-officinalis"
+  },
+  {
+    "id": "pcat_01K0X9GQZPY2VR6HPXB7WW5S20",
+    "name": "Amla",
+    "description": "Emblica officinalis (Amla) is an ayurvedic herb which has all parts, including the fruits, used for preventative and therapeutic purposes. It appears to be most used for regulating glucose metabolism and cardiac health, and may also be neuroprotective.",
+    "handle": "amla"
+  },
+  {
+    "id": "pcat_01K0X9GR18SY2DDPA083EMRF37",
+    "name": "Anatabine",
+    "description": "Anatabine is an alkaloid compound found in tobacco and plants in the nightshade family, which includes eggplant and peppers. Anatabine possesses anti-inflammatory properties but further research is needed to determine if supplementation is practical.",
+    "handle": "anatabine"
+  },
+  {
+    "id": "pcat_01K0X9GR2WD4EJ0M80N2RAVXF5",
+    "name": "Aniracetam",
+    "description": "Aniracetam is a fat-soluble molecule in the racetams family, anecdotally touted to be more potent than piracetam and more catered to creativity and holistic thinking as well as reducing anxiety and depression. Human studies are lacking.",
+    "handle": "aniracetam"
+  },
+  {
+    "id": "pcat_01K0X9GR4EX8EJJFK242YY1EPY",
+    "name": "Apigenin",
+    "description": "Apigenin is a bioflavonoids that appears to reduce anxiety, affect immune health, and modulate hormones. It is found in chamomile tea and a variety of vegetables and herbs. Apigenin is stable when consumed as part of the diet but unstable when isolated from its source.",
+    "handle": "apigenin"
+  },
+  {
+    "id": "pcat_01K0X9GR6GVEKRZ2QXBP72MZ8N",
+    "name": "Arachidonic Acid",
+    "description": "Arachidonic acid (AA) is a fatty acid of the omega-6 class, and is the main fatty acid of interest when referring to an omega-3:6 ratio (relative to fish oil fatty acids). It is proinflammatory and immunosupportive.",
+    "handle": "arachidonic-acid"
+  },
+  {
+    "id": "pcat_01K0X9GR87TGSF5VC9S6VBRF5M",
+    "name": "Arginine",
+    "description": "Arginine is an amino acid involved in the regulation of vascular function and blood flow. Supplementation may improve high blood pressure and erectile dysfunction.",
+    "handle": "arginine"
+  },
+  {
+    "id": "pcat_01K0X9GRAG2DBB75YMD6SDP7G4",
+    "name": "Arnica",
+    "description": "Arnica (Arnica montana) is a plant commonly applied topically for inflammation, bruising, and pain; it is also found in homeopathic remedies. However, its effectiveness remains unclear, and more high-quality clinical studies are needed.",
+    "handle": "arnica"
+  },
+  {
+    "id": "pcat_01K0X9GRC5P0KBGACHNS0139HZ",
+    "name": "Artemisia Annua",
+    "description": "Artemisia annua is an herb native to Asia and is known for the compound artemisinin, which is used in the formulation of malaria treatments. Note that this supplement alone should not be used to treat malaria.",
+    "handle": "artemisia-annua"
+  },
+  {
+    "id": "pcat_01K0X9GRDS5XFQA27X2WB99YSA",
+    "name": "Artichoke Extract",
+    "description": "Artichoke Extract (Cynara scolymus) is an extract from the common bulb vegetable that appears to have the ability to stimulate bile secretion; this may underlie a weak reduction in cholesterol and improved fat digestion.",
+    "handle": "artichoke-extract"
+  },
+  {
+    "id": "pcat_01K0X9GRFDDFYWGN5GF7XBB7FM",
+    "name": "Asafoetida",
+    "description": "Ferula foetida (the active oleoresin being called Ferula asafoetida) is a supplement catered towards lung and gastrointestinal health, and is used as a carminative agent. It may also have benefits to cognition and usage as an aphrodisiac.",
+    "handle": "asafoetida"
+  },
+  {
+    "id": "pcat_01K0X9GRH2X2EDJT63CKKWPN9V",
+    "name": "Ashwagandha",
+    "description": "Ashwagandha has been called the king of Ayurvedic herbs. It’s best known for reducing stress and anxiety. It may also modestly enhance various aspects of physical performance, increase testosterone levels, and improve reproductive health, but more research is needed to confirm these effects.",
+    "handle": "ashwagandha"
+  },
+  {
+    "id": "pcat_01K0X9GRJNQ96JKEDGJQV0KZV8",
+    "name": "Aspartate",
+    "description": "Aspartate is a nonessential amino acid that the body makes naturally. When taken as a supplement, aspartate is often combined with minerals such as copper, magnesium, potassium, and zinc to improve athletic performance, brain health, and muscle strength.",
+    "handle": "aspartate"
+  },
+  {
+    "id": "pcat_01K0X9GRM9DH15CMY0R4CSKCSR",
+    "name": "Astaxanthin",
+    "description": "Astaxanthin is an aquatic carotenoid like fucoxanthin, but is the red pigment in salmon and krill; the most stable of all carotenoids and touted to aid in eye health. Limited human evidence suggests that it has some positive effects on oxidative stress, but it's unclear if it's particularly effective for any health outcomes.",
+    "handle": "astaxanthin"
+  },
+  {
+    "id": "pcat_01K0X9GRNYBZS4QTDY6WTY01S2",
+    "name": "Astragalus",
+    "description": "Astragalus membranaceus is an herb used in Traditional Chinese Medicine. It is claimed to have anti-inflammatory, cardioprotective, and anti-aging effects.",
+    "handle": "astragalus"
+  },
+  {
+    "id": "pcat_01K0X9GRQJBD14D6J6T1GXXRGS",
+    "name": "B Vitamins",
+    "description": "B vitamins are a class of vitamins that are used for many functions in the body. Vitamin B1 (thiamine), vitamin B2 (riboflavin), vitamin B3 (niacin), vitamin B5 (pantothenic acid), vitamin B6, vitamin B7 (biotin), vitamin B9 (folic acid) and vitamin B12 (cobalamin) are all B vitamins.",
+    "handle": "b-vitamins"
+  },
+  {
+    "id": "pcat_01K0X9GRS6Q2F357PWPAR4J9RQ",
+    "name": "Baby Formula",
+    "description": "Baby formulas mimic the composition of human breast milk and are intended for children less than a year old as a replacement for breastfeeding. Baby formulas are often made from cow’s milk and contain the calories, protein, fat, vitamins, and minerals that a baby needs to grow.",
+    "handle": "baby-formula"
+  },
+  {
+    "id": "pcat_01K0X9GRTZJ4FYNA8Z9HSA94W7",
+    "name": "Bacopa Monnieri",
+    "description": "Bacopa monnieri is a nootropic herb that has been used in traditional medicine for longevity and cognitive enhancement. Supplementation can improve memory, at least in the short-term, and there may be some mental health benefits.",
+    "handle": "bacopa-monnieri"
+  },
+  {
+    "id": "pcat_01K0X9GRWH7DKYHMWTZMV605TX",
+    "name": "Baikal Skullcap",
+    "description": "Scutellaria baicalensis (Chinese Skullcap) is a traditional chinese medicine for the purposes of cardiovascular and cognitive health as well as longevity. It appears to be a good source for flavonoid compounds, and some components are quite potent.",
+    "handle": "baikal-skullcap"
+  },
+  {
+    "id": "pcat_01K0X9GRY5K8WQV6NGVG6RSG28",
+    "name": "Bakuchi",
+    "description": "Psoralea corylifolia (Bu Gu Zhi, Kushtanashini) is a plant whose seeds have traditionally been used for menopause and depression (among other claims); it appears to be somewhat effective, based on preliminary evidence, for both bone regeneration and catecholamine-related neural effects.",
+    "handle": "bakuchi"
+  },
+  {
+    "id": "pcat_01K0X9GRZSP158QYPJRTWY8CMR",
+    "name": "Banaba Leaf",
+    "description": "Lagerstroemia, also known as Banaba, is a plant whose leaves have been used for anti-diabetic purposes. It contains a variety of molecules such as corosolic acid which may confer benefit to glucose control.",
+    "handle": "banaba-leaf"
+  },
+  {
+    "id": "pcat_01K0X9GS1ESY53W3CCH0B2E1B2",
+    "name": "Banana Flower",
+    "description": "Musa x paradisiaca is a herbaceous perennial tree cultivated in warm climates and known for its production of bananas. The flower extract from Musa x paradisiaca is known for its medicinal properties.",
+    "handle": "banana-flower"
+  },
+  {
+    "id": "pcat_01K0X9GS31ZKH8AYNPWA1ZMZF0",
+    "name": "Beef Protein",
+    "description": "Beef protein is made from beef protein isolate and often consumed in powdered form as a protein supplement. It is low in carbohydrates and fat and high in protein and amino acids, including alanine, arginine, glycine, leucine, lysine, and proline.",
+    "handle": "beef-protein"
+  },
+  {
+    "id": "pcat_01K0X9GS4ND8M761HDF0XARMNA",
+    "name": "Benfotiamine",
+    "description": "Benfotiamine is a relative of the vitamin Thiamine (B1) that appears to have a therapeutic role in pain reduction and diabetic complications (neuropathies and nephropathies); confers bioavailable Vitamin B1 after oral ingestion.",
+    "handle": "benfotiamine"
+  },
+  {
+    "id": "pcat_01K0X9GS68T1MGC532N08ZV830",
+    "name": "Berberine",
+    "description": "Berberine is a plant alkaloid with a long history of use in Ayurvedic and traditional Chinese medicine for the management of various health conditions. Its seemingly potent ability to reduce blood sugar rivals that of some anti-diabetic drugs.",
+    "handle": "berberine"
+  },
+  {
+    "id": "pcat_01K0X9GS7VPWM24E02FTKBA419",
+    "name": "Beta-Alanine",
+    "description": "Beta-alanine is a building block of carnosine, a molecule that helps buffer acid in muscles. Beta-alanine supplementation improves performance during high-intensity exercise lasting from 1 to 10 minutes. Carnosine also has antioxidant effects and may be beneficial for aging and neurological conditions.",
+    "handle": "beta-alanine"
+  },
+  {
+    "id": "pcat_01K0X9GS9HDW6K37914C4XG9HS",
+    "name": "Beta-Carotene",
+    "description": "Beta-carotene is a red-orange pigment found in many fruits and vegetables that gives them their distinct color. Beta-carotene is considered a carotenoid and an antioxidant that is converted to vitamin A in the body.",
+    "handle": "beta-carotene"
+  },
+  {
+    "id": "pcat_01K0X9GSB4HYNJCDVTJ7JJFDF2",
+    "name": "Beta-Glucans",
+    "description": "Beta-glucans are a type of fiber derived from cereals (e.g., oats, barley), seaweed, bacteria, and fungi. Their biological effects are influenced by their structure, which varies depending on the source. Cereal beta-glucans can lower cholesterol, while fungal beta-glucans may boost immunity.",
+    "handle": "beta-glucans"
+  },
+  {
+    "id": "pcat_01K0X9GSCZ2TPG5YCK4T64JXCX",
+    "name": "Betaine",
+    "description": "Betaine (trimethylglycine) is an active metabolite of choline in the body and a component of beetroot. It serves a vital role in methylation in the body alongside folate, and is an osmoregulator like creatine. Betaine is also a possible ergogenic aid.",
+    "handle": "betaine"
+  },
+  {
+    "id": "pcat_01K0X9GSEGKYAJPK3AJ6WJM0XW",
+    "name": "Betalains",
+    "description": "Betalains are a group of reddish pigments found in some fruits where the red anthocyanin compounds (such as pelargonidin) are replaced with betalains; a major component of beetroot, it can dye the urine a reddish tint.",
+    "handle": "betalains"
+  },
+  {
+    "id": "pcat_01K0X9GSG4CZHGF49M235E8248",
+    "name": "Bhringaraj",
+    "description": "Eclipta Alba (False Daisy) is a herb that has traditional usage as a liver tonic in Ayurveda. It appears to have preliminary evidence to suggest hair growth promotion as potent as Minoxidil and some anti-diabetic effects as well as liver protection.",
+    "handle": "bhringaraj"
+  },
+  {
+    "id": "pcat_01K0X9GSHRRC0R749F65XE9NKV",
+    "name": "Biotin (Vitamin B7)",
+    "description": "Biotin is one of the essential B vitamins used by the body primarily as an enzymatic cofactor. While it is popular as a beauty supplement for hair, skin, and nails and very preliminary evidence suggests it may have a role in these uses, its role is not well-supported. Potential interactions with diabetes are also not well understood.",
+    "handle": "biotin"
+  },
+  {
+    "id": "pcat_01K0X9GSKDQQ38NS26E1P0X175",
+    "name": "Bitter Cucumber",
+    "description": "Citrullus colocynthis, also known as bitter cucumber, is a fruit-bearing plant. Low doses of its seeds and fruit can reduce blood glucose levels. Higher doses are associated with side-effects like colonic inflammation and rectal bleeding.",
+    "handle": "bitter-cucumber"
+  },
+  {
+    "id": "pcat_01K0X9GSN0PEBKP5JMKCVB9PBS",
+    "name": "Bitter Orange",
+    "description": "A molecule that is similar to ephedrine in mechanism, but less potent. Commonly referred to as \"bitter orange\", synephrine appears to be a less potent fat-burner relative to ephedrine. It may exert some minor health effects on digestion and circulation.",
+    "handle": "bitter-orange"
+  },
+  {
+    "id": "pcat_01K0X9GSPN71AJ6S7TD79KXTAK",
+    "name": "Black Barberry Extract",
+    "description": "Black barberry extract is a supplement made from the barberry shrub and contains high amounts of the phytochemical berberine. This extract has been used as an herbal remedy for digestive disorders and certain skin conditions.",
+    "handle": "black-barberry-extract"
+  },
+  {
+    "id": "pcat_01K0X9GSRMSK6VWW898SJY312Q",
+    "name": "Black Chokeberry",
+    "description": "Aronia melanocarpa, commonly known as the black chokeberry, is a sour berry with a high anthocyanin and anti-oxidant content. It is being researched for its potential health benefits.",
+    "handle": "black-chokeberry"
+  },
+  {
+    "id": "pcat_01K0X9GST4SXE532TX0X9VE1FT",
+    "name": "Black Cohosh",
+    "description": "Black Cohosh is the most popular supplement for menopause in North America, but the results of human studies are mixed. It holds some benefits for controlling hot flashes and night sweats.",
+    "handle": "black-cohosh"
+  },
+  {
+    "id": "pcat_01K0X9GSVN7J5117BQT6DCYJWC",
+    "name": "Black Currant",
+    "description": "Black currant is a nutrient-rich berry that contains high amounts of vitamin C, iron, and manganese. Black currant can be consumed as a food or supplement and might have beneficial effects on immune function.",
+    "handle": "black-currant"
+  },
+  {
+    "id": "pcat_01K0X9GSX8FS045DHGSEQ02YH3",
+    "name": "Black Garlic Extract",
+    "description": "Black garlic extract is made from raw garlic that has been exposed to low heat and humidity to alter its taste, color, and structure in a process known as the Maillard reaction. The extract contains high levels of antioxidants and other essential nutrients.",
+    "handle": "black-garlic-extract"
+  },
+  {
+    "id": "pcat_01K0X9GSYVFTSKXR12818KPCQH",
+    "name": "Black Ginger",
+    "description": "Kaempferia Parviflora (Thai Ginseng) is a root plant that is touted to be an aphrodisiac and glucose support agent, with its effects on testosterone and aphrodisia relatively unresearched; it may be (slightly) erectogenic by various mechanisms.",
+    "handle": "black-ginger"
+  },
+  {
+    "id": "pcat_01K0X9GT0GE9SPPST7GH0R7FNW",
+    "name": "Black Pepper",
+    "description": "Black Pepper is a source of piperine, a molecule that does not do much on its own but can inhibit enzymes that would attack other molecules. Due to this, it is ingested alongside some supplements to increase their absorption rates and is almost always consumed with curcumin.",
+    "handle": "black-pepper"
+  },
+  {
+    "id": "pcat_01K0X9GT252ACN3CGW0H3DMXAE",
+    "name": "Black Seed",
+    "description": "“Black seed” refers to the seeds of the plant Nigella sativa, which have been harvested for their therapeutic properties for thousands of years. Current research suggests black seed has favorable effects on several aspects of cardiovascular and metabolic health and possesses anti-inflammatory, antioxidant, antimicrobial, and immune-modulating properties that may benefit a variety of conditions.",
+    "handle": "black-seed"
+  },
+  {
+    "id": "pcat_01K0X9GT3X8F5AW3SCDSVBH57S",
+    "name": "Bladderwrack",
+    "description": "Bladderwrack is a species of seaweed known as Fucus vesiculosus that serves as a foodstuff and a source of Fucoxanthin, it is though to increase the metabolism via the thyroid but that is due to fixing iodine deficiencies historically.",
+    "handle": "bladderwrack"
+  },
+  {
+    "id": "pcat_01K0X9GT5JZ8FP72Q80TZFQ5H8",
+    "name": "Boron",
+    "description": "Boron is a dietary mineral which is claimed to increase testosterone when supplemented at doses higher than from food, but research is lacking. It might as a byproduct of its anti-inflammatory effects.",
+    "handle": "boron"
+  },
+  {
+    "id": "pcat_01K0X9GT74APFXYVCPMN0YD2BW",
+    "name": "Boswellia",
+    "description": "An Ayurvedic herb also classified as a phytopharmaceutical (H15; Europe) which appears to be quite anti-inflammatory, helpful against osteoarthritis, and may help cerebral edema. Boswellia serrata appears to have preliminary evidence for anti-inflammatory joint disorders.",
+    "handle": "boswellia"
+  },
+  {
+    "id": "pcat_01K0X9GT8RHFFAW5Q8FZW695SN",
+    "name": "BPC-157",
+    "description": "BPC-157 is a synthetic peptide that is being investigated for its regenerative effects. It shows high efficacy for rats suffering toxic or surgical trauma, but there is currently little evidence that it provides benefits for people.",
+    "handle": "bpc-157"
+  },
+  {
+    "id": "pcat_01K0X9GTADNJQ30SFWNFXKPZ8H",
+    "name": "Branched-Chain Amino Acids",
+    "description": "Branched-chain amino acids (BCAAs) are three essential amino acids that are frequently supplemented because of their role in muscle growth and development. These amino acids are naturally found in dietary protein sources. Studies show that supplementation of BCAAs alone does not increase muscle growth, as all essential amino acids must be present for muscle protein synthesis to occur.",
+    "handle": "branched-chain-amino-acids"
+  },
+  {
+    "id": "pcat_01K0X9GTC27C88RRG2B712ATY6",
+    "name": "Brassaiopsis Glomerulata",
+    "description": "Brassaiopsis glomerulata is a tree growing in Vietnam that appears to have some compounds that may inhibit the aromatase enzyme; there is currently a lack of applied evidence for this plant in living systems.",
+    "handle": "brassaiopsis-glomerulata"
+  },
+  {
+    "id": "pcat_01K0X9GTDNMH45DH3RQWZAVSW7",
+    "name": "Brassinosteroids",
+    "description": "A bunch of 'plant steroid' molecules (like ecdysteroids are insect steroids) that are present in relatively high amounts in mustard; still nowhere near enough to get jacked off of mustard. Have not been shown to be effective in humans yet, remains an unexplored research field.",
+    "handle": "brassinosteroids"
+  },
+  {
+    "id": "pcat_01K0X9GTF974YNM8GW77H98PF4",
+    "name": "Bromelain",
+    "description": "Bromelain is an enzyme extracted from pineapples. It can reduce heart burn and act as a nasal decongestant.",
+    "handle": "bromelain"
+  },
+  {
+    "id": "pcat_01K0X9GTGXTJY0C8JA84ASVQYY",
+    "name": "Brown Seaweed Extract",
+    "description": "Fucoxanthin is a carotenoid found in brown seaweed that is being investigated for its fat burning abilities. It reduces fat mass, but has a time delay due to build up in fat tissue and does not stimulate the brain. Also appears healthy, but needs more corroborating evidence.",
+    "handle": "brown-seaweed-extract"
+  },
+  {
+    "id": "pcat_01K0X9GTJHM9WZMVBHRSH08C8D",
+    "name": "Bulbine Natalensis",
+    "description": "Bulbine Natalensis is a traditionally used aphrodisiac and testosterone booster in South and South-Eastern Africa; in rat studies, it appears to both be quite potent in increasing testosterone but also appears to damage organ function in a similar manner to a steroid cycle.",
+    "handle": "bulbine-natalensis"
+  },
+  {
+    "id": "pcat_01K0X9GTM62EGWYMAPED9HBWH2",
+    "name": "Burning Bush",
+    "description": "Euonymus Alatus (Gui Jeon Wu) is a traditional medicine touted to improve blood circulation and flow. It is not well studied in that regard and has no human evidence, but may reduce glucose absorption from the intestines after a meal.",
+    "handle": "burning-bush"
+  },
+  {
+    "id": "pcat_01K0X9GTNW7CJ0KC41EKCERPVG",
+    "name": "Bushman's Hat",
+    "description": "Hoodia gordonii is a small shrub (falsely said to be a cactus) that is claimed to suppress appetite. It seems the main bioactive (P57) cannot easily reach the brain to do this, and aside from failures of hoodia to suppress the appetite it may also be mildly toxic and imprudent to supplement.",
+    "handle": "bushmans-hat"
+  },
+  {
+    "id": "pcat_01K0X9GTQCY5AK1R4M90036HD0",
+    "name": "Butcher's Broom",
+    "description": "An herb more commonly known as Butcher's Broom, ruscus aculeatus is traditionally used for circulation and appears to constrict veins. This is thought to reduce pooling of blood in extremities, and the limited evidence appears to be promising.",
+    "handle": "butchers-broom"
+  },
+  {
+    "id": "pcat_01K0X9GTRZDCD4D78E2S09DERH",
+    "name": "Butea Monosperma",
+    "description": "Butea monosperma is a herb that contains a variety of methoxylated isoflavones, and some of these isoflavones (cajanin) and other bioactives such as medicarpin can preserve bone mass with a potency similar or greater than estrogen itself, although some are nonestrogenic.",
+    "handle": "butea-monosperma"
+  },
+  {
+    "id": "pcat_01K0X9GTTPBBRV4JAQSGNYKNNW",
+    "name": "Butea Superba",
+    "description": "Butea Superba (Red Kwao Krua) is a herb from Thai medicine sometimes thought to be the male equivalent of Pueraria Mirifica, a phytoestrogen known as White Kwao Krua; evidence for Butea Superba for these claims is lacking.",
+    "handle": "butea-superba"
+  },
+  {
+    "id": "pcat_01K0X9GTW9WYMMYRRBZ52K2GG0",
+    "name": "Butterbur",
+    "description": "Butterbur is an herb most commonly known for its use in migraine prevention. However, this herb has fallen out of favor due to the risk of liver toxicity in commercial formulations.",
+    "handle": "butterbur"
+  },
+  {
+    "id": "pcat_01K0X9GTXXEVHH8D7D2P28NNEW",
+    "name": "Butterfly Pea",
+    "description": "A subtle brain boosting herb from Ayurveda known as Shanka Pushpi that has mechanisms and traditional usage similar to Bacopa Monnieri but, unlike Bacopa, does not currently have any human interventions to test its efficacy.",
+    "handle": "butterfly-pea"
+  },
+  {
+    "id": "pcat_01K0X9GTZHSDNEXR3MHVK5SX8C",
+    "name": "Caesalpinia Benthamiana",
+    "description": "Caesalpinia benthamiana is an African herb used for the treatment of erectile dysfunction. While research into this herb is beyond preliminary, it appears to be quite a potent aphrodisiac and may increase levels of nitric oxide production.",
+    "handle": "caesalpinia-benthamiana"
+  },
+  {
+    "id": "pcat_01K0X9GV18BPJRD7P963DHPDC1",
+    "name": "Caffeine",
+    "description": "Caffeine is a central nervous system stimulant that can improve sports performance and aspects of cognitive function. Caffeine or caffeine-containing beverages are often taken to help restore alertness and wakefulness or to reduce drowsiness. Despite its side effects, caffeine is safe for most people, and caffeine-containing beverages like tea and coffee are socially acceptable and widely used.",
+    "handle": "caffeine"
+  },
+  {
+    "id": "pcat_01K0X9GV2XW4FT8HRP2T9KEKP2",
+    "name": "Calcium",
+    "description": "Calcium is a dietary macromineral found in high amounts in dairy products, and to a lesser extent in vegetables. Used primarily to support bone health, calcium also has a role in maternal and cardiovascular health.",
+    "handle": "calcium"
+  },
+  {
+    "id": "pcat_01K0X9GV4GYYW6DQTRK8DQM4RB",
+    "name": "Calcium Caseinate",
+    "description": "Calcium caseinate is a type of milk protein derived from casein. It is highly soluble and is commonly used in food preparation or as a stabilizer in processed foods.",
+    "handle": "calcium-caseinate"
+  },
+  {
+    "id": "pcat_01K0X9GV67FNXGJ6TWPXS232R7",
+    "name": "Calcium-D-Glucarate",
+    "description": "Calcium-D-Glucarate is a β-glucuronidase inhibitor that promotes the excretion of any molecule in a specific detoxification pathway. It has shown efficacy at very high (impractical) oral doses in reducing cancer induced by these compounds, but may also reduce all steroid hormones as well.",
+    "handle": "calcium-d-glucarate"
+  },
+  {
+    "id": "pcat_01K0X9GV7R4QG1GEC18WNP0TXH",
+    "name": "Calendula Officinalis",
+    "description": "Topical calendula may help wounds heal faster, possibly by increasing blood flow and oxygen to the affected area. Oral calendula has been used to reduce inflammation associated with fever and radiotherapy-induced dermatitis.",
+    "handle": "calendula-officinalis"
+  },
+  {
+    "id": "pcat_01K0X9GV9D0QBTEAQZZPH8E5D5",
+    "name": "California Poppy",
+    "description": "California Poppy is an herb that has some bioactive alkaloids which may be nootropic or cognitive enhancing in nature; It is currently in the exploratory stages of research.",
+    "handle": "california-poppy"
+  },
+  {
+    "id": "pcat_01K0X9GVB1CCJ3GAMBZWBTHJM5",
+    "name": "Cangfu Daotan Decoction",
+    "description": "Cangfu Daotan Decoction — also known as Changbudodam-tang — is a Traditional Chinese Medicine commonly used to treat infertility.",
+    "handle": "cangfu-daotan-decoction"
+  },
+  {
+    "id": "pcat_01K0X9GVCMEYC2J2NX53XP2RWC",
+    "name": "Cannabidiol (CBD)",
+    "description": "Like THC, CBD is a cannabinoid (a compound in cannabis). Unlike THC, CBD won’t get you high, but it shows promise as a treatment for epilepsy, anxiety, depression, pain, inflammation, cancer, and more. Unfortunately, as of 2022, human trials are still few.",
+    "handle": "cbd"
+  },
+  {
+    "id": "pcat_01K0X9GVE5ZD7GS6PKXG77H88B",
+    "name": "Cannabis",
+    "description": "Cannabis is the common name and genus for a few plants used around the world due to their psychoactive properties. Its major component, known as THC, possesses acute benefits but is subject to rapid tolerance. Additionally, nonpsychoactive components like CBD may have chronic benefits. While therapeutic, particularly for pain relief, the plant is not a panacea.",
+    "handle": "cannabis"
+  },
+  {
+    "id": "pcat_01K0X9GVFSNQXRF0FGQ1MBSDDS",
+    "name": "Capsaicin",
+    "description": "Capsaicin is a molecule found in hot peppers that creates the sensation of spiciness by activating the heat receptor TRPV1. Ingestion of capsaicin may improve exercise performance, but it appears mostly ineffective for fat loss. When applied topically, capsaicin can reduce pain.",
+    "handle": "capsaicin"
+  },
+  {
+    "id": "pcat_01K0X9GVHAA0BK3JTR2X6G2TCZ",
+    "name": "Capsicum Carotenoids",
+    "description": "Carotenoids that are common to Capsicum foods like red peppers, and tend to co-exist alongside Capsaicin; not too bioactive, but appear to be potent P-glycoprotein inhibitors and may increase bioavailability of other supplements.",
+    "handle": "capsicum-carotenoids"
+  },
+  {
+    "id": "pcat_01K0X9GVJYE79MF6XNGXVTD5W7",
+    "name": "Caralluma Fimbriata",
+    "description": "Caralluma Fimbriata is a certain species of the Caralluma genus that appears to have historical usage as a famine food, appetite suppressant, and thirst quencher when the vegetables are boiled and salted. Research is preliminary, but seems to validate these claims.",
+    "handle": "caralluma-fimbriata"
+  },
+  {
+    "id": "pcat_01K0X9GVMGKJYGHEBNJ32VHNS4",
+    "name": "Carnosine",
+    "description": "Carnosine, a protein made up of the amino acids beta-alanine and L-histidine, is present in high amounts in the brain, the heart, the gastrointestinal tract, and skeletal muscle. Supplementing with carnosine is often used to improve muscle strength and exercise performance.",
+    "handle": "carnosine"
+  },
+  {
+    "id": "pcat_01K0X9GVP13JBM1RBY5HHF2R47",
+    "name": "Casein",
+    "description": "Casein is a type of protein found in milk, and it makes up around 80% of the proteins in cow’s milk. Casein is sometimes called a slow-digesting protein because it forms a gel in the stomach and therefore takes longer to digest than whey protein.",
+    "handle": "casein-protein"
+  },
+  {
+    "id": "pcat_01K0X9GVQN993Z0CJA4TEJWJRW",
+    "name": "Cat's Claw",
+    "description": "Uncaria Tomentosa (Cat's Claw) is an Amazonian vine that has been traditionally recommended for antiinflammatory and fatigue syndromes.",
+    "handle": "cats-claw"
+  },
+  {
+    "id": "pcat_01K0X9GVS96W7F3E8BEJ9K5XX5",
+    "name": "Cat's Whiskers",
+    "description": "Orthosiphon stamineus (Java or Cat's Whiskers) is a plant whose leaves make a health tea, used mostly for its antiinflammatory and urinary health properties. It appears to be a large source of both rosmarinic acid and methylated flavonoids.",
+    "handle": "cats-whiskers"
+  },
+  {
+    "id": "pcat_01K0X9GVTX9AR9GMF6Q9AAHZDW",
+    "name": "CDP-Choline",
+    "description": "Cytidinediphosphocholine (CDP-choline; citicoline) is a nootropic compound that converts to both choline and cytidine upon ingestion, the latter of which converts into uridine in the body. It appears to confer cognitive-promoting properties as a prodrug for these two compounds.",
+    "handle": "cdp-choline"
+  },
+  {
+    "id": "pcat_01K0X9GVWDMASJXKGR4SDP1T3P",
+    "name": "Celastrus Paniculatus",
+    "description": "Celastrus paniculatus is a plant, the seeds of which are used to improve cognition. Preliminary evidence suggests it is also a potent intestinal relaxant.",
+    "handle": "celastrus-paniculatus"
+  },
+  {
+    "id": "pcat_01K0X9GVY01TSTE60EKPGAZZPW",
+    "name": "Celery Seed Extract",
+    "description": "Celery seed oil is a supplement containing a high amount of volatile compounds known as phthalides. These compounds as well as the major component Sedanolide appear to have general antioxidative properties and have traditionally been used as a diuretic.",
+    "handle": "celery-seed-extract"
+  },
+  {
+    "id": "pcat_01K0X9GVZGDB6HZRYJSWYR9ZTE",
+    "name": "Centrophenoxine",
+    "description": "Centrophenoxine is to DMAE like Alpha-GPC is to Choline, an option that is better absorbed since the active molecule is bound to an absorption enhancer. Centrophenoxine carries the benefits of DMAE, and may boost cognition in the elderly.",
+    "handle": "centrophenoxine"
+  },
+  {
+    "id": "pcat_01K0X9GW186H891BG7NZB8ZX9J",
+    "name": "Chaga",
+    "description": "Chaga, also known as Inonotus obliquus, is a mushroom commonly used as a dietary supplement. There are claims that it has beneficial effects on immune function and cancer prevention. However, these claims are limited to in vitro (studies done in petri dishes or test tubes) and animal studies, as there is only one study in humans.",
+    "handle": "chaga"
+  },
+  {
+    "id": "pcat_01K0X9GW93PPE4QYJQ7KETYM33",
+    "name": "Chaihu Longgu Muli Decoction",
+    "description": "Chaihu longgu muli decoction is an herbal formulation used in Traditional Chinese Medicine for the treatment of insomnia and certain psychiatric illnesses.",
+    "handle": "chaihu-longgu-muli-decoction"
+  },
+  {
+    "id": "pcat_01K0X9GWAPN3W41QPMXB5NB6R7",
+    "name": "Charcoal",
+    "description": "Charcoal (activated charcoal) is a fine black powder that is often taken as a supplement or added to food products. While little research has been done on charcoal, it is purported to benefit cholesterol, gastrointestinal health, kidney health, and teeth whitening.",
+    "handle": "charcoal"
+  },
+  {
+    "id": "pcat_01K0X9GWC9A6NT2TW8A9YGPMAE",
+    "name": "Chaste Tree",
+    "description": "Vitex agnus-castus, also called Chaste Tree, is a flowering plant often used to alleviate premenstrual syndrome.",
+    "handle": "chaste-tree"
+  },
+  {
+    "id": "pcat_01K0X9GWDTV5ZH5BVBA94R7VXV",
+    "name": "Cherry Extract",
+    "description": "Cherry extract is a supplement made from tart cherries that contains high levels of antioxidants. The extract is often used to improve sleep, promote muscle recovery from exercise, and reduce inflammation and muscle soreness.",
+    "handle": "cherry-extract"
+  },
+  {
+    "id": "pcat_01K0X9GWFBRHSRY7W26P1DJFAT",
+    "name": "Chia Seeds",
+    "description": "Salvia hispanica (Chia) are seeds commonly used to supplement dietary fiber and are claimed to have other health promoting properties. Its mechanical properties may provide use during baking and the fiber content good for bowel health with health promoting effects not yet demonstrated.",
+    "handle": "chia-seeds"
+  },
+  {
+    "id": "pcat_01K0X9GWGXCVY18GGPB6KN4ZVZ",
+    "name": "China Rose",
+    "description": "Hibiscus rosasinensis (China Rose) is a flower that has traditionally been used for hair growth and for the treatment of stomach ulcers. It has general antioxidant properties, but is otherwise underresearched.",
+    "handle": "china-rose"
+  },
+  {
+    "id": "pcat_01K0X9GWJHGE81AS8S383KGF8J",
+    "name": "Chinese Hawthorn",
+    "description": "Crataegus pinnatifida, also known as Chinese hawthorn, is a berry that is being investigated for its anti-inflammatory and anti-allergy effects.",
+    "handle": "chinese-hawthorn"
+  },
+  {
+    "id": "pcat_01K0X9GWM45GZEQH68MDB340Q8",
+    "name": "Chinese Juniper",
+    "description": "Juniperus chinensis is a plant with folklore but no proven medical uses; is an effective insect repellant. It may have protective effects against colon cancer, and the lone rat study assessing glucose tolerance noted fairly remarkable anti-diabetic effects.",
+    "handle": "chinese-juniper"
+  },
+  {
+    "id": "pcat_01K0X9GWNQ2WJHK64FM2EG2C37",
+    "name": "Chinese Sweet Leaf",
+    "description": "Rubus suavissimus (Chinese sweet leaf) is a plant whose leaves are used to brew a sweetened tea, and it is currently thought to be a decent weight loss aid in part due to suppressing the formation of body fat and in part due to its sweetness helping with food cravings.",
+    "handle": "chinese-sweet-leaf"
+  },
+  {
+    "id": "pcat_01K0X9GWQ85ZF253B9RBE5J65Q",
+    "name": "Chitosan",
+    "description": "Chitosan is a fibrous compound derived from the protein chitin, which is found in the hard outer shells of crustaceans and in some types of fungi. Chitosan has primarily been studied for its ability to lower cholesterol.",
+    "handle": "chitosan"
+  },
+  {
+    "id": "pcat_01K0X9GWRVXXS8A673C60ZJ81A",
+    "name": "Chlorella",
+    "description": "Chlorella is a freshwater green alga commonly used as a plant-based source of vitamin B12 for vegans and vegetarians. It’s a rich source of micronutrients and may have benefits for cardiometabolic health, immune function, pregnancy, and exercise performance.",
+    "handle": "chlorella"
+  },
+  {
+    "id": "pcat_01K0X9GWTDSXPPZ60FT519DZRT",
+    "name": "Chlorogenic Acid",
+    "description": "Chlorogenic acid is found in coffee mostly and a lot of plant compounds; it holds promise in many aspects of health and cognition similar to bioflavonoids and shares some effects similar to caffeine but less potent. May decrease the absorption of dietary carbohydrate.",
+    "handle": "chlorogenic-acid"
+  },
+  {
+    "id": "pcat_01K0X9GWW1VEZTB03TMKYDS7X5",
+    "name": "Chlorophyll",
+    "description": "Chlorophyll is the most abundant pigment on Earth, and is responsible for creating the green color in plants and algae. Despite years of use as a dietary supplement, there is very little human clinical research exploring the potential benefits of chlorophyll. In vitro and animal research suggest that chlorophyll and its derivatives may possess antioxidant, anti-inflammatory, and anti-cancer properties.",
+    "handle": "chlorophyll"
+  },
+  {
+    "id": "pcat_01K0X9GWXJ0FM7PY4PAR4G1S86",
+    "name": "Choline",
+    "description": "Choline is an essential nutrient present mainly in animal foods like eggs, meat, poultry, and dairy. Choline is the precursor to the neurotransmitter acetylcholine. During pregnancy, choline is crucial for healthy fetal neurodevelopment, and higher choline intakes are associated with better cardiovascular health, cognitive function, and skeletal muscle function.",
+    "handle": "choline"
+  },
+  {
+    "id": "pcat_01K0X9GWZ8A05E9A4XEGSSEYS4",
+    "name": "Chondroitin",
+    "description": "Chondroitin is a naturally occurring glycosaminoglycan that is present in cartilage. It is frequently taken with glucosamine to help with joint pain and other symptoms of osteoarthritis.[2]",
+    "handle": "chondroitin"
+  },
+  {
+    "id": "pcat_01K0X9GX0W21A7GZ8GTR47PGMK",
+    "name": "Chromium",
+    "description": "Chromium is a mineral that occurs naturally in the earth’s crust and is found in small amounts in a variety of foods. Chromium supplementation seems to enhance the effects of insulin in the body, leading to improvements in insulin sensitivity and blood sugar regulation in people with insulin resistance. Although chromium has historically been considered an essential nutrient for the human body, current evidence challenges this notion.",
+    "handle": "chromium"
+  },
+  {
+    "id": "pcat_01K0X9GX2ERN6X1Z832ABRMEHZ",
+    "name": "Chrysin",
+    "description": "A flavonoid compound found in bee pollen and propolis. Can boost testosterone when injected into testicles; otherwise isn't absorbed at all. Unless better absorption arises, chrysin remains a pretty interesting colon cancer preventative agent that does not boost testosterone.",
+    "handle": "chrysin"
+  },
+  {
+    "id": "pcat_01K0X9GX41J30C9CR95NAJRJ8Y",
+    "name": "Cinnamon",
+    "description": "Cinnamon is a blend of nutrients commonly used a spice. It can help regulate glucose metabolism in diabetic people, but may also possess some toxic components.",
+    "handle": "cinnamon"
+  },
+  {
+    "id": "pcat_01K0X9GX5P358BV4B1SSWC7FVW",
+    "name": "Cissus Quadrangularis",
+    "description": "Cissus quadrangularis is a traditional medicine for joint and bone health (as well as various feminine disorders and menopause), and shows promise in promoting bone growth rates. It is popular as a joint aid for athletes, with preliminary evidence supporting this property of cissus.",
+    "handle": "cissus-quadrangularis"
+  },
+  {
+    "id": "pcat_01K0X9GX789YST5AGF1XN6YFBK",
+    "name": "Citric Acid",
+    "description": "Citric Acid is an intermediate in the Krebs Cycle, and technically crucial for cellular functioning and energy production. Its usage in supplements includes useful things like being bound to minerals (such as Calcium Citrate or Magnesium Citrate) to increase water solubility.",
+    "handle": "citric-acid"
+  },
+  {
+    "id": "pcat_01K0X9GX8WAE89ZJPH58SQNKRE",
+    "name": "Citrulline",
+    "description": "L-Citrulline, or simply just citrulline, is a nonessential amino acid. It is efficiently turned into L-arginine in the kidneys after supplementation, which makes it a good choice for increasing nitric oxide synthesis in the body.",
+    "handle": "citrulline"
+  },
+  {
+    "id": "pcat_01K0X9GXAEYJG0STYT92YHQTZS",
+    "name": "Clary Sage",
+    "description": "Salvia sclarea (Clary Sage) is a herb commonly used as an aromatic. Belonging to the Mint family of plants, the 'relaxing' effects of the aromas may be related to preliminary evidence suggesting anti-depressant effects.",
+    "handle": "clary-sage"
+  },
+  {
+    "id": "pcat_01K0X9GXC1EJ1GN1HX53D7H9VY",
+    "name": "Clove",
+    "description": "Clove (Syzygium aromaticum) is a spice that has traditional usage as an aphrodisiac as well as for dental disorders, respiratory disorders, headache, and sore throat.",
+    "handle": "clove"
+  },
+  {
+    "id": "pcat_01K0X9GXDNBMHWN97CRAE7102B",
+    "name": "Clubmoss",
+    "description": "Clubmoss (common word to refer to the Lycopodium/Huperzia genera of plants) is a collection of plants with traditional usage in promoting memory formation, and appears to have a large collection of unique alkaloids. Its main bioactive is Huperzine-A.",
+    "handle": "clubmoss"
+  },
+  {
+    "id": "pcat_01K0X9GXF9D0MZYF8DCW1ARVNB",
+    "name": "Cnidium Monnieri",
+    "description": "A pro-erectile herb from traditional Chinese medicine, Cnidium monnieri and its main bioactive known as osthole appear to have mechanisms similar to Viagra in penile tissue and the hippocampus; the influence of Cnidium monnieri on testosterone and cognition remains unexplored.",
+    "handle": "cnidium-monnieri"
+  },
+  {
+    "id": "pcat_01K0X9GXGXKTKGF4YMVDDKCK6X",
+    "name": "Cocoa Extract",
+    "description": "Cocoa extract is a bitter mixture with a chocolate taste, made up of xanthine molecules (theobromine and caffeine) and procyanidins. Supplementing cocoa extract may provide cardiovascular and cognitive benefits through improved blood flow and antioxidant effects.",
+    "handle": "cocoa-extract"
+  },
+  {
+    "id": "pcat_01K0X9GXJHCCY7ER013BZB2XC3",
+    "name": "Coenzyme Q10",
+    "description": "Coenzyme Q10 is a molecule found in mitochondria that has a critical role in producing energy for the body. It also plays an important role in the endogenous antioxidant system.",
+    "handle": "coenzyme-q10"
+  },
+  {
+    "id": "pcat_01K0X9GXMCYFZR0BJ59R55WB7G",
+    "name": "Coffee Pulp Extract",
+    "description": "Coffee pulp extract is a supplement made from the by-products of coffee production, including the husks, skin, and spent coffee beans. The extract is rich in polyphenols, caffeine, and other bioactive compounds.",
+    "handle": "coffee-pulp-extract"
+  },
+  {
+    "id": "pcat_01K0X9GXP06XPKVNZMQMVZHJZT",
+    "name": "Coleus Forskohlii",
+    "description": "Coleus forskohlii is an Ayurvedic herb. Extremely limited research suggests that forskolin, the plant’s main bioactive compound, may reduce intraocular pressure and asthma symptoms, increase testosterone and bone mineral density, and improve metabolic health and body composition.",
+    "handle": "coleus-forskohlii"
+  },
+  {
+    "id": "pcat_01K0X9GXY4Q82W2WBNBTACYS5Z",
+    "name": "Collagen",
+    "description": "Collagen is the most abundant protein in the body and plays a role in the structures of the skin, cartilage, bones, and connective tissues. Collagen is often taken as a supplement to promote skin health, bone health, and healthy joints.",
+    "handle": "collagen"
+  },
+  {
+    "id": "pcat_01K0X9GXZTM91HE6AFQ1X2YCZA",
+    "name": "Colostrum",
+    "description": "Colostrum, also known as first milk, is a mammary secretion produced by cows and related animals. The results of supplementation are similar to supplementing whey protein, though colostrum may offer some unique benefits for the immune and digestive systems.",
+    "handle": "colostrum"
+  },
+  {
+    "id": "pcat_01K0X9GY1CGEJJDQ83KY8BQP98",
+    "name": "Coluracetam",
+    "description": "Coluracetam (MKC-231) is a racetam drug purported to be a cognitive enhancing drug. It is able to preserve choline uptake into neurons when they are otherwise impaired, but currently there is no evidence for inherent nootropic effects.",
+    "handle": "coluracetam"
+  },
+  {
+    "id": "pcat_01K0X9GY2Y6F116AE4ZENRGR26",
+    "name": "Conjugated Linoleic Acid",
+    "description": "CLAs are fatty acids that acts on a system known as PPAR to induce fat loss. At least, that is what the theory says. CLA too weakly affects PPAR receptors to really induce fat loss in an appreciable amount. TTA appears more promising.",
+    "handle": "conjugated-linoleic-acid"
+  },
+  {
+    "id": "pcat_01K0X9GY4FNPPH67NM8BFS7DP1",
+    "name": "Convolvulus Pluricaulis",
+    "description": "Convolvulus pluricaulis is one of four herbs referred to as Shankhapushpi in Ayurveda, and is traditionally used for its cognitive promiting and nootropic effects. It appears to have efficacy in animals.",
+    "handle": "convolvulus-pluricaulis"
+  },
+  {
+    "id": "pcat_01K0X9GY64BE3EJJAFZ3NEBQEX",
+    "name": "Copper",
+    "description": "Copper is an essential mineral for antioxidative enzymes in the human body. While vital, it appears to be sufficient in the human diet and water supply with little evidence concerning its usefulness as a supplement. Excess copper is involved in some cases of Alzheimer's.",
+    "handle": "copper"
+  },
+  {
+    "id": "pcat_01K0X9GY7SYQ3X7XBNQQ6JYFWT",
+    "name": "Cordyceps",
+    "description": "Cordyceps is a mushroom used in Traditional Chinese Medicine that is touted to be anti-aging and pro-vitality; these quite vague claims have not yet been evaluated in human interventions. It can regulate testicular testosterone production, but has complex mechanisms.",
+    "handle": "cordyceps"
+  },
+  {
+    "id": "pcat_01K0X9GY9DYT9VY410EVGAV65W",
+    "name": "Cotton Seed",
+    "description": "Gossypium herbaceum is a species of cotton native to sub-Saharan Africa and Arabia, where it grows as a shrub or shrub-like plant. While the cotton lint it produces is used for textiles, it is also a medicinal plant traditionally used to treat a variety of conditions, such as hemorrhages, gastrointestinal issues, headaches, menstrual irregularities, and insufficient lactation.",
+    "handle": "cotton-seed"
+  },
+  {
+    "id": "pcat_01K0X9GYB1X6XSVTNMV4409QC4",
+    "name": "Creatine",
+    "description": "Creatine is among the most well-studied and effective supplements for improving exercise performance. It does this mainly by increasing energy availability during high-intensity activity. Creatine may also provide cognitive and mental health benefits in some contexts.",
+    "handle": "creatine"
+  },
+  {
+    "id": "pcat_01K0X9GYCHPN1PAS8TEBC0PT7Q",
+    "name": "Creatinol O-Phosphate",
+    "description": "Creatinol O-Phosphate (COP) is a creatine analogue synthesized for the treatment of heart complications. It appears to protect cardiac cells at 3g injections, but does not have sufficient evidence for oral consumption.",
+    "handle": "creatinol-o-phosphate"
+  },
+  {
+    "id": "pcat_01K0X9GYE580TCWR7J6TD5BYEX",
+    "name": "Cucurbita Pepo",
+    "description": "Cucurbita pepo is a plant which has variants called pumpkin, squash, zucchini, and gourds; it is sometimes called pumpkin extract (either a water extract or seed oil) and appears to be a phytopharmaceutical for prostate disorders.",
+    "handle": "cucurbita-pepo"
+  },
+  {
+    "id": "pcat_01K0X9GYFP1PTQ3TBCQ6G1TC0H",
+    "name": "Curcumin",
+    "description": "Curcumin is the primary bioactive substance in turmeric. It has anti-inflammatory properties and can alleviate symptoms of depression as well as improve pain and function in people with osteoarthritis.",
+    "handle": "curcumin"
+  },
+  {
+    "id": "pcat_01K0X9GYHASMFB0J5YB8EBKGNH",
+    "name": "Cyanidin",
+    "description": "Cyanidin is one of the six Anthocyanin subsets, and its glucoside Cyanidin-3-Glucoside (C3G) has been garnering attention for its ability to decrease blood glucose levels, and its ability to not hinder muscle protein synthesis at the same time (downstream of AMPK activation).",
+    "handle": "cyanidin"
+  },
+  {
+    "id": "pcat_01K0X9GYJYCFY90Y3B18MCE37T",
+    "name": "Cyanocobalamin (Vitamin B12)",
+    "description": "Vitamin B12 is an essential water-soluble vitamin that plays a role in neurological function and is important for DNA synthesis.",
+    "handle": "vitamin-b12"
+  },
+  {
+    "id": "pcat_01K0X9GYMHQAXSF52ZB1SGXQS9",
+    "name": "D-Aspartic Acid",
+    "description": "D-aspartic acid is an amino acid synthesized in the body and obtained through protein-containing foods or a dietary supplement. It may play a role in reproductive function and fertility.",
+    "handle": "d-aspartic-acid"
+  },
+  {
+    "id": "pcat_01K0X9GYP5HS745MRNYBWDN8C4",
+    "name": "D-Ribose",
+    "description": "D-ribose is a pentose sugar that plays a role in the production of energy intermediates, DNA, and RNA. It is due to this reasoning that D-ribose is investigated in instances where ATP concentrations (relative to total nucleotides) seem to be reduced, namely cardiac insults and prolonged physical exercise.",
+    "handle": "d-ribose"
+  },
+  {
+    "id": "pcat_01K0X9GYQSR7SWQHEX4QYPC53W",
+    "name": "D-Serine",
+    "description": "D-Serine is an amino acid that plays a role in cognitive enhancement and schizophrenia treatment.",
+    "handle": "d-serine"
+  },
+  {
+    "id": "pcat_01K0X9GYSD0X67V0F63CYSWY2N",
+    "name": "Dactylorhiza Hatagirea",
+    "description": "Dactylorhiza hatagirea is an ayurvedic sexual stimulant. There is very limited evidence on this reported tonic, and preliminary studies into its activities have confirmed a libido enhancing and possible testosterone boosting effect in rats.",
+    "handle": "dactylorhiza-hatagirea"
+  },
+  {
+    "id": "pcat_01K0X9GYV10VF528RBDVK7CDF4",
+    "name": "Damiana Leaf",
+    "description": "Damiana Leaf is a part of the Tunera Diffusa plant which is traditionally used as an aphrodisiac and physical tonic. Not much evidence on this plant, but may be slightly effective in rat models of aphrodisia when coupled with fatigue.",
+    "handle": "damiana-leaf"
+  },
+  {
+    "id": "pcat_01K0X9GYWNW9BAGG0HCD8SE6GX",
+    "name": "Dandelion",
+    "description": "Taraxacum officinale, also known as dandelion, is a vegetable occasionally used as a salad green. Dandelion has a diuretic effect when ingested. It is a good source of potassium.",
+    "handle": "dandelion"
+  },
+  {
+    "id": "pcat_01K0X9GYY90241R446YSZ98TMF",
+    "name": "Dang Shen",
+    "description": "Codonopsis Pilosula (Dangshen) is a herb that has historically been used as a cheap replacement for Panax Ginseng which was costly. Dangshen may have cognitive boosting capacities on its own, but is quite understudied.",
+    "handle": "dang-shen"
+  },
+  {
+    "id": "pcat_01K0X9GYZWWZE6ZNJW74FQG78C",
+    "name": "Danshen",
+    "description": "Salvia miltiorrhiza (Danshen) is a Traditional Chinese Medicine used for circulatory and heart health; it appears to be somewhat effective at this claim and is one of the best selling Chinese Medicines for heart health.",
+    "handle": "danshen"
+  },
+  {
+    "id": "pcat_01K0X9GZ1MBEKGPCRDXC9G16AS",
+    "name": "Date Palm Pollen",
+    "description": "Date palm pollen is a supplement that contains several bioactive compounds, including amino acids, fatty acids, flavonoids, and sterols. The pollen is commonly used to improve libido and increase fertility.",
+    "handle": "date-palm-pollen"
+  },
+  {
+    "id": "pcat_01K0X9GZ39MTFZBTCRRHRT15P5",
+    "name": "Dendrobium",
+    "description": "Dendrobium is a family of plants (well over 200 commonly used) that has a history of medicinal usage in East Asia. The bioactivities vary depending on species, but it appears many cater towards reducing inflammation and as a digestive aid.",
+    "handle": "dendrobium"
+  },
+  {
+    "id": "pcat_01K0X9GZ4XE5M8HFZ9PH24NPH7",
+    "name": "Devil's Claw",
+    "description": "Harpagophytum Procumbens (Devil's Claw) is a tuber that has traditional usage for musculoskeletal disorders, pain relief, and appetite stimulation; it appears to have preliminary evidence for its benefits to osteoarthritis and pain.",
+    "handle": "devlis-claw"
+  },
+  {
+    "id": "pcat_01K0X9GZ6GXZDVP44P2093F2ZJ",
+    "name": "DHEA",
+    "description": "DHEA is a steroid hormone produced by the adrenal glands. It’s a precursor to (i.e., is made into) estrogen and testosterone, and can exert weak benefits on its own. As an “antiaging” or performance enhancing supplement, its benefits are inconsistent.",
+    "handle": "dhea"
+  },
+  {
+    "id": "pcat_01K0X9GZ81MJKME90V4860PCZY",
+    "name": "Dihydroberberine",
+    "description": "Dihydroberberine is a form of berberine, but with a higher bioavailability and lower risk of gastric distress. Like berberine, dihydroberberine is commonly taken to promote blood glucose regulation.",
+    "handle": "dihydroberberine"
+  },
+  {
+    "id": "pcat_01K0X9GZ9MBDHHKZ12HCDAQCMX",
+    "name": "Dill",
+    "description": "Anethum graveolens (Dill) is a vegetable whose fruits (not commonly eaten) have traditionally been used for intestinal and feminine health. Limited evidence suggests improved glycemic control and lower LDL-C in people with metabolic disorders, but most therapeutic usages are still unexplored.",
+    "handle": "dill"
+  },
+  {
+    "id": "pcat_01K0X9GZB895RVJDMKZ4C6KN2X",
+    "name": "DIM",
+    "description": "Diindolylmethane (DIM) is a molecule which is named after its structure, two indole groups attached to a methane group. It is commonly found in broccoli, and holds promise as being a molecule for anti-cancer effects and as an aromatase inhibitor.",
+    "handle": "dim"
+  },
+  {
+    "id": "pcat_01K0X9GZCXW48VG34CBTAJFM5D",
+    "name": "DMAE",
+    "description": "DMAE is a choline molecule with one less methyl group, and has the ability to reduce build-up of the age pigmentation known as beta-amyloid. It is the active component of Centrophenoxine, or Lucidril, a pharmaceutical designed for cognitive health in the elderly.",
+    "handle": "dmae"
+  },
+  {
+    "id": "pcat_01K0X9GZEG5XMA3JRJ3FTR8YWW",
+    "name": "Docosahexaenoic Acid",
+    "description": "Docosahexaenoic acid (DHA) is an omega-3 fatty acid found in fatty fish and some types of seaweed. DHA is often taken as a supplement in the form of fish oil to improve cardiovascular health and brain health.",
+    "handle": "docosahexaenoic-acid"
+  },
+  {
+    "id": "pcat_01K0X9GZGDETEQYGBKNGMMY129",
+    "name": "Dong Quai",
+    "description": "Angelica gigas is an herb used in traditional Korean medicine, usually by women. It is being studied for its potential anti-cancer and immune-boosting properties.",
+    "handle": "dong-quai"
+  },
+  {
+    "id": "pcat_01K0X9GZHR2RAM7Q4E37251QZ8",
+    "name": "Dwarf Morning Glory",
+    "description": "Evolvulus alsinoides is one of four herbs referred to as Shankhapushpi and is traditionally used in Ayurveda for nootropic and psychotropic effects. It appears to enhance learning in otherwise normal rodents with comparable potency to Piracetam.",
+    "handle": "dwarf-morning-glory"
+  },
+  {
+    "id": "pcat_01K0X9GZKCVY3N94962WK6F1WJ",
+    "name": "East Indian Globe Thistle",
+    "description": "Sphaeranthus indicus (also known as East Indian Globe Thistle) is a herb with a wide range of reported benefits but minimal research on it. Some studies suggest it to be a potent immunomodulatory and anti-diabetic agent; otherwise under-researched.",
+    "handle": "east-indian-globe-thistle"
+  },
+  {
+    "id": "pcat_01K0X9GZMZWFB03VCFGFP3JRGA",
+    "name": "ECA",
+    "description": "ECA stands for Ephedrine, Caffeine and Aspirin; these compounds were found to be synergistic for fat loss, and isolating ephedrine from the Ephedra sinicus plant and putting it into ECA appears to be quite an effective method of fat loss and neural stimulation.",
+    "handle": "eca"
+  },
+  {
+    "id": "pcat_01K0X9GZPNAVF587AF2G29SJDY",
+    "name": "Ecdysteroids",
+    "description": "Ecdysteroids are a type of steroid hormone found in arthropods, where they are responsible for reproduction and molting. Evidence for the use of ecdysteroids in humans is lacking, but they are often used to improve athletic performance and to stimulate muscle growth and are purported to have multiple other health benefits.",
+    "handle": "ecdysteroids"
+  },
+  {
+    "id": "pcat_01K0X9GZR9T98V6GM53WQVB4YW",
+    "name": "Echinacea",
+    "description": "Echinacea purpurea is an herb commonly used either in response to or daily for prevention of the common cold. It outperforms placebo unreliably and the amount of benefit derived is similarly unreliable.",
+    "handle": "echinacea"
+  },
+  {
+    "id": "pcat_01K0X9GZSXFQH734TGEG4QQ9KV",
+    "name": "Ecklonia Cava",
+    "description": "Ecklonia Cava is a brown seaweed with a rich polyphenolic content (this particular subset being known as eckols or phlorotannins) that confers anti-oxidant properties, it is being investigated for health properties.",
+    "handle": "ecklonia-cava"
+  },
+  {
+    "id": "pcat_01K0X9GZVGA90XNDQ2WGDR9WY2",
+    "name": "Elderberry",
+    "description": "Elderberry (Sambucus spp., especially S. nigra) is a fairly ubiquitous fruit that is known on most continents. Elderberry is best known for its antiviral, antioxidant, and anti-inflammatory uses, though it enjoys a broad variety of traditional and cultural applications.",
+    "handle": "elderberry"
+  },
+  {
+    "id": "pcat_01K0X9GZX5945PQ6E5CDNPRC72",
+    "name": "Electric Nerve Stimulation",
+    "description": "Electric nerve stimulation, also known as transcutaneous electric nerve stimulation (TENS), is the use of low-voltage electrical currents on the skin to stimulate nerves involved in pain perception. It’s often used to treat acute and chronic pain or promote muscle recovery.",
+    "handle": "electric-nerve-stimulation"
+  },
+  {
+    "id": "pcat_01K0X9GZYS1YWGN816QT1GJZ65",
+    "name": "Electrolytes",
+    "description": "Electrolytes are essential minerals. They include sodium, calcium, potassium, magnesium, and chloride. Electrolytes are involved in maintaining proper hydration, muscle and brain function, and nerve conduction.",
+    "handle": "electrolytes"
+  },
+  {
+    "id": "pcat_01K0X9H00DWSAG9X34MNZ484PG",
+    "name": "Eleuthero",
+    "description": "Eleutherococcus senticosus is an adaptogen and herb that may increase work capacity during strenuous aerobic activity. It also has anti-stress and potential immunity-boosting effects.",
+    "handle": "eleuthero"
+  },
+  {
+    "id": "pcat_01K0X9H021AXJCVHA4MKQNXT9F",
+    "name": "Ellagic Acid",
+    "description": "Ellagic acid is an antioxidant compound found in many fruits and vegetables. It can also be supplemented. Its antioxidant properties may provide benefits in the context of inflammation, cancer, type 2 diabetes, and certain brain diseases.",
+    "handle": "ellagic-acid"
+  },
+  {
+    "id": "pcat_01K0X9H03M202CXM094A0RTV6R",
+    "name": "Emollients",
+    "description": "Emollients are ointments, creams, and lotions that are used to soften and soothe dry, rough, or flaky skin. While emollients contain oily substances that coat the skin to prevent the loss of moisture, they should not be confused with skin moisturizers.",
+    "handle": "emollients"
+  },
+  {
+    "id": "pcat_01K0X9H058FCQ3QT67BEXVRDYK",
+    "name": "Ephedrine",
+    "description": "Ephedrine is one of the four active components of the herb Ephedra. It is able to induce fat loss via increasing the amount of fat available for fuel as well as by increasing heat expenditure. It has been implicated in increasing the metabolic rate by up to 5% in humans. It has also been noted to cause serious side-effects in some instances, and its legal status varies by region.",
+    "handle": "ephedrine"
+  },
+  {
+    "id": "pcat_01K0X9H06W87SFQRJ9FAHN45XP",
+    "name": "Epigallocatechin Gallate",
+    "description": "Epigallocatechin gallate (EGCG) is a type of plant polyphenol found primarily in Green Tea, Green Tea Extract, and certain fruits and nuts. EGCG acts as an antioxidant in the body and may provide potential benefits for inflammation, weight loss, cardiovascular health, and brain health.",
+    "handle": "epigallocatechin-gallate"
+  },
+  {
+    "id": "pcat_01K0X9H08HFTHG4HDNYPM3Z2V9",
+    "name": "Erythropoiesis-Stimulating Agents",
+    "description": "Erythropoiesis-stimulating agents are drugs that increase the body’s production of erythropoietin (EPO). EPO is the hormone that helps create new red blood cells called erythrocytes. These agents are commonly used to treat various types of anemia (low red blood cell count).",
+    "handle": "erythropoiesis-stimulating-agents"
+  },
+  {
+    "id": "pcat_01K0X9H0A5XW8Y57525YC3QJAK",
+    "name": "Essential Amino Acid (EAA)",
+    "description": "Proteins are composed of amino acids, some of which your body can synthesize and others not. The nine you need yet cannot synthesize, and thus need to ingest, are called essential amino acids (EAAs). A protein is said to be complete when it has enough of each EAA.",
+    "handle": "essential-amino-acids"
+  },
+  {
+    "id": "pcat_01K0X9H0BSMKVGTREZYQE984T4",
+    "name": "Essential Fatty Acid (EFA)",
+    "description": "EFAs are fatty acids your body needs but cannot synthesize: you must ingest them. There are two types of EFAs: omega−3 (n−3) and omega−6 (n−6).",
+    "handle": "efa"
+  },
+  {
+    "id": "pcat_01K0X9H0DCRJ8T0RTDSDARCBVW",
+    "name": "Eucommia Bark",
+    "description": "Eucommia ulmoides is a traditional chinese medicine of which the bark is used for medicinal purposes. Although most evidence is preliminary, it has minor antiinflammatory properties may augment steroid signalling.",
+    "handle": "eucommia-bark"
+  },
+  {
+    "id": "pcat_01K0X9H0F4EKXH1K3T3H2DBXS1",
+    "name": "European Raspberry",
+    "description": "The European raspberry, commonly known as red raspberry, is a small, tart, red berry that is a rich source of antioxidants, potassium, fiber, vitamin C, manganese, and B vitamins.",
+    "handle": "european-raspberry"
+  },
+  {
+    "id": "pcat_01K0X9H0GSB9WFZJ59MJGVEZH4",
+    "name": "Evening Primrose Oil",
+    "description": "Evening primrose oil (EPO) is extracted from the seeds of the evening primrose plant and is primarily composed of the omega-6 fatty acids linoleic acid and gamma-linolenic acid. EPO may improve cervical readiness during childbirth, but most clinical trials have been small and there are safety concerns that must be considered.",
+    "handle": "evening-primrose-oil"
+  },
+  {
+    "id": "pcat_01K0X9H0JENBSEMFHN70AJM2VJ",
+    "name": "Evodia Rutaecarpa",
+    "description": "Used in Traditional Chinese Medicine to increase warmth in the body. It might burn fat, but has not really been examined. It might also decrease the perception of cold like capsaicin does, which indirectly warms you. A good berry for your oats in the winter.",
+    "handle": "evodia-rutaecarpa"
+  },
+  {
+    "id": "pcat_01K0X9H0M1N6KFXX4Z1HBEAFWZ",
+    "name": "Exogenous Ketones",
+    "description": "Exogenous ketones are supplements that put the body into a state of ketosis without the use of fasting or a ketogenic diet. Exogenous ketones come in the form of ketone esters and ketone salts and are commonly used to increase exercise performance and improve brain health.",
+    "handle": "exogenous-ketones"
+  },
+  {
+    "id": "pcat_01K0X9H0NPAK7NMASDD053N7VW",
+    "name": "Fadogia Agrestis",
+    "description": "Fadogia agrestis, also known as black aphrodisiac, is traditionally used for its purported aphrodisiac, pro-erectile, anti-malarial, and anti-fever properties. Research on this plant is scarce, with no human studies conducted to date.",
+    "handle": "fadogia-agrestis"
+  },
+  {
+    "id": "pcat_01K0X9H0Q9GQP35BP1VG4QQQN7",
+    "name": "Fang Ji",
+    "description": "Stephania tetrandra (Fang Ji) is a medicinal herb from Traditional Chinese Medicine that is sometimes used alongside Astragalus membranaceus for kidney protection and diabetes prevention; it is moderately antiinflammatory.",
+    "handle": "fang-ji"
+  },
+  {
+    "id": "pcat_01K0X9H0RX6E5RH5PDH9S25K0D",
+    "name": "Fecal Transplant",
+    "description": "A fecal transplant is a procedure in which stool is collected from a healthy donor and introduced into the gastrointestinal tract of a recipient to increase their healthy bacteria count. Fecal transplants are often used to control Clostridium difficile (C. diff) infection.",
+    "handle": "fecal-transplant"
+  },
+  {
+    "id": "pcat_01K0X9H0THST1MEACENJ75PS3E",
+    "name": "Felty Germander",
+    "description": "Teucrium polium (felty germander) is a plant used in traditional folk medicine to treat stomach and gastrointestinal issues, aid in weight loss, manage fever, and improve oral hygiene, though there is a lack of evidence to support many of these purported benefits.",
+    "handle": "felty-germander"
+  },
+  {
+    "id": "pcat_01K0X9H0W5BX63DSC2NSPTGKSD",
+    "name": "Fennel",
+    "description": "Fennel is a flowering plant often used as a seed or an herb.",
+    "handle": "fennel"
+  },
+  {
+    "id": "pcat_01K0X9H0XSBS93AG3GHA974RKY",
+    "name": "Fennel Essential Oil",
+    "description": "Fennel Essential oil is seen as a 'stimulatory' essential oil.",
+    "handle": "fennel-essential-oil"
+  },
+  {
+    "id": "pcat_01K0X9H0ZDKP7T7ZQGAS0ZRSNR",
+    "name": "Fenugreek",
+    "description": "Fenugreek is a plant supplemented for its libido enhancing and anti-diabetic effects.",
+    "handle": "fenugreek"
+  },
+  {
+    "id": "pcat_01K0X9H110X022DW4KHM21Y7QF",
+    "name": "Fermented Foods",
+    "description": "Fermented foods are foods and beverages that are produced through controlled microbial growth and enzymatic action, such as kimchi, sauerkraut, tempeh, and kefir. Fermented foods may be beneficial for gut health.",
+    "handle": "fermented-foods"
+  },
+  {
+    "id": "pcat_01K0X9H12PTAZH8882R1FF9S1J",
+    "name": "Feverfew",
+    "description": "Feverfew is an herb with anti-inflammatory properties used to prevent migraines. It is also claimed to alleviate arthritis, but more research is needed to confirm this effect.",
+    "handle": "feverfew"
+  },
+  {
+    "id": "pcat_01K0X9H14CRWTYJ222K0WE9F2H",
+    "name": "Fiber",
+    "description": "Fiber is a type of carbohydrate that the body can’t digest. It comes in two forms: soluble fiber (dissolves in water) and insoluble fiber (doesn’t dissolve in water). Fruits, vegetables, and whole grains are good sources of fiber. It can also be supplemented.",
+    "handle": "fiber"
+  },
+  {
+    "id": "pcat_01K0X9H160PBRJX8KEWCZMV20V",
+    "name": "Fish Oil",
+    "description": "Fish oil is a source of omega-3 fatty acids. It reduces triglycerides, but does not seem to affect the rate of cardiovascular events. It seems to notably reduce the symptoms of depression and improve some painful, inflammatory conditions.",
+    "handle": "fish-oil"
+  },
+  {
+    "id": "pcat_01K0X9H17NWYHHN3QKVPYJACX4",
+    "name": "Flavanols",
+    "description": "Flavanols (not to be confused with Flavonols) are a subset of a larger category of plant compounds called Flavonoids. They are commonly found in cacao products as well as teas, beans, fruits, berries, and red wine. They have antioxidant and vasodilating properties which could theoretically improve General Cardiovascular Health.",
+    "handle": "flavanols"
+  },
+  {
+    "id": "pcat_01K0X9H198XMXN4SG277JKG876",
+    "name": "Flavonols",
+    "description": "Flavonols (not to be confused with Flavanols) are plant compounds that are part of the flavonoids family and are found in many colorful fruits and vegetables as well as wine, tea, and chocolate. Flavonols may provide several health benefits due to their antioxidant and anti-inflammatory properties.",
+    "handle": "flavonols"
+  },
+  {
+    "id": "pcat_01K0X9H1AWT25QDAB147VZB7K1",
+    "name": "Flaxseed",
+    "description": "Flaxseed is the seed of the Linum usitatissimum plant and is frequently taken in the form of seeds, oil, or supplements as a source of fiber and alpha-linolenic acid (ALA). It is most often used to promote healthy blood pressure, blood glucose levels, and cholesterol levels.",
+    "handle": "flaxseed"
+  },
+  {
+    "id": "pcat_01K0X9H1CHG62AB8MXW0XDG56T",
+    "name": "Folic Acid (Vitamin B9)",
+    "description": "Folic acid is a synthetic form of folate, an essential B vitamin, found in dietary supplements and fortified foods. Folic acid reduces the risk of neural tube defects (NTDs) when used in early pregnancy, treats certain types of anemia, and reduces levels of homocysteine, the latter of which may be linked to beneficial cardiovascular effects.",
+    "handle": "folic-acid"
+  },
+  {
+    "id": "pcat_01K0X9H1E85PQ93X9GKTDXXF5S",
+    "name": "Fructose",
+    "description": "Fructose is a simple sugar, notably found in fruit and honey, that is used to sweeten processed foods. Fructose is 50% of table sugar (aka sucrose). The negative effect of fructose on the body appear to depend on concentration and whether it's a part of a hypercaloric diet.",
+    "handle": "fructose"
+  },
+  {
+    "id": "pcat_01K0X9H1FYM4PE8KJ44HQX74NH",
+    "name": "GABA",
+    "description": "GABA (gamma-aminobutyric acid) is an inhibitory neurotransmitter. Although supplementation can increase growth hormone levels, the effects are short-lived. Some research has also reported beneficial effects on sleep quality, stress, and mood. However, results have been inconsistent across studies.",
+    "handle": "gaba"
+  },
+  {
+    "id": "pcat_01K0X9H1HGKHNCWJCF1RRACPRG",
+    "name": "Gamma Oryzanol",
+    "description": "Gamma Oryzanol (γ-Oryzanol), a mixture of compounds found notably in rice bran oil, is a promising but unproven cholesterol-lowering agent with some skin health properties. It does not increase testosterone.",
+    "handle": "gamma-oryzanol"
+  },
+  {
+    "id": "pcat_01K0X9H1K4V7FDM4RHR9H1DEWA",
+    "name": "Garcinia",
+    "description": "Garcinia Cambogia is a fruit that is known to enhance the culinary experience of food, and enhances satiety from a meal (possibly by enhancing the flavor experience). Its usage as a fat burner does not appear to extend to humans.",
+    "handle": "garcinia"
+  },
+  {
+    "id": "pcat_01K0X9H1MSX581GZ1CF5YWB6FV",
+    "name": "Gelatin",
+    "description": "Gelatin is a flavorless protein derived from collagen. It is commonly used in broths, soups, sauces, desserts, and some medications. Gelatin supplements are taken to promote joint, skin, hair, and nail health.",
+    "handle": "gelatin"
+  },
+  {
+    "id": "pcat_01K0X9H1PCS1KGJGYEA8PEAZSD",
+    "name": "Genetically Modified Organisms",
+    "description": "A genetically modified organism (GMO) refers to a plant, animal, or microorganism whose genetic makeup has been modified using genetic engineering techniques. Many consumer products contain GMOs and are considered safe for human health.",
+    "handle": "genetically-modified-organisms"
+  },
+  {
+    "id": "pcat_01K0X9H1R067NP18TCXEBFN7RZ",
+    "name": "Ginkgo Biloba",
+    "description": "Ginkgo biloba is the most commonly ingested herb for brain health. While it may boost cognition in older populations, this effect is not very reliable or generalizable.",
+    "handle": "ginkgo-biloba"
+  },
+  {
+    "id": "pcat_01K0X9H1SNB30SJVVD12DT2PT9",
+    "name": "Glucosamine",
+    "description": "Glucosamine is a supplement obtained from the shell of shellfish that may slightly delay the progression of knee osteoarthritis and collagen degradation.",
+    "handle": "glucosamine"
+  },
+  {
+    "id": "pcat_01K0X9H1V9KAF3ET6A1PWHG9AE",
+    "name": "Glucuronolactone",
+    "description": "Glucuronolactone is a molecule commonly found as a component of energy drink formulations with surprisingly minimal research on it, given its societal usage.",
+    "handle": "glucuronolactone"
+  },
+  {
+    "id": "pcat_01K0X9H1WXNC17W9TM9ZR43XK3",
+    "name": "Glutamine",
+    "description": "Glutamine is an amino acid that may benefit the body when it is under a period of great physical stress, such as after surgery, burns, or radiation exposure.",
+    "handle": "glutamine"
+  },
+  {
+    "id": "pcat_01K0X9H1YHCHDB1KZNS5PD81TN",
+    "name": "Glutathione",
+    "description": "Glutathione is an antioxidant used by every cell and tissue in the body. Although critical for a number of processes, it has limited use as dietary supplement due to rapid breakdown during oral ingestion. Its metabolite, L-cysteine, can increase glutathione in the body but consuming L-cysteine via glutathione is inefficient and costly.",
+    "handle": "glutathione"
+  },
+  {
+    "id": "pcat_01K0X9H205NWHZDF5B7EBRWXYY",
+    "name": "Gluten",
+    "description": "Gluten is a protein found in wheat and related grain products. It is involved in the rising of baked goods. People with celiac disease should not consume gluten, and it may also cause issues for people with other intestinal disorders. There is not much evidence to support the idea that gluten damages healthy intestinal tracts.",
+    "handle": "gluten"
+  },
+  {
+    "id": "pcat_01K0X9H21SGCHYZKRBD63V1QF3",
+    "name": "Glycine",
+    "description": "Glycine is an amino acid and neurotransmitter. It can play both stimulatory and depressant roles in the brain. Supplementation can improve sleep quality.",
+    "handle": "glycine"
+  },
+  {
+    "id": "pcat_01K0X9H23DRPZPZE09DVPXQW37",
+    "name": "GlyNAC",
+    "description": "GlyNAC is a term that describes co-administered glycine and n-acetylcysteine. The body of research on GlyNAC is small, but preliminary evidence shows promising effects for conditions with higher levels of oxidative stress, such as type 2 diabetes, HIV, and aging.",
+    "handle": "glynac"
+  },
+  {
+    "id": "pcat_01K0X9H24ZZHBZZNA7PAVZ741T",
+    "name": "Gotu Kola",
+    "description": "Centella asiatica (Gotu Kola) is a traditional medicine mainly renowned for its cognitive enhancing properties (usually alongside bacopa monnieri) and its ability to regenerate wound healing. It appears effective on both parameters in preclinical evidence, and may also be anti-rheumatic.",
+    "handle": "gotu-kola"
+  },
+  {
+    "id": "pcat_01K0X9H26NFN2NAQ090SJYPHGF",
+    "name": "Gou-Teng",
+    "description": "Uncaria rhynchophylla (Gou-Teng or Chotoko) is an antiepileptic eastern medicine and major component of 'Yokukansan' for the treatment of agitation in elderly persons. It appears to be neuroprotective, anticonvulsive, and has antipsychotic properties like Aripiprazole.",
+    "handle": "gou-teng"
+  },
+  {
+    "id": "pcat_01K0X9H2892V2G58XHD1J3CKZA",
+    "name": "Grains Of Paradise",
+    "description": "Aframomum melegueta (Grains of Paradise) is a spice with a similar composition as Ginger that belongs to the same Zingiberaceae family. It shows some promise in fat-mass control at doses possibly consumable via food products.",
+    "handle": "grains-of-paradise"
+  },
+  {
+    "id": "pcat_01K0X9H29XWPBQ9HWZ6093C5S0",
+    "name": "Grape Seed Extract",
+    "description": "Grape Seed Extract is a mixture of tannins and procyanidins (chains of catechins) that appears to exert anti-estrogenic effects and may enhance blood flow. More related to green tea catechins than to resveratrol mechanistically.",
+    "handle": "grape-seed-extract"
+  },
+  {
+    "id": "pcat_01K0X9H2BHHJ7FK067CZ2BNT5W",
+    "name": "Green Coffee Extract",
+    "description": "Green Coffee Extract is a concentrated source of dietary Chlorogenic Acid and is currently being used for heart health and fat loss as a supplement; it seems weakly to moderately effective on these parameters.",
+    "handle": "green-coffee-extract"
+  },
+  {
+    "id": "pcat_01K0X9H2D7DTKR09VKCQBF8CT2",
+    "name": "Green Tea Extract",
+    "description": "Green Tea extract contains phytochemicals, especially catechins like epigallocatechin gallate(EGCG) and caffeine. EGCG and caffeine have been shown to synergistically influence health indices, including body composition, but the contents within green tea extracts vary among brands. Notably, adverse effects have also been reported upon consuming green tea extract.",
+    "handle": "green-tea-extract"
+  },
+  {
+    "id": "pcat_01K0X9H2F9SPV6J3HYW8FCFHC0",
+    "name": "Griffonia Simplicifolia",
+    "description": "Griffonia simplicifolia is an African shrub and a source of the compound 5-HTP. It has anxiety and appetite-reducing effects.",
+    "handle": "griffonia-simplicifolia"
+  },
+  {
+    "id": "pcat_01K0X9H2H9N4RNX8GHZNMB23S0",
+    "name": "Guarana",
+    "description": "Paullinia cupana, also known as guarana, is a seed that contains more caffeine than coffee beans. It is supplemented for its stimulatory properties.",
+    "handle": "guarana"
+  },
+  {
+    "id": "pcat_01K0X9H2KNMMRGX9H5KM4E3CYH",
+    "name": "Guduchi",
+    "description": "Tinospora cordifolia, also known as Guduchi or Amrita, is an immune system boosting herb that can potently reduce the symptoms of allergic rhinitis. It is a promising anti-cancer herb and may provide benefits for people with diabetes.",
+    "handle": "guduchi"
+  },
+  {
+    "id": "pcat_01K0X9H2NBKK3ETVMFJYQ8BQNJ",
+    "name": "Guggul",
+    "description": "Guggul is a product of the Guggul tree, Commiphora mukul. Guggul and its active guggulsterones have been investigated for their usage in elevating thyroid function, but with lacklustre results.",
+    "handle": "guggul"
+  },
+  {
+    "id": "pcat_01K0X9H2QPYVCNQ2YSRXEBSQZW",
+    "name": "Guided Imagery",
+    "description": "Guided imagery is a form of relaxation therapy or meditation that involves intentionally thinking of a peaceful place or scenario to promote a calm mind and reduce stress. Guided imagery is often used to treat anxiety, depression, chronic pain, and to improve sleep.",
+    "handle": "guided-imagery"
+  },
+  {
+    "id": "pcat_01K0X9H2SS48Y0XX4ACDY8J82Y",
+    "name": "Gymnema Sylvestre",
+    "description": "Gymnema sylvestre (GS) is a plant in the Gymnema genus of the Asclepiadaceae family. It has been used in ayurvedic medicine and homeopathy to treat multiple conditions, including arthritis, asthma, and snake bites. Today, it is most commonly used as a supplement to help regulate blood sugar levels.",
+    "handle": "gymnema-sylvestre"
+  },
+  {
+    "id": "pcat_01K0X9H2VD429T4G0X24T3ZN6B",
+    "name": "Haninjin",
+    "description": "Artemisia iwayomogi (Haninjin) has limited traditional use, but as of late is being investigated for anti-cancer properties. At least one study suggests possible fat-burning effects, and immune-system interactions may be present.",
+    "handle": "haninjin"
+  },
+  {
+    "id": "pcat_01K0X9H2X1KEJ704TYP4K98X49",
+    "name": "Haskap Berry",
+    "description": "Haskap berries are a rich source of vitamin C, vitamin A, fiber, potassium, and antioxidants. In Japan, haskap berry is called “blue honeysuckle” and is sometimes referred to as the “fruit of longevity” or the “fruit of vision.”",
+    "handle": "haskap-berry"
+  },
+  {
+    "id": "pcat_01K0X9H2YN86DBDY5BZVN2T7P2",
+    "name": "Hederagenin",
+    "description": "Hederagenin is a triterpenoid saponin similar to ones like ursolic acid, and is found in high levels in foods such as quinoa.",
+    "handle": "hederagenin"
+  },
+  {
+    "id": "pcat_01K0X9H3098ZF38WMASKXVB40Y",
+    "name": "Hemp Protein",
+    "description": "Hemp is a food product derived from the same plant of which Marijuana originates from, but without intoxicating components; the protein fragment appears to be a popular meal replacement supplement but is not yet linked to unique properties (relative to other Protein supplements).",
+    "handle": "hemp-protein"
+  },
+  {
+    "id": "pcat_01K0X9H323ARZ31QEMMJ0E05D5",
+    "name": "Hesperidin",
+    "description": "Hesperidin, found abundantly in orange peels and various citrus fruits, exhibits promising potential in reducing risk factors associated with cardiovascular disease, such as triglycerides and total cholesterol. Additionally, it appears to some have anti-inflammatory properties. While other potential benefits of hesperidin exist, further clinical studies are required to fully understand its range of effects.",
+    "handle": "hesperidin"
+  },
+  {
+    "id": "pcat_01K0X9H33N7TP3QPWYW77NB1AB",
+    "name": "Hibiscus Macranthus",
+    "description": "Hibiscus Macranthus is a herb commonly used alongside the herb Basella Alba in order to promote male fertility and increase testosterone, and this combination therapy has shown benefits in at least one rat study; overall, understudied.",
+    "handle": "hibiscus-macranthus"
+  },
+  {
+    "id": "pcat_01K0X9H359Z40379ZH5N9NRGPF",
+    "name": "Histidine",
+    "description": "Histidine is one of the nine essential amino acids humans must get from their diets. It is present in most protein-rich foods, including meat, fish, and eggs. As the only amino acid with an imidazole side chain, histidine possesses a number of unique chemical properties.",
+    "handle": "histidine"
+  },
+  {
+    "id": "pcat_01K0X9H36V35E2FKD55Q2PT63W",
+    "name": "HMB",
+    "description": "HMB is a metabolite of the essential amino acid leucine that plays an anticatabolic role in muscle tissue. In addition to preventing muscle protein breakdown, HMB may help improve strength and muscle mass in older adults, but evidence of a benefit for athletes is lacking.",
+    "handle": "hmb"
+  },
+  {
+    "id": "pcat_01K0X9H38CRC40D5249JQVSWP7",
+    "name": "Hordenine",
+    "description": "Hordenine (N,N-dimethyltyramine) is an adrenergic-like compound found in a variety of foods investigated for its fat-burning effects. May be a noradrenaline reuptake inhibitor.",
+    "handle": "hordenine"
+  },
+  {
+    "id": "pcat_01K0X9H3A132GKFTEE7ET2ABKB",
+    "name": "Horny Goat Weed",
+    "description": "Horny goat weed, scientifically known as Epimedium, is a plant used in traditional Chinese medicine. It is claimed to be a natural aphrodisiac. The flavonoids and other active compounds in horny goat weed may also be beneficial for cardiovascular health and brain health.",
+    "handle": "horny-goat-weed"
+  },
+  {
+    "id": "pcat_01K0X9H3BNKYYNZQRMHVMHBGM4",
+    "name": "Horse Chestnut",
+    "description": "Horse Chestnut (Aesculus hippocastanum) is a plant extract with a group of molecules known as aescins, which are beneficial to circulatory health. Supplementation of horse chestnut appears to be beneficial for varicose veins and veinous insufficiency.",
+    "handle": "horse-chestnut"
+  },
+  {
+    "id": "pcat_01K0X9H3DAGYWM5T663XF2682E",
+    "name": "Huperzine A",
+    "description": "Huperzine-A is a cognitive enhancer that inhibits an enzyme that degrades the learning neurotransmitter, acetylcholine; due to this, a relative increase occurs. It belongs to the cholinergics class of molecules, and may be useful in fighting cognitive decline in the elderly. May need to be cycled.",
+    "handle": "huperzine-a"
+  },
+  {
+    "id": "pcat_01K0X9H3EWCK65871DHK8M34TE",
+    "name": "Hyaluronic Acid",
+    "description": "Hyaluronic acid (HA) is a large polysaccharide that is found naturally throughout the body and in high concentrations in the skin, the joint fluid, and the eye. It plays a role in many important bodily functions, including wound healing, joint lubrication and ovulation. As a supplement, it is most frequently used for joint health, to treat dry eyes, and in anti-aging products for the skin.",
+    "handle": "hyaluronic-acid"
+  },
+  {
+    "id": "pcat_01K0X9H3GH6EDBX6CV7305HHMZ",
+    "name": "Hydroxyapatite",
+    "description": "Hydroxyapatite is a calcium-phosphate compound which makes up the hard structural part of bones and teeth. It is used in dietary supplements as a calcium source and in toothpaste to prevent caries and sensitivity.",
+    "handle": "hydroxyapatite"
+  },
+  {
+    "id": "pcat_01K0X9H3J44DJ1Z9NG6J7GRNG5",
+    "name": "Idebenone",
+    "description": "Idebenone (CV-2619) is a synthetic derivative of CoQ10 that appears to retain the antioxidative and bioenergetic effects of its parent compound. It appears to be useful in certain disease states.",
+    "handle": "idebenone"
+  },
+  {
+    "id": "pcat_01K0X9H3KRE622XCA4WFM3PJ9K",
+    "name": "Inositol",
+    "description": "Inositol can improve insulin sensitivity and glycemic control, and may help manage polycystic ovary syndrome (PCOS) and prevent gestational diabetes. The most commonly supplemented forms of inositol are myo-inositol and D-chiro-inositol, but all forms are interchangeably referred to as inositol.",
+    "handle": "inositol"
+  },
+  {
+    "id": "pcat_01K0X9H3NK69KV8XQG4R74FHV5",
+    "name": "Insect Protein",
+    "description": "Insect protein is protein powder made from edible insects, including grasshoppers, crickets, and mealworms. It is a potentially more environmentally sustainable alternative to other animal-derived proteins.",
+    "handle": "insect-protein"
+  },
+  {
+    "id": "pcat_01K0X9H3S4EBQ2DB3MPZYHAB69",
+    "name": "Inulin",
+    "description": "Inulin is a type of soluble fiber that can be taken as a supplement or found naturally in foods (e.g., Jerusalem artichokes, chicory, asparagus, garlic, onions, wheat, bananas). Inulin can have prebiotic effects on the gut microbiome, leading to increases in the abundance of potentially beneficial bacteria, such as Bifidobacterium spp.. Inulin may have various benefits on gut health and overall health, but clinical trials tend to report inconsistent results, which may be due to variability in baseline microbiomes, habitual diets, and health status.",
+    "handle": "inulin"
+  },
+  {
+    "id": "pcat_01K0X9H3TQH011J41G1ZA1E4WJ",
+    "name": "Iodine",
+    "description": "Iodine is a mineral for thyroid function found mostly in iodized table salt, fish, and highest in seaweed. Despite most first world diets being sufficient in iodine, it may benefit those who do not consume seafood and are also in a high risk population (pregnancy and intentional salt restriction).",
+    "handle": "iodine"
+  },
+  {
+    "id": "pcat_01K0X9H3WCQ9ZTVWWQ0NTHE2CR",
+    "name": "IP6",
+    "description": "Insositol hexaphosphate (IP6) is naturally found in cereals, where it is also referred to as phytic acid. It is suspected to play a role in high-fiber diets' negative correlation with colon cancer and possibly other cancers. There is no strong evidence that IP6 supplementation can reduce cancer risk in humans.",
+    "handle": "ip6"
+  },
+  {
+    "id": "pcat_01K0X9H3Y0Y0QA5V1TT2G6CFXX",
+    "name": "Iron",
+    "description": "Iron is an essential mineral best known for helping red blood cells to carry oxygen. Except in the case of deficiency, iron supplementation has no proven benefit; on the contrary, it can lead to side effects and increased oxidative stress.",
+    "handle": "iron"
+  },
+  {
+    "id": "pcat_01K0X9H3ZMHCDX7KZR3FH5TW52",
+    "name": "Isoleucine",
+    "description": "Isoleucine is one of the three branched-chain amino acids (BCAAs). It is an essential amino acid. Isoleucine is required for muscle protein synthesis, and it may help to reduce post-exercise muscle soreness and markers of muscle damage when taken as part of a BCAA supplement. However, whether isoleucine holds any special merit as a supplement on its own is unclear.",
+    "handle": "isoleucine"
+  },
+  {
+    "id": "pcat_01K0X9H4187TT1XAM5KYJH3TCX",
+    "name": "Japanese Catnip",
+    "description": "Schizonepeta tenuifolia (Japanese Catnip) is a medicinal herb from China and Korea that appears to be selectively anti-inflammatory (to a moderate degree), and suppress allergic responses. It is a different herb from Common Catnip (The genera Nepeta).",
+    "handle": "japanese-catnip"
+  },
+  {
+    "id": "pcat_01K0X9H42ZPJ2EHD6PEWGRK0YG",
+    "name": "Japanese Knotweed",
+    "description": "Japanese Knotweed, or Polygonum cuspidatum, is a Traditional Chinese Medicine used for circulation and heart health. It is a very good source of resveratrol, and most benefits of Japanese Knotweed may actually just be benefits of resveratrol.",
+    "handle": "japanese-knotweed"
+  },
+  {
+    "id": "pcat_01K0X9H44HJPRZSNXAA062W44D",
+    "name": "Japanese Raisin Tree",
+    "description": "Hovenia dulcis (Japanese Raisin Tree) is a source of dihydromyricetin (Ampelopsin) and has traditionally been used as an anti-alcohol herb and hangover cure. At least one human study has noted that, when taken before drinking, it can reduce circulating levels of alcohol.",
+    "handle": "japanese-raisin-tree"
+  },
+  {
+    "id": "pcat_01K0X9H465HMBP8AXAPH60VXNC",
+    "name": "Jiaogulan",
+    "description": "Gynostemma pentaphyllum (Southern Ginseng) is a herb given Ginseng status although not related to Panax Ginseng. It appears to share some saponins though, and is investigated for similar effects as True Ginseng.",
+    "handle": "jiaogulan"
+  },
+  {
+    "id": "pcat_01K0X9H47SNNHW361DVB5YZQTK",
+    "name": "Jojoba",
+    "description": "Simmondsia chinensis (Jojoba) is a commonly used skin health supplement that may have appetite suppressing effects.",
+    "handle": "jojoba"
+  },
+  {
+    "id": "pcat_01K0X9H49DB2HGT161P5FGAD89",
+    "name": "Jujube",
+    "description": "Ziziphus Jujuba (Chinese/Korean Date, Jujube) is a plant which bears fruits and seeds that are used for medicinal purposes in Traditional Chinese Medicine. It may possess anxiety-reducing and sedative properties.",
+    "handle": "jujube"
+  },
+  {
+    "id": "pcat_01K0X9H4B1GC8H0CZAW56BKAGV",
+    "name": "Kaempferol",
+    "description": "Kaempferol is one of the bioflavonoids that is present in high levels in cruciferous vegetables, and may mediate some of the bioactivities of these plants. It appears to hold anti-cancer potential.",
+    "handle": "kaempferol"
+  },
+  {
+    "id": "pcat_01K0X9H4CP5DFFFRERK3NRHBBZ",
+    "name": "Kanna",
+    "description": "Also known as Kanna, sceletium tortusoum is a herb that is traditionally chewed prior to stressing endeavours. It suggest that it may play a role in reducing state anxiety although more evidence is required.",
+    "handle": "kanna"
+  },
+  {
+    "id": "pcat_01K0X9H4E946E2TS0FEB49YN37",
+    "name": "Kava",
+    "description": "Kava (Piper methysticum) is a plant that has had many traditional uses throughout history, especially among South Pacific Islanders. It is best known for anxiety reduction but comes with some serious safety concerns when used in excess.",
+    "handle": "kava"
+  },
+  {
+    "id": "pcat_01K0X9H4FXB9VCZS57WPH8WDSX",
+    "name": "Kelp",
+    "description": "Ascophyllum nodosum is a species of seaweed. It is being investigated for its immunostimulatory properties and it may inhibit carbohydrate absorption after supplementation.",
+    "handle": "kelp"
+  },
+  {
+    "id": "pcat_01K0X9H4HHE9V1HGW843H60TVZ",
+    "name": "King Of Bitters",
+    "description": "Andrographis paniculata is an herb frequently used in traditional medicines to treat the common cold.",
+    "handle": "king-of-bitters"
+  },
+  {
+    "id": "pcat_01K0X9H4K7QC5S6CS626HMHFXW",
+    "name": "King Oyster",
+    "description": "King Oyster (Pleurotus eryngii) is a dietary mushroom that contains an assortment of bioactive molecules. Oyster mushrooms in general tend to be more popular than other Bioactive Mushrooms due to their taste and usage in meals.",
+    "handle": "king-oyster"
+  },
+  {
+    "id": "pcat_01K0X9H4N9RE0BHSRB12039V6V",
+    "name": "Kokilaksha",
+    "description": "Asteracantha longifolia (Kokilaksha) is an ayurvedic aphrodisiac and liver protective agent. Currently, research on this plant is preliminary with limited information on both components of the plant and toxicology.",
+    "handle": "kokilaksha"
+  },
+  {
+    "id": "pcat_01K0X9H4PXQ7WGYVFEYNPZ2JA3",
+    "name": "Korean Black Raspberry",
+    "description": "Rubus coreanus (Korean Black Raspberry) is a dark berry sometimes brewed as a wine called bokbunja ju; it has a high levels of anthocyanins of the cyanidin type, and other tannin structures that underlie its antioxidant and proerectile properties.",
+    "handle": "korean-black-raspberry"
+  },
+  {
+    "id": "pcat_01K0X9H4RG6064HNYDNX7GJWG7",
+    "name": "Kratom",
+    "description": "Kratom is an evergreen tree native to Southeast Asia whose leaves contain chemicals with partial opioid effects. Although kratom leaves have been used traditionally for hundreds of years, research on its safety and efficacy is limited. Anecdotally, kratom is used for pain, opioid use disorder, anxiety, and other conditions. Kratom may lead to dependence and withdrawal and can cause serious adverse effects in high doses.",
+    "handle": "kratom"
+  },
+  {
+    "id": "pcat_01K0X9H4T5SANPA90C09GSPFA2",
+    "name": "Krill Oil",
+    "description": "Krill oil is a mixture of fatty acids high in EPA and DHA (fish oil fatty acids) in the form of phospholipids, mostly as phosphatidylcholine; it appears to be better absorbed than fish oil, may be more cardioprotective, and has some unique (unexplored) fat burning effects.",
+    "handle": "krill-oil"
+  },
+  {
+    "id": "pcat_01K0X9H4VTJ4X57ADVEH0E51YN",
+    "name": "Ku Shen",
+    "description": "Sophora flavescens (Ku Shen) is a medicinal herb from China that appears to possess mostly anti-cancer properties. It may also inhibit the 5-Alpha Reductase enzyme and PDE5 potently, promoting hair growth and erectogenesis.",
+    "handle": "ku-shen"
+  },
+  {
+    "id": "pcat_01K0X9H4XDW1CCMB3WB8RPY0VK",
+    "name": "Kudzu",
+    "description": "Pueraria Lobata (Kudzu) is a root plant that appears to have traditional usage in alleviating migraines and hangovers.",
+    "handle": "kudzu"
+  },
+  {
+    "id": "pcat_01K0X9H4Z1MZVMGPB8YWZJEQ78",
+    "name": "Kutki",
+    "description": "Picrorhiza kurroa (Kutki or Picroliv) is a liver tonic from Ayurveda that, when used at low doses, appears to exceed milk thistle silymarins in potency. It is underresearched, but its liver protective effects and some other immunomodulatory properties hold potential.",
+    "handle": "kutki"
+  },
+  {
+    "id": "pcat_01K0X9H50M48FC16RFFR7R0SAQ",
+    "name": "L-Carnitine",
+    "description": "L-carnitine can relieve leg pain in people with peripheral artery disease (PAD) and treat some aspects of metabolic syndrome. Although it’s often also used for fat loss, its effectiveness for that is questionable.",
+    "handle": "carnitine"
+  },
+  {
+    "id": "pcat_01K0X9H52483PH63T2C07A1306",
+    "name": "L-Cysteine",
+    "description": "L-Cysteine is a nutritionally semi-essential amino acid that, under normal conditions, is synthesized in the body from methionine. Its biological functions include the synthesis of proteins, glutathione (a powerful antioxidant), taurine, sulfate, and coenzyme A.",
+    "handle": "l-cysteine"
+  },
+  {
+    "id": "pcat_01K0X9H53QW8TDBB0MH3YC49C9",
+    "name": "L-Dopa",
+    "description": "L-DOPA is a direct precursor to dopamine, and its supplementation can increase dopamine levels in the body. It is known as Levodopa and is one component of most Parkinson's treatments, and found in high amounts in Mucuna Pruriens.",
+    "handle": "l-dopa"
+  },
+  {
+    "id": "pcat_01K0X9H5594CHQV2HJCGBE63N6",
+    "name": "L-Threonate",
+    "description": "A metabolite of vitamin C that may have unique effects in the body, it is currently being researched for use as a mineral chelating agent able to greatly enhance bioavailability of minerals (such as Magnesium-L-Threonate).",
+    "handle": "l-threonate"
+  },
+  {
+    "id": "pcat_01K0X9H56VA7YJD747MYV8MH8M",
+    "name": "L-Tyrosine",
+    "description": "L-Tyrosine is an amino acid that is used as a precursor for the synthesis of the catecholamines dopamine (DA) and norepinephrine (NE). DA and NE are depleted under stressful conditions, which can compromise cognitive function. L-Tyrosine supplementation may help alleviate acute stress-induced cognitive decline by restoring catecholamine levels in the brain.",
+    "handle": "l-tyrosine"
+  },
+  {
+    "id": "pcat_01K0X9H58C7JRBJXB45A3ZDNV7",
+    "name": "Lactase Enzyme",
+    "description": "If you can't digest the lactose in dairy (Lactose intolerance), you can either supplement with lactase enzyme pills or consume dairy that's predigested with the lactase enzyme.",
+    "handle": "lactase-enzyme"
+  },
+  {
+    "id": "pcat_01K0X9H5A0S1ATY1ZGEG3J8WKM",
+    "name": "Lacticaseibacillus Paracasei",
+    "description": "Lacticaseibacillus paracasei (L. paracasei), formerly known as Lactobacillus paracasei, is a type of probiotic found in the human gastrointestinal tract, as well as in fermented foods and dairy. It is also available as a supplement.",
+    "handle": "lacticaseibacillus-paracasei"
+  },
+  {
+    "id": "pcat_01K0X9H5BHFD71VFB3QK77D9YT",
+    "name": "Lactobacillus Acidophilus",
+    "description": "Lactobacillus acidophilus (L. acidophilus) is a commonly used probiotic found in the human gastrointestinal tract and vagina, as well as in fermented foods, dairy, and in supplemental form. L. acidophilus seems to be a safe and effective adjuvant treatment for diarrhea.",
+    "handle": "lactobacillus-acidophilus"
+  },
+  {
+    "id": "pcat_01K0X9H5D4SRX6DJKSRBWD0YCJ",
+    "name": "Lactobacillus Casei",
+    "description": "Lactobacillus casei (now renamed to Lacticaseibacillus casei, often called Lactobacillus casei Shirota and Yakult) is a bacterial strain seen as probiotic.",
+    "handle": "lactobacillus-casei"
+  },
+  {
+    "id": "pcat_01K0X9H5ENFENCZS4GP1596YY8",
+    "name": "Lactobacillus Reuteri",
+    "description": "Lactobacillus reuteri is a species of probiotic bacteria. It may provide some benefits for cholesterol levels, reducing H. pylori levels (the pathogenic bacterium which contributes to ulcers), female urinary tract and vaginal health, and infant gastrointestinal health.",
+    "handle": "lactobacillus-reuteri"
+  },
+  {
+    "id": "pcat_01K0X9H5G8KA86N6ZTWFB2AXVG",
+    "name": "Lactoferrin",
+    "description": "Lactoferrin is an iron-binding glycoprotein found in the milk of mammals. Colostrum (the first milk after a baby is born) contains especially high levels of lactoferrin. Research suggests that lactoferrin exhibits antimicrobial, antiviral, antifungal, and antiparasitic properties.",
+    "handle": "lactoferrin"
+  },
+  {
+    "id": "pcat_01K0X9H5HTE9APDF9C2S6N807X",
+    "name": "Lactosucrose",
+    "description": "Lactosucrose is trisaccharide composed of galactose, glucose, and fructose linked together with glycosidic bonds. Some evidence suggests that it may function as a prebiotic.",
+    "handle": "lactosucrose"
+  },
+  {
+    "id": "pcat_01K0X9H5KEKQX93ETW0Y3AH328",
+    "name": "Laughter",
+    "description": "Laughter is a physical reaction characterized by a distinct repetitive vocal sound, certain facial expressions, and contraction of various muscle groups. Some research suggests laughter, when even self-induced or simulated, may provide psychological and physiological benefits.",
+    "handle": "laughter"
+  },
+  {
+    "id": "pcat_01K0X9H5N1Z78BGS55RXZTZQMG",
+    "name": "Laughter Yoga",
+    "description": "Laughter yoga is a set of exercises that combines self-induced or simulated laughter with yoga breathing techniques. Laughter yoga may have psychological and physiological benefits, although evidence for these purported beneficial effects is scarce.",
+    "handle": "laughter-yoga"
+  },
+  {
+    "id": "pcat_01K0X9H5PMH6KE4EJ5KC470DZK",
+    "name": "Lavender",
+    "description": "Lavender is a plant in the Lamiaceae (mint) family. It is an aromatic plant, and its essential oil is often used in aromatherapy for relief of stress and anxiety.[3][4]",
+    "handle": "lavender"
+  },
+  {
+    "id": "pcat_01K0X9H5R54QGGGY01MPV9N0AF",
+    "name": "Lemon Balm",
+    "description": "Melissa officinalis (Lemon Balm) is a herb/tea traditionally said to induce calmness and improve cognition. It does appear effective at inducing calmness and reducing anxiety, but the cognitive enhancing properties are variable (appears to benefit if stressed, but otherwise it is merely sedative).",
+    "handle": "lemon-balm"
+  },
+  {
+    "id": "pcat_01K0X9H5SSBKFDAY00JB5JVMJF",
+    "name": "Leucic Acid",
+    "description": "Leucic acid (also known as α-hydroxyisocaproic acid or HICA) is a leucine metabolite touted to have anabolic properties. Although it appears to be effective following oral supplementation, comparisons to leucine or HMB do not exist.",
+    "handle": "leucic-acid"
+  },
+  {
+    "id": "pcat_01K0X9H5VDC976S3Q53832ZCM8",
+    "name": "Leucine",
+    "description": "Leucine is a branched-chain amino acid (BCAA) and potent nutrient-based signal to activate protein synthesis.",
+    "handle": "leucine"
+  },
+  {
+    "id": "pcat_01K0X9H5X5BBE88KB1K4RRTR9A",
+    "name": "Licorice",
+    "description": "Licorice is the common name for plants of the Glycyrrhiza genus. Licorice has been used traditionally to treat and support the respiratory, gastrointestinal, cardiovascular, and genitourinary systems.",
+    "handle": "licorice"
+  },
+  {
+    "id": "pcat_01K0X9H5YPREG4RZKEBN504NEZ",
+    "name": "Limonene",
+    "description": "D-Limonene is a molecule that is found in high levels in lemons (where it derives its name) but also most citrus foods. It holds promise as an anti-cancer agent, and for some reason is marketed as a fat burner despite minimal evidence of fat burning effects. Can be consumed via pulpy lemon juice.",
+    "handle": "limonene"
+  },
+  {
+    "id": "pcat_01K0X9H6091NZSSTV1016CG5PZ",
+    "name": "Lion's Mane",
+    "description": "Lion's mane, Hericium erinaceus, is a culinary and medicinal mushroom. Lion’s mane appears to have neuroprotective and antioxidant properties in the brain.",
+    "handle": "lionsmane"
+  },
+  {
+    "id": "pcat_01K0X9H61SAHSS6HYX4SEEKNZP",
+    "name": "Longan",
+    "description": "Dimocarpus Longan (Dragon Eye or Euphoria) is a fruit with limited medicinal use. It does not appear to have a unique composition, but extracts appear quite neuroprotective and may boost cognition.",
+    "handle": "longan"
+  },
+  {
+    "id": "pcat_01K0X9H66S7T22TR6DQBA58TNG",
+    "name": "Loquat",
+    "description": "Eriobotrya japonica (Common Loquat) is a plant whose fruits are commonly consumed for their taste and other parts (seeds, leaves, flowers) used in traditional chinese medicine for treatment of cough and respiratory distress; it appears to be rich in ursolic acid like triterpenoids.",
+    "handle": "loquat"
+  },
+  {
+    "id": "pcat_01K0X9H698DS0WYNT8CDFWSSP2",
+    "name": "Luo Bu Ma",
+    "description": "Apocynum venetum is a plant that potentially reduces blood pressure and depression after supplementation, though more evidence is needed to confirm these effects.",
+    "handle": "luo-bu-ma"
+  },
+  {
+    "id": "pcat_01K0X9H6AX6FHYSV1WRG29HHQF",
+    "name": "Lutein",
+    "description": "Lutein, as well as the related zeaxanthin, are carotenoid structures similar to pre-vitamin A (β-carotene) and involved in eye health. A dietary component of eggs, lutein appears to be effective for this claim and a general antioxidant.",
+    "handle": "lutein"
+  },
+  {
+    "id": "pcat_01K0X9H6CH9XFMSS0G1ZHMDJ84",
+    "name": "Lycopene",
+    "description": "A carotenoid known for its antioxidant properties and its red color that accumulates in the skin",
+    "handle": "lycopene"
+  },
+  {
+    "id": "pcat_01K0X9H6E5HWTJW7C2TZ28PK2Y",
+    "name": "Lysine",
+    "description": "Lysine is an amino acid commonly paired with Vitamin C in many supplements. While an essential amino acid it does not hold much promise as a supplement beyond reducing the symptoms of herpes simplex.",
+    "handle": "lysine"
+  },
+  {
+    "id": "pcat_01K0X9H6FTF4TK5KSRGQ4YKXWP",
+    "name": "Maca",
+    "description": "Maca refers to two plants belonging to the Brassicaceae family, Lepidium peruvianum and Lepidium meyeni. The plants resemble a turnip and have a history of being used as an aphrodisiac.",
+    "handle": "maca"
+  },
+  {
+    "id": "pcat_01K0X9H6HD83584EC05D8GZYWV",
+    "name": "Magnesium",
+    "description": "Magnesium is an essential dietary mineral that is involved in energy production, nervous system function, blood pressure regulation, and blood glucose control. A lack of magnesium in the diet — which is common in modern societies — is associated with an increased risk of diabetes, cardiovascular disease, and other health conditions.",
+    "handle": "magnesium"
+  },
+  {
+    "id": "pcat_01K0X9H6K1RK6VCBC14AF6A26C",
+    "name": "Magnolia Bark Extract",
+    "description": "Magnolia officinalis is a traditional chinese medicine known for its neuroprotective and relaxing properties, being used to treat depression and anxiety as well as acting as a slight sedative. It may also possess anti-cancer effects in higher doses.",
+    "handle": "magnolia-bark-extract"
+  },
+  {
+    "id": "pcat_01K0X9H6MNSQTRWF4P2NQQK631",
+    "name": "Maitake",
+    "description": "Maitake mushroom (Grifola frondosa) is a medicinal and culinary mushroom that may have immunomodulatory properties.",
+    "handle": "maitake"
+  },
+  {
+    "id": "pcat_01K0X9H6P8JVRMKNW1YJ9848EA",
+    "name": "Malabar Spinach",
+    "description": "Basella Alba is a herb used commonly alongside Hibiscus macranthus for the purpose of fertility. The combination has been found to increase testosterone in rats, and Basella appears to be more active in this regard.",
+    "handle": "malabar-spinach"
+  },
+  {
+    "id": "pcat_01K0X9H6QT4679Z9BM2KCP8TQS",
+    "name": "Manganese",
+    "description": "Manganese is an essential mineral in the diet that serves primarily as a component of the antioxidant enzyme known as manganese superoxide dismutase.",
+    "handle": "manganese"
+  },
+  {
+    "id": "pcat_01K0X9H6SDKW4GCECV70S8S1FT",
+    "name": "Maral Root",
+    "description": "Commonly referred to as either Maral Root or Russian Leuzea, Rhaponticum carthamoides is a plant source of ecdysteroids that are thought to promote muscle growth in a non-hormonal manner. Applied human studies on this topic are lacking.",
+    "handle": "maral-root"
+  },
+  {
+    "id": "pcat_01K0X9H6V3H80Y2AYJHHHJV7CZ",
+    "name": "Massularia Acuminata",
+    "description": "Massularia acuminata is a traditionally used herb in Yoruba medicine (Nigeria), used as a chewing stick and aphrodisiac; the chewing stick aspect was researched for being an anti-gingivitis agent, and it appears to increase testosterone and libido in research animals.",
+    "handle": "massularia-acuminata"
+  },
+  {
+    "id": "pcat_01K0X9H6WNQKVX2PQQPZ6EJQED",
+    "name": "Matured Hop Extract",
+    "description": "Matured hop extract (aka matured hop bitter acids; MHBA) are iso-α-acids from the female hop plant (Humulus lupulus L.) found in beer that are broken down during storage into more complex bitter compounds.",
+    "handle": "matured-hop-extract"
+  },
+  {
+    "id": "pcat_01K0X9H6Y601QBGDGH09N8WMSY",
+    "name": "Medium-Chain Triglycerides",
+    "description": "Medium-chain triglycerides are a type of saturated fat composed of fatty acids with 6–10 carbons in their acyl chain. They are found primarily in coconut oil, palm kernel oil, and dairy fat, and they appear to benefit fat loss to a minor extent when consumed in place of other dietary fat.",
+    "handle": "mcts"
+  },
+  {
+    "id": "pcat_01K0X9H6ZS7T4QTCRPCDY7QBWK",
+    "name": "Melatonin",
+    "description": "Melatonin is a hormone secreted in the brain that regulates sleep. It appears to be highly sensitive to light therapy and dark therapy. Oral ingestion of melatonin may be used as a sleep aid. It is non-addictive.",
+    "handle": "melatonin"
+  },
+  {
+    "id": "pcat_01K0X9H71CD83RT69GFFC0AXMB",
+    "name": "Menthol",
+    "description": "Menthol is a compound made synthetically or extracted from the peppermint plant or other mint plants. It is is widely used in pharmaceuticals, confectionery, oral hygiene products, pesticides, cosmetics, and as a flavoring agent.",
+    "handle": "menthol"
+  },
+  {
+    "id": "pcat_01K0X9H72ZDAJWZ9B2HWMWTF12",
+    "name": "Methylliberine",
+    "description": "Methylliberine is a purine alkaloid found in the seeds and leaves of various coffee plant species. It is theorized that it may produce caffeine-like neuro-energetic effects, with fewer side effects. However, research on methylliberine supplementation in humans is scarce.",
+    "handle": "methylliberine"
+  },
+  {
+    "id": "pcat_01K0X9H74H49D41RYTX39TZKX5",
+    "name": "Microbiota Accessible Carbohydrates",
+    "description": "Microbiota-accessible carbohydrates (MACs) are carbohydrates that resist human digestion and are instead fermented as prebiotics by the gut microbiota. The intake of MACs has been associated with improved health outcomes.",
+    "handle": "microbiota-accessible-carbohydrates"
+  },
+  {
+    "id": "pcat_01K0X9H7655D4K950AGX7530VB",
+    "name": "Microlactin",
+    "description": "Microlactin (Hyperimmune milk) is a form of milk that is acquired by giving lactating cows immunostimulants, which produces a larger amount of antibodies in their secreted milk. It appears to be effective in reducing symptoms of osteoarthritis and may support the immune system.",
+    "handle": "microlactin"
+  },
+  {
+    "id": "pcat_01K0X9H77SC0AY2S92PBCD537A",
+    "name": "Milk Protein",
+    "description": "Milk protein is a blend of Casein protein and Whey protein, usually in an 80/20 blend. There really is nothing super special about it, but it can be a cheaper way of ingesting Whey and Casein protein when the difference is irrelevant for your goals since processing costs are less.",
+    "handle": "milk-protein"
+  },
+  {
+    "id": "pcat_01K0X9H79R3SRRAVXHWFSXEZD5",
+    "name": "Milk Thistle",
+    "description": "Milk thistle (Silybum marianum) contains silymarin, a complex of plant compounds known for their hepatoprotective (liver-protecting) properties.",
+    "handle": "milk-thistle"
+  },
+  {
+    "id": "pcat_01K0X9H7BJHGYD1WRJTWDSV76A",
+    "name": "Minoxidil",
+    "description": "Commonly known as Rogaine (brand name), Minoxidil is a topical application that enhances hair growth. Less effective in Male Pattern Baldness than 'Bald patches', Minoxidil is the most commonly used topical hair growth compound.",
+    "handle": "minoxidil"
+  },
+  {
+    "id": "pcat_01K0X9H7F970SRRTZPFRBZ4DYT",
+    "name": "Mitoquinone Mesylate",
+    "description": "Mitoquinone mesylate is a derivative of CoQ10 believed to play a role in mitochondrial function.",
+    "handle": "mitoquinone-mesylate"
+  },
+  {
+    "id": "pcat_01K0X9H7GXKFAVRR2GK2NFWWC4",
+    "name": "Molybdenum",
+    "description": "Molybdenum is an essential mineral. It is vital for the function of several enzymes, but is easily obtained through the diet. Molybdenum deficiencies are virtually unheard of, and there are no benefits to high doses, making supplementation unnecessary.",
+    "handle": "molybdenum"
+  },
+  {
+    "id": "pcat_01K0X9H7JHA2YE0JRW4ZZSZPBW",
+    "name": "Mondo Grass",
+    "description": "Ophiopogon japonicus is an evergreen perennial used in traditional Chinese medicine mostly for the treatment of cardiovascular complications and inflammation.",
+    "handle": "mondo-grass"
+  },
+  {
+    "id": "pcat_01K0X9H7M5DWFD1PHQ3V4KMANW",
+    "name": "Moringa",
+    "description": "Moringa oleifera is an economically important tree and vegetable, and preliminary evidence suggests that it has a respectable antioxidant and antiinflammatory potency. It contains compounds structurally similar to sulforaphane and appears to be protective when orally ingested.",
+    "handle": "moringa"
+  },
+  {
+    "id": "pcat_01K0X9H7NSR20QEXDPX696N4PM",
+    "name": "Moro Orange Extract",
+    "description": "Moro orange extract is the extract of the Moro orange, a particularly pigmented cultivar of blood orange that is rich in anthocyanins and has antioxidant properties.",
+    "handle": "moro-orange-extract"
+  },
+  {
+    "id": "pcat_01K0X9H7QDAR29MSSY8XAYN75G",
+    "name": "Motor Imagery",
+    "description": "Motor imagery is a mental process that involves rehearsal or simulation of a given action without any physical movement or muscle activation. Limited research suggests motor imagery may have beneficial effects in post-stroke recovery.",
+    "handle": "motor-imagery"
+  },
+  {
+    "id": "pcat_01K0X9H7S0T6XEJ35QJYZDCPB3",
+    "name": "Mouthwash",
+    "description": "Mouthwash, also called mouth rinse, oral rinse, or oral wash, is a liquid used to rinse the teeth, gums, and mouth after brushing in order to prevent, relieve, or cure oral conditions and maintain oral health.",
+    "handle": "mouthwash"
+  },
+  {
+    "id": "pcat_01K0X9H7TGABH4JKGCR8DB8V0M",
+    "name": "MSM",
+    "description": "Methylsulfonylmethane (Dimethylsulfone or, more commonly, MSM) is a small DMSO-related sulfur-containing molecule used for its antioxidative and anti-inflammatory properties. It holds potential for joint health (not significantly different than glucosamine sulfate).",
+    "handle": "msm"
+  },
+  {
+    "id": "pcat_01K0X9H7W4N4TGJGP5WKFETZQ4",
+    "name": "Mucuna Pruriens",
+    "description": "Mucuna pruriens, or velvet bean, is a tropical legume known for its high content of L-DOPA, a direct precursor to dopamine. Preliminary research suggests that supplementation with Mucuna pruriens may reduce the symptoms of Parkinson’s disease.",
+    "handle": "mucuna-pruriens"
+  },
+  {
+    "id": "pcat_01K0X9H7XN21XXVE1B075S7K7P",
+    "name": "Muira Puama",
+    "description": "Muira puama (Marapuama, Potency Wood) is a traditionally used aphrodisiac and nerve tonic in the Brazil region. Lacking in quality human trials and sexuality trials, it appears to be quite effective as a cognitive enhancer.",
+    "handle": "muira-puama"
+  },
+  {
+    "id": "pcat_01K0X9H7Z8F2VQ8JRFW3SHSRA5",
+    "name": "Mulberry Fruit Extract",
+    "description": "Mulberry fruit extract is the extract from the fruit of Morus alba, also known as mulberry, white mulberry, and silkworm mulberry. Limited research suggests that supplementation with mulberry fruit extract may have beneficial effects on glycemic control.",
+    "handle": "mulberry-fruit-extract"
+  },
+  {
+    "id": "pcat_01K0X9H80SJ5WXF5Z7SDTWNA24",
+    "name": "Multivitamin",
+    "description": "Multivitamin and multimineral (MVM) supplements contain a combination of vitamins and minerals, and sometimes other ingredients as well. The available evidence does not demonstrate that MVM supplements reliably provide a health benefit for healthy people with adequate micronutrient intake.",
+    "handle": "multivitamin"
+  },
+  {
+    "id": "pcat_01K0X9H82EVQQA7BYA1ZEDPRHF",
+    "name": "Mycoprotein",
+    "description": "Mycoprotein is a type of protein derived from the fungus Fusarium venenatum. It contains a greater concentration of essential amino acids than most plant protein sources.",
+    "handle": "mycoprotein"
+  },
+  {
+    "id": "pcat_01K0X9H840TY7AWA1SCHT5WJVS",
+    "name": "Myofascial Release",
+    "description": "Myofascial release (MFR) is a general term encompassing various manual treatment techniques that exert pressure on the myofascial complex with the intention of restoring its optimal length, decreasing pain, and improving physical function.",
+    "handle": "myofascial-release"
+  },
+  {
+    "id": "pcat_01K0X9H85NTDYW1DPRS4GPWQH8",
+    "name": "Myricetin",
+    "description": "One of the many bioflavonoids, usually investigated as being more involved with anti-osteoporotic effects and bone health than other flavonoids like Kaempferol or Quercetin.",
+    "handle": "myricetin"
+  },
+  {
+    "id": "pcat_01K0X9H879GRPEWKPTDKMBHS7S",
+    "name": "N-Acetylcysteine",
+    "description": "N-acetylcysteine (NAC) is a precursor for the amino acid L-cysteine. It has antioxidant, anti-inflammatory, and mucus thinning properties. NAC can act as a direct antioxidant, but more importantly, it provides the cysteine required for the production of glutathione, a powerful antioxidant produced in the body. NAC is commonly taken as a supplement for health and wellness and is used in clinical settings to treat drug overdose, cystic fibrosis, and chronic obstructive pulmonary disease.",
+    "handle": "n-acetylcysteine"
+  },
+  {
+    "id": "pcat_01K0X9H88XYNAF7RMG2KE2GQXH",
+    "name": "N-Phenylacetyl-L-Prolylglycine Ethyl Ester",
+    "description": "N-phenylacetyl-L-prolylglycine ethyl ester (brand name: Noopept), a Nootropic molecule similar to Piracetam that may alleviate cognitive decline.",
+    "handle": "noopept"
+  },
+  {
+    "id": "pcat_01K0X9H8AHHZZ4PWWFWDHD3XHP",
+    "name": "N,N-Dimethyltryptamine",
+    "description": "N,N-Dimethyltryptamine (DMT) is an alkaloid widely found in plants and animals that is best known for producing brief and intense psychedelic effects when ingested. DMT is one of the major psychoactive compounds found in various shamanistic compounds, including ayahuasca.",
+    "handle": "nn-dimethyltryptamine"
+  },
+  {
+    "id": "pcat_01K0X9H8C4AV41P7798BXBQ55B",
+    "name": "Naringenin",
+    "description": "Naringenin belongs to a subclass of flavonoids known as flavanones. It is predominantly found in citrus fruits, such as grapefruits and oranges. Evidence from mostly animal and in vitro studies suggest naringenin has potential antioxidant, anti-inflammatory, and cardioprotective properties.",
+    "handle": "naringenin"
+  },
+  {
+    "id": "pcat_01K0X9H8DN31Y4RPDX905XQJ22",
+    "name": "Nattokinase",
+    "description": "Nattokinase is an enzyme derived from the fermented soy food product nattō which appears to have some direct fibrinolytic (blood-clot-busting) activity. It is thought to have cardioprotective effects.",
+    "handle": "nattokinase"
+  },
+  {
+    "id": "pcat_01K0X9H8FBPXVG4G7D26YG9ERG",
+    "name": "Neem",
+    "description": "Neem, also known as Azadirachta indica, is an herbal supplement that is commonly used to treat gingivitis, getting rid of parasitic infections, and improving skin and hair health.",
+    "handle": "neem"
+  },
+  {
+    "id": "pcat_01K0X9H8GX4XGX6947ESGEC4AM",
+    "name": "Nefiracetam",
+    "description": "Nefiracetam is a nootropic compound of the racetam family with similarities to Aniracetam. It seems to enhance both GABAergic and cholinergic signalling, and long term usage appears to be both neuroprotective and nootropic in research animals (similar trends in human studies).",
+    "handle": "nefiracetam"
+  },
+  {
+    "id": "pcat_01K0X9H8JHFDARNP9127G1KRDR",
+    "name": "New Zealand Pine Bark Extract",
+    "description": "New Zealand pine bark extract comes from the Pinus radiata tree. It is commonly used to manage blood sugar and treat traumatic brain injuries.",
+    "handle": "new-zealand-pine-bark-extract"
+  },
+  {
+    "id": "pcat_01K0X9H8M5V04RTSSYRHDAFQTS",
+    "name": "Niacin (Vitamin B3)",
+    "description": "Niacin is an essential B-vitamin. Supplementation results in improved cholesterol and triglyceride levels. However, since a side-effect of supplementation is increased insulin resistance, niacin supplementation only provides benefits for cardiovascular health if precautions are taken.",
+    "handle": "vitamin-b3"
+  },
+  {
+    "id": "pcat_01K0X9H8NSBVKW663GVKKMDV57",
+    "name": "Nicotinamide Adenine Dinucleotide",
+    "description": "Nicotinamide adenine dinucleotide (NAD+) is one of the cofactors needed for metabolism and many other functions in the body. It is known for its anti-aging effects, though more research on this compound is needed.",
+    "handle": "nicotinamide-adenine-dinucleotide"
+  },
+  {
+    "id": "pcat_01K0X9H8QCCYYN125C220JJCSB",
+    "name": "Nicotinamide Mononucleotide",
+    "description": "Nicotinamide mononucleotide (NMN) is a form of vitamin B3 taken to boost levels of NAD+ and for its purported anti-aging effects. Although NMN was formerly available as a supplement, classification of NMN in the U.S. as an investigational drug has reduced its availability to consumers in the U.S.[2]",
+    "handle": "nicotinamide-mononucleotide"
+  },
+  {
+    "id": "pcat_01K0X9H8RXX0NXESV6CGC9D2WA",
+    "name": "Nicotinamide Riboside",
+    "description": "Nicotinamide riboside (NR), also known as niagen, is a form of vitamin B3 that is converted by the body into an enzyme called NAD+, which plays a role in the body’s metabolism, repairing DNA, and regulating immune function. NR has risen in popularity as a supplement because it may promote healthy aging and longevity.",
+    "handle": "nicotinamide-riboside"
+  },
+  {
+    "id": "pcat_01K0X9H8TGASRQRWZCX6YAJBTD",
+    "name": "Nicotine",
+    "description": "Nicotine is the main stimulatory compound found in cigarettes and is now sold in vaporizers and patches in isolation. It works on the acetylcholine system, and is implicated in cognitive enhancement.",
+    "handle": "nicotine"
+  },
+  {
+    "id": "pcat_01K0X9H8W2HPTRTK7CWWBE0CW1",
+    "name": "Nitrate",
+    "description": "Inorganic nitrate (NO3-) is an endogenously produced food product that appears to have a critical role in blood pressure and cardiovascular health management; the main ingredient in beetroot, nitrate converts to nitric oxide by various means independent of the NOS enzyme and may aid exercise.",
+    "handle": "nitrate"
+  },
+  {
+    "id": "pcat_01K0X9H8XMG13MRJ4MZHJNJT3G",
+    "name": "Nondigestible Fermentable Carbohydrates",
+    "description": "Nondigestible fermentable carbohydrates cannot be digested but can be fermented by gut bacteria into short-chain fatty acids and gases. While they may be beneficial for gut health, people with conditions like irritable bowel syndrome may not be able to tolerate high levels of intake.",
+    "handle": "nondigestible-fermentable-carbohydrates"
+  },
+  {
+    "id": "pcat_01K0X9H8Z8AP5NJWW97BBCP7TC",
+    "name": "Nonnutritive Sweeteners",
+    "description": "Nonnutritive sweeteners, also known as sugar substitutes, are plant- or herb-derived sweeteners that don’t contain calories. These sweeteners often have a higher intensity of sweetness than sugar and include sucralose, stevia, Monk fruit extract, aspartame, and sugar alcohols.",
+    "handle": "nonnutritive-sweeteners"
+  },
+  {
+    "id": "pcat_01K0X9H90SG0WYDE4YWQW9DSB9",
+    "name": "Octopamine",
+    "description": "A metabolite of synephrine, Octopamine is a stimulant compound that is also thought to have minor fat burning effects. Banned by WADA due to its stimulatory properties, the direct fat burning claims may not be relevant and are effectively untested in humans.",
+    "handle": "octopamine"
+  },
+  {
+    "id": "pcat_01K0X9H92DKW9DBHWMQKHRK878",
+    "name": "Oleamide",
+    "description": "Oleamide is a derivative of Oleic Acid (major omega-9 fatty acid form Olive Oil) with a nitrogen group, and appears to be naturally associated with sleep; injections induce sleep and activate the same receptors as Marijuana.",
+    "handle": "oleamide"
+  },
+  {
+    "id": "pcat_01K0X9H941QMSNEMRFVC5D3NE4",
+    "name": "Oleoylethanolamide",
+    "description": "Oleoylethanolamide (OEA) is a molecule produced in the body, usually found in the intestines. It is responsible for the feeling of satiety after meals. Further research is needed to determine if oral supplementation of OEA provides benefits for weight loss.",
+    "handle": "oleoylethanolamide"
+  },
+  {
+    "id": "pcat_01K0X9H95MFB9PH5YQQQB2EMJ4",
+    "name": "Olive Leaf Extract",
+    "description": "Olive leaf extract comes from the leaves of olive plants, and is distinct from olive oil; the leaf extract contains phenolics such as oleuropein, and appears to have highly protective effects against LDL oxidation and may also benefit glucose metabolism and skin health.",
+    "handle": "olive-leaf-extract"
+  },
+  {
+    "id": "pcat_01K0X9H976QK6FKCVDHV8AQDH2",
+    "name": "Omega-3 Fatty Acids",
+    "description": "Omega-3 fatty acids are essential polyunsaturated fatty acids. That means humans must consume them through their diet from sources like fish, seafood, walnuts, and flaxseeds. Omega-3s have anti-inflammatory properties and are crucial for brain development and cardiovascular health.",
+    "handle": "omega-3-fatty-acids"
+  },
+  {
+    "id": "pcat_01K0X9H98VDZE5T068GC1J94QK",
+    "name": "Omega-6 Fatty Acids",
+    "description": "Omega-6 fatty acids are essential polyunsaturated fats. That means humans must consume them through their diet from sources like nuts, seeds, and vegetable oils. Omega-6 fatty acids are crucial for proper brain development, metabolism, and normal growth and development.",
+    "handle": "omega-6-fatty-acids"
+  },
+  {
+    "id": "pcat_01K0X9H9ADBWRASEBYWT9XJRXE",
+    "name": "Oral Immunotherapy",
+    "description": "Oral immunotherapy is a medically-supervised therapy that involves giving someone with a food allergy an increasing amount of a food allergen (e.g., egg or peanut) to increase their allergic reaction threshold. This can protect an individual from the negative effects of accidentally ingesting a specific allergen.",
+    "handle": "oral-immunotherapy"
+  },
+  {
+    "id": "pcat_01K0X9H9C1V8C7ZVFY2VGG85M4",
+    "name": "Orange Peel",
+    "description": "Orange peel is a great source of vitamin C, fiber, polyphenols, folate, vitamin B6, calcium, and a potent citrus flavonoid called hesperidin, which may provide benefits for cardiovascular health.",
+    "handle": "orange-peel"
+  },
+  {
+    "id": "pcat_01K0X9H9DM6EZC5MFF0SFCH4A9",
+    "name": "Oregano",
+    "description": "Origanum vulgare (Oregano) is a spice. Its essential oil component, oil of oregano, is sold as an immune booster. The oil has various antimicrobial properties and can preserve food quality during storage. Human evidence for supplementation is lacking.",
+    "handle": "oregano"
+  },
+  {
+    "id": "pcat_01K0X9H9F9Y89R4PQ3NHBQ17F9",
+    "name": "Ornithine",
+    "description": "Ornithine, arginine, and citrulline are the three amino acids involved in the urea cycle. Your body uses ornithine to make polyamines (which play a role in cell growth and proliferation) and the amino acid proline (used to make collagen). Preliminary evidence suggests that ornithine supplementation can improve athletic performance by reducing elevated levels of ammonia.",
+    "handle": "ornithine"
+  },
+  {
+    "id": "pcat_01K0X9H9GTCTN724HJQZ4EX1H3",
+    "name": "Oxaloacetate",
+    "description": "Oxaloacetate is an intermediate of the Kreb's cycle that binds to acetyl-CoA in the formation of citrate. A depletion of oxaloacetate relative to acetyl-CoA is the key step for the production of ketone bodies within the liver.",
+    "handle": "oxaloacetate"
+  },
+  {
+    "id": "pcat_01K0X9H9JPX5W6N068EVR252BB",
+    "name": "Oxiracetam",
+    "description": "Oxiracetam is one of the three first-tier racetam compounds, being produced after both Piracetam and Aniracetam. Oxiracetam appears to enhance the release of excitatory neurotransmitters and can aid in memory formation, but lacks human studies.",
+    "handle": "oxiracetam"
+  },
+  {
+    "id": "pcat_01K0X9H9M9Q1ZDVMDNA805G1VJ",
+    "name": "Oxytropis Falcate",
+    "description": "Oxytropis Falcate (Edaxia) is a herb deemed the 'King of Herbs' in Tibetan medicine, but despite its acclaim it is highly underresearched. Appeared to have potential potent painkilling effects and contains phenethylamines.",
+    "handle": "oxytropis-falcate"
+  },
+  {
+    "id": "pcat_01K0X9H9NYXEDNCEA26QP4BFC2",
+    "name": "Paederia Foetida",
+    "description": "Paederia foetida (Prasarini) is a herb traditionally used for some aspects of male vitality. It is currently not well studied, but shows typical antioxidative and antiinflammatory properties with one study suggesting testosterone increasing properties.",
+    "handle": "paederia-foetida"
+  },
+  {
+    "id": "pcat_01K0X9H9QM7DMTW60YTBJD2YBQ",
+    "name": "Painting Therapy",
+    "description": "Painting therapy is a form of art therapy in which participants paint to express themselves artistically and gain insight into their feelings and behaviors. It can help with many conditions, including stress, anxiety, depression, grief, and problems with self-esteem.",
+    "handle": "painting-therapy"
+  },
+  {
+    "id": "pcat_01K0X9H9S5JR0JDEXBS2ZYPP58",
+    "name": "Palmatine",
+    "description": "Palmatine is one of the main four protoberberine alkaloids (alongside Berberine) and is commonly found in plants that confer berberine, such as Berberis Aristata and Tinospora cordifolia.",
+    "handle": "palmatine"
+  },
+  {
+    "id": "pcat_01K0X9H9TREYGBJZJ7HR21YQCN",
+    "name": "Palmitoylethanolamide",
+    "description": "Palmitoylethanolamide (PEA) is an endogenously-produced lipid-like molecule that is very similar to endocannabinoids. PEA has anti-inflammatory properties and has been used to treat allergies, chronic pain, neurodegeneration, mental disorders, and sleep conditions.",
+    "handle": "palmitoylethanolamide"
+  },
+  {
+    "id": "pcat_01K0X9H9W9ARPWYDZBAHG23EW1",
+    "name": "Panax Ginseng (Korean Ginseng)",
+    "description": "Panax ginseng is commonly referred to as “Korean ginseng”. It appears to be effective for mood, immunity, and cognition, but is subpar for erectile function, testosterone, and exercise performance.",
+    "handle": "panax-ginseng"
+  },
+  {
+    "id": "pcat_01K0X9H9Y2B92K5P9B90WEN2QG",
+    "name": "Panax Notoginseng",
+    "description": "Panax notoginseng, commonly referred to as Chinese ginseng, may have some cardioprotective properties. However, further research is required to fully understand its potential effects and side effects.",
+    "handle": "panax-notoginseng"
+  },
+  {
+    "id": "pcat_01K0X9H9ZP6H14GVZS0FH7QS8J",
+    "name": "Panax Quinquefolius (American Ginseng)",
+    "description": "Panax quinquefolius, commonly referred to as “American ginseng”, appears to be useful in preventing some viral upper respiratory tract infections. It may also have hypoglycemic properties (may reduce blood glucose) and improve cognition. However, more research is needed.",
+    "handle": "american-ginseng-panax-quinquefolius"
+  },
+  {
+    "id": "pcat_01K0X9HA197QY2S5G10719E8Q5",
+    "name": "Pantothenic Acid (Vitamin B5)",
+    "description": "Pantothenic acid is one of the B-vitamins which is critical in the formation of Co-enzyme A, a molecule which helps a large amount of enzymes function in the body, and for energy production in general. While it is important, it is rare to be deficient and further supplementation shows little promise.",
+    "handle": "vitamin-b5"
+  },
+  {
+    "id": "pcat_01K0X9HA2TYMPCKB5TYR83WCBQ",
+    "name": "Paraprobiotics",
+    "description": "Paraprobiotics, also known as inactivated probiotics, are non-viable microbial cells or cell extracts that can confer health benefits when consumed in adequate amounts. These benefits may include immune function and gut health improvements.",
+    "handle": "paraprobiotics"
+  },
+  {
+    "id": "pcat_01K0X9HA4CSHKE56VZZHZ4K8RV",
+    "name": "Passionflower",
+    "description": "Passionflower is a woody, flowering vine used as a calming supplement for both anxiety and sleeping disorders. There are many different forms of the supplement, including tea, liquids, capsules, and tablets. It is generally well-tolerated with limited side effects.",
+    "handle": "passionflower"
+  },
+  {
+    "id": "pcat_01K0X9HA60DX0MQYG0XS1DFMDY",
+    "name": "Patchouli",
+    "description": "Pogostemon cablin, also known as patchouli, is an herb used in aromatherapy and perfumes. It is being investigated for its potential anti-viral and anti-inflammatory properties.",
+    "handle": "patchouli"
+  },
+  {
+    "id": "pcat_01K0X9HA7HQMWG3MGT4XHK3G3Q",
+    "name": "Pea Protein",
+    "description": "Pea protein, also known as pea protein isolate, is a protein made from ground yellow peas. It’s a high-quality protein source that is also vegan and hypoallergenic, making it a popular protein option. One serving of pea protein contains about 15 grams of protein.",
+    "handle": "pea-protein"
+  },
+  {
+    "id": "pcat_01K0X9HA95BBCT877K6RMBQQGF",
+    "name": "Pedalium Murex",
+    "description": "Pedalium Murex is a herb traditionally used alongside Tribulus Terrestris for male enhancement and urinary/genital health. It has minimal evidence, but appears to have similar bioactivities as Tribulus (although one study suggests Pedalium increases testosterone).",
+    "handle": "pedalium-murex"
+  },
+  {
+    "id": "pcat_01K0X9HAAQJREPTA768PRJA7NW",
+    "name": "Pelargonidin",
+    "description": "Pelargonidin is one of the six anthocyanin compounds, and is both the simplest in structure and is red. It is commonly associated with strawberries, although it is present in all berries. Seems to have its bioactivity saved by Quercetin.",
+    "handle": "pelargonidin"
+  },
+  {
+    "id": "pcat_01K0X9HAC9MBQH5KQT707DK3FF",
+    "name": "Peppermint",
+    "description": "Peppermint (Mentha piperita) is a hydrid plant that is used for its sensory properties (aroma and taste) and the oil is used internally as a carminative and intestinal aid. It appears to be well supported for relaxing the stomach and intestines, and effectively reduces abdominal pain in IBS.",
+    "handle": "peppermint"
+  },
+  {
+    "id": "pcat_01K0X9HADX41YW979W8KWCEYTR",
+    "name": "Perilla",
+    "description": "\"Perilla\" refers to the seeds of perilla frutescens.",
+    "handle": "perilla"
+  },
+  {
+    "id": "pcat_01K0X9HAFHE1ZXRP7GSJY99HMT",
+    "name": "Persicaria Minor",
+    "description": "Persicaria minor is a traditional herbal remedy that has been suggested to have anticancer, antibacterial, and antioxidant properties. Some evidence also suggests that persicaria minor extract could help reduce high blood pressure.",
+    "handle": "persicaria-minor"
+  },
+  {
+    "id": "pcat_01K0X9HAH2J5VQBJJSFHF4F362",
+    "name": "Pet Ownership",
+    "description": "Pet ownership is a type of pet therapy that harnesses the supportive and positive effects that a companion animal can have on mental and physical health. Pet ownership has been associated with improved blood pressure, lower rates of depression, and increased well-being.",
+    "handle": "pet-ownership"
+  },
+  {
+    "id": "pcat_01K0X9HAJNGVP8FA6SNHD7W7BH",
+    "name": "Phellodendron Amurense",
+    "description": "Phellodendron amurense (PA), also known as CorkTree, is a chinese herb used to historically treat different forms of inflammation and bone pain. There is not too much Western research on this herb.",
+    "handle": "phellodendron-amurense"
+  },
+  {
+    "id": "pcat_01K0X9HAM9XPMRWZ4E32YS93WT",
+    "name": "Phenylethylamine",
+    "description": "A trace amine and influencer of many of the 'happy hormones' such as dopamine and serotonin, β-phenylethylamine is an important molecule in the brain with limited supplemental usage due to being rapidly broken down into inactive components.",
+    "handle": "phenylethylamine"
+  },
+  {
+    "id": "pcat_01K0X9HANW0CPTA7FNBBDAC2Z6",
+    "name": "Phenylpiracetam",
+    "description": "Phenylpiracetam (Phenotropil) is a racetam drug derived from Piracetam in where the only modification is the addition of a phenyl group to its structure. It appears to require much lower doses for similar properties, and appears to have psychostimulatory effects.",
+    "handle": "phenylpiracetam"
+  },
+  {
+    "id": "pcat_01K0X9HAQDWHWWQZ2QQBZPEPXJ",
+    "name": "Phlebodium Aureum",
+    "description": "Polypodium Leucotomos (Calaguala) is the commonly referred to name of a herb that appears to possess moderately potent protective effects against sun-induced skin damage; may also be an immune booster.",
+    "handle": "phlebodium-aureum"
+  },
+  {
+    "id": "pcat_01K0X9HAS10RB2H6BNMCD8W087",
+    "name": "Phosphatidylcholine",
+    "description": "Phosphatidylcholine is a phospholipid with a choline attachment and is found in soy lecithin.",
+    "handle": "phosphatidylcholine"
+  },
+  {
+    "id": "pcat_01K0X9HATNZZFA9YWCJ54X7TKN",
+    "name": "Phosphatidylserine",
+    "description": "Phosphatidylserine (PS) is an amino acid derivative that is fat soluble and found in high amounts in the brain, where it contributes to cognitive functioning. PS has been studied the most for cognition in adults over 50, for people with high chronic stress, and for exercise performance, but further research is needed to confirm any benefit.",
+    "handle": "phosphatidylserine"
+  },
+  {
+    "id": "pcat_01K0X9HAWD8Y60J1SV7BBDE8B2",
+    "name": "Phosphorus",
+    "description": "Phosphorus isn’t commonly supplemented, even though it’s the second most plentiful mineral in our bodies, after calcium. That’s because most diets are typically plentiful in phosphorus, and too much can be an issue. However, certain diets and health conditions can cause phosphorus insufficiency.",
+    "handle": "phosphorus"
+  },
+  {
+    "id": "pcat_01K0X9HAY2B2BEJGWGJRD97KF7",
+    "name": "Piceatannol",
+    "description": "Piceatannol is a stilbene similar to resveratrol that is found in limited levels in some of the same foods. They share many properties, and while piceatannol may be a possible alternative there is not enough evidence to suggest it is better than resveratrol.",
+    "handle": "piceatannol"
+  },
+  {
+    "id": "pcat_01K0X9HB10T15VEKTXQHXHKXTY",
+    "name": "Pine Pollen",
+    "description": "Pine Pollen refers to the pollen of trees in the pinus genera, which are sometimes used as dietary supplements. Scots Pine (Pinus sylvestris) contains testosterone at levels unlikely to affect the body, while other species may have antiinflammatory properties based on preliminary evidence.",
+    "handle": "pine-pollen"
+  },
+  {
+    "id": "pcat_01K0X9HB3C9M6HJGJ21VWBS80G",
+    "name": "Pinitol",
+    "description": "Pinotol is a bioactive compound derived from the plant Bougainvillea spectabilis. Some research has suggested that pinotol may have antidiabetic effects because of its ability to increase insulin sensitivity and improve blood glucose control.",
+    "handle": "pinitol"
+  },
+  {
+    "id": "pcat_01K0X9HB50H4MA1057KV6FW031",
+    "name": "Piperine",
+    "description": "Piperine is an alkaloid that comes from black pepper. It has antioxidant and anti-inflammatory effects, but it is more commonly taken to increase the absorption of curcumin.",
+    "handle": "piperine"
+  },
+  {
+    "id": "pcat_01K0X9HB70Q2QEX1CM6ZFFP8FW",
+    "name": "Piracetam",
+    "description": "Piracetam is the parent compound of the racetam class of nootropic supplements. When supplemented, it provides a mild boost to brain function.",
+    "handle": "piracetam"
+  },
+  {
+    "id": "pcat_01K0X9HBA5WNS5S2R1KY5669F4",
+    "name": "Plant-Based Meats",
+    "description": "Plant-Based meats are foods that mimic the taste and consistency traditional meat. They are usually made out of seitan, soy, peas, or legumes. ",
+    "handle": "plant-based-meats"
+  },
+  {
+    "id": "pcat_01K0X9HBCC8R8V4WBRGFE55JQE",
+    "name": "Plantago Major Seeds",
+    "description": "Plantago major seeds come from the plantago major plant, also known as broadleaf plantain. It is commonly used to treat intestinal ulcers and constipation. ",
+    "handle": "plantago-major-seeds"
+  },
+  {
+    "id": "pcat_01K0X9HBE0DWD0878GZFC06H6Z",
+    "name": "Policosanol",
+    "description": "Policosanol is a mixture of oils from Cuban Cane Sugar; touted as a cholesterol lowering agent, it shows potency at this claim in several studies released from Cuba. Other studies undermine the quality of these, however, and it remains controversial.",
+    "handle": "policosanol"
+  },
+  {
+    "id": "pcat_01K0X9HBFGH2RXXPWB6XHSZZ9Q",
+    "name": "Poly-Γ-Glutamic Acid",
+    "description": "Poly-γ-Glutamic Acid is a compound that is created by the genus of bacteria called Bacillus. Some animal studies have shown that it may have antitumor properties.",
+    "handle": "poly-gh-glutamic-acid"
+  },
+  {
+    "id": "pcat_01K0X9HBH3SC5GG7A2SSS39WF4",
+    "name": "Polygala Tenuifolia",
+    "description": "Polygala tenuifolia is a root used in traditional Chinese medicine for its ability to improve memory and protect against cognitive ailments. Limited human evidence suggests Polygala tenuifolia cannot improve memory, but may improve spatial awareness and organization.",
+    "handle": "polygala-tenuifolia"
+  },
+  {
+    "id": "pcat_01K0X9HBJMSKZ4K36M1W7GW86E",
+    "name": "Pomegranate Seed Oil",
+    "description": "Punicic Acid is the main fatty acid found in Pomegranate Seed Oil and found in Pomegranates, it may contribute to many of the health benefits associated with Pomegranates.",
+    "handle": "pomegranate-seed-oil"
+  },
+  {
+    "id": "pcat_01K0X9HBM8AHNCZZ5R5KHWH3K9",
+    "name": "Potassium",
+    "description": "Potassium is essential for normal bodily function. It is obtained in the diet and found in several foods. Potassium-containing drugs are sometimes used to treat certain conditions. Potassium salts (e.g. potassium chloride) are used in reduced-sodium added-potassium salt substitute interventions and in sodium restriction diets to help treat high blood pressure.",
+    "handle": "potassium"
+  },
+  {
+    "id": "pcat_01K0X9HBNT88JE28Q6P1E7FKTT",
+    "name": "Powdered Fruits And Vegetables",
+    "description": "Fruit and vegetable powders – sometimes referred to as “greens powders” – are dietary supplements that contain various blends of dehydrated fruits, vegetables, grains, and grasses. They often contain other ingredients like probiotics, digestive enzymes, vitamins, minerals, plant extracts, and functional fibers. Though they do provide small amounts of absorbable nutrients, they can’t replace whole foods, and may be contaminated with harmful or banned substances.",
+    "handle": "powdered-fruits-and-vegetables"
+  },
+  {
+    "id": "pcat_01K0X9HBQDJ5JR7VKR14J4VRZ6",
+    "name": "PQQ",
+    "description": "PQQ is a small molecule once thought to be a vitamin, although its actions in the human body are not related to this hypothesized vitamin-like mechanism. Via its actions as a REDOX agent in cells, it can modify signalling and is thought to support mitochondrial function.",
+    "handle": "pqq"
+  },
+  {
+    "id": "pcat_01K0X9HBS10YFGE7TR3KQ4AZV1",
+    "name": "Pramiracetam",
+    "description": "Pramiracetam is a synthetic racetam derivative for the purpose of cognitive enhancement, with preliminary evidence to support its usage in aiding long-term memory formation. Although the mechanisms are not well known at all, it might enhance acetylcholine synthesis.",
+    "handle": "pramiracetam"
+  },
+  {
+    "id": "pcat_01K0X9HBTN6XVT0PQA5EQ86XG2",
+    "name": "Prebiotics",
+    "description": "Prebiotics are nutrients found in food that increase the amount of bacteria in the gastrointestinal system. Fiber from fruits and vegetables are abundant in many types of prebiotics.",
+    "handle": "prebiotics"
+  },
+  {
+    "id": "pcat_01K0X9HBW8BH2T43VAPA7EMT1A",
+    "name": "Prenatal Vitamins",
+    "description": "Prenatal supplements, also known as prenatal vitamins, are frequently used by women before conception and throughout gestation. Their purpose is to guarantee that both the expectant mother and the developing fetus obtain the necessary quantity of vital nutrients. They usually contain folic acid, iron, and other micronutrients, but the composition varies from brand to brand.",
+    "handle": "prenatal-vitamins"
+  },
+  {
+    "id": "pcat_01K0X9HBXS9TNPTKW1RPBPN3CM",
+    "name": "PRL-8-53",
+    "description": "PRL-8-53 is a synthetic supplement with potential benefits for short term memory. More evidence is needed for its effects, since all current evidence comes from a study funded by the patent holder.",
+    "handle": "prl-8-53"
+  },
+  {
+    "id": "pcat_01K0X9HBZC2FBK285HK967GH9W",
+    "name": "Probiotics",
+    "description": "Probiotics are bacteria found in the gastrointestinal system that can have a positive effect on health.",
+    "handle": "probiotics"
+  },
+  {
+    "id": "pcat_01K0X9HC0XTDNDAF4KRTD0W5E3",
+    "name": "Propolis",
+    "description": "Propolis is a waxy substance that is made by honey bees. It is touted as having many health benefits, such as a treatment for allergies and gastrointestinal problems. ",
+    "handle": "propolis"
+  },
+  {
+    "id": "pcat_01K0X9HC2HW54PJSM84BWG4HVW",
+    "name": "Psyllium",
+    "description": "Psyllium fiber, derived from several species of the Plantago genus, is usually taken in its powdered husk form. It is best known for constipation relief but may hold other benefits for digestive and metabolic health.",
+    "handle": "psyllium"
+  },
+  {
+    "id": "pcat_01K0X9HC44B162AEXABGZBVGSF",
+    "name": "Pterostilbene",
+    "description": "Pterostilbene is a dimethylated derivative of resveratrol that, for some mechanisms, is more potent. It is also much better absorbed, and is commonly referred to as a 'better resveratrol'. It looks promising, but has significantly less research than its predecessor.",
+    "handle": "pterostilbene"
+  },
+  {
+    "id": "pcat_01K0X9HC5NVBECEEPYK865YS6H",
+    "name": "Pueraria Mirifica",
+    "description": "Pueraria Candollei var. Mirifica (White Kwao Krua) is a highly estrogenic herb (main bioactive, Deoxymiroestrol, being more potent than estrogen itself) which is used as herbal estrogen replacement therapy. It appears effective, but lacks blinded studies.",
+    "handle": "pueraria-mirifica"
+  },
+  {
+    "id": "pcat_01K0X9HC78D0D4JCP40KQAKPX3",
+    "name": "Pumpkin Seed Extract",
+    "description": "Pumpkin Seed Extract is a supplement commonly used for hormone health, hair loss, and benign-prostatic-hyperplasia.",
+    "handle": "pumpkin-seed-extract"
+  },
+  {
+    "id": "pcat_01K0X9HC8V8QH2M559KX689ZPY",
+    "name": "Punarnava",
+    "description": "Boerhaavia diffusa is an herb with anti-cancer and anti-inflammatory properties.",
+    "handle": "punarnava"
+  },
+  {
+    "id": "pcat_01K0X9HCACEK6K5VNT400Q3G0S",
+    "name": "Punicalagins",
+    "description": "Punicalagins are really big molecules found in pomegranate juice that are somehow absorbed; they are potent anti-oxidants, and alongside punicic acid confer many of the benefits associated with pomegranates, of which many studies conducted with are here.",
+    "handle": "punicalagins"
+  },
+  {
+    "id": "pcat_01K0X9HCC55PC2YFX9650ZQAJG",
+    "name": "Purple Nutsedge",
+    "description": "Purple nutsedge, also known as nut grass, is a weed that has a similar appearance to grass. As a supplement, it is used for its supposed anti-inflammatory and antioxidant effects. ",
+    "handle": "purple-nutsedge"
+  },
+  {
+    "id": "pcat_01K0X9HCDR14KAANSET7P39T52",
+    "name": "Purslane Extract",
+    "description": "Purslane extract comes from the succulent plant Portulaca oleracea. It is most commonly used for skin problems, digestive concerns, and many other health problems.",
+    "handle": "purslane-extract"
+  },
+  {
+    "id": "pcat_01K0X9HCF9D9DCYXCYCH4V38ZD",
+    "name": "Pycnogenol",
+    "description": "Pycnogenol is a standardized extract of bark from the French maritime pine Pinus pinaster that provides a concentrated source of polyphenols, predominantly procyanidins. Pycnogenol may reduce symptoms of chronic venous insufficiency and osteoarthritis thanks to its antioxidant, anti-inflammatory, and vasoactive properties; however, the evidence is relatively weak.",
+    "handle": "pycnogenol"
+  },
+  {
+    "id": "pcat_01K0X9HCGW2SYAFXYHA8V99T70",
+    "name": "Pygeum",
+    "description": "Pygeum is an extract made from the the bark of the Prunus africana tree. It is commonly sold as a supplement for prostate health.",
+    "handle": "pygeum"
+  },
+  {
+    "id": "pcat_01K0X9HCJFPM3XYKGX2CRS72QA",
+    "name": "Pyridoxine (Vitamin B6)",
+    "description": "Vitamin B6 is a water-soluble vitamin that is essential for health. After ingestion, it is converted into a coenzyme that supports the function of numerous enzymes in the body important for brain and cognitive development, immune function, and metabolic processes. Although deficiencies are rare, people on specific medications or with distinct medical conditions may require supplementation.",
+    "handle": "vitamin-b6"
+  },
+  {
+    "id": "pcat_01K0X9HCM1ZQ155XTE7M4W3XYJ",
+    "name": "Pyritinol",
+    "description": "Pyritinol (Pyrithioxine) is a molecule that is, structurally, two Vitamin B6 molecules attached to each other. It is touted to be an anti-hangover pill and a brain booster, with subpar evidence for both claims; it is linked to a moderate amount of avoidable side-effects.",
+    "handle": "pyritinol"
+  },
+  {
+    "id": "pcat_01K0X9HCNNDJVDGQXJN320EQHN",
+    "name": "Pyruvate",
+    "description": "Pyruvate is an energy intermediate in cells, derived from both glucose and fatty acids to produce ATP. Despite this importance, human studies are not overly promising and the high doses needed are sometimes limited by intestinal side-effects.",
+    "handle": "pyruvate"
+  },
+  {
+    "id": "pcat_01K0X9HCQA01WG98W06BWP6X4E",
+    "name": "Quercetin",
+    "description": "Quercetin is the most well researched of all bioflavonoids. It is not actually that good of a supplement on its own, but is an interesting research topic. Tons of interactions, and synergistic with other bioflavonoids and increases absorption of Resveratrol and Green Tea Catechins.",
+    "handle": "quercetin"
+  },
+  {
+    "id": "pcat_01K0X9HCRX8EN1PXFXPQP4HWD2",
+    "name": "Raspberry Ketone",
+    "description": "Raspberry ketone is a molecule marketed as a fat burning compound. Oral doses of this supplement are not effective.",
+    "handle": "raspberry-ketone"
+  },
+  {
+    "id": "pcat_01K0X9HCTHREC2JJQW4JXJC5HC",
+    "name": "Rauwolscine",
+    "description": "Rauwolscine is a molecule which is very similar in structure to yohimbine, and probably similar in its effects as well; may be more potent, but limited evidence exists.",
+    "handle": "rauwolscine"
+  },
+  {
+    "id": "pcat_01K0X9HCW4579YBWBDT0EC41QY",
+    "name": "Red Berry Powder",
+    "description": "Red Berry Powder consists of a concentrated powdered blend of red berries, such as raspberries, goji berries, and more. ",
+    "handle": "red-berry-powder"
+  },
+  {
+    "id": "pcat_01K0X9HCXNGFXST3QMBF84H2RV",
+    "name": "Red Clover Extract",
+    "description": "Red clover (Trifolium pratense) is a plant in the Fabaceae (legume) family that is a source of isoflavones with estrogen-like effects, similar to soy. Red clover has primarily been researched as a supplement in menopause and might reduce the frequency of hot flashes, but other menopause-related outcomes have been largely inconclusive.",
+    "handle": "red-clover-extract"
+  },
+  {
+    "id": "pcat_01K0X9HCZ9RHTDZJM20K59AY1V",
+    "name": "Red Paprika Extract",
+    "description": "Red Paprika extract comes from the fruit pods of Capsicum plants.",
+    "handle": "red-paprika-extract"
+  },
+  {
+    "id": "pcat_01K0X9HD0XZD2XTDZB0EAJGD1H",
+    "name": "Red Spinach Extract",
+    "description": "Red Spinach Extract is a concentrated form of the vegetable, red spinach. Due to its high nitrate content, it is commonly used for high-blood-pressure and exercise performance. ",
+    "handle": "red-spinach-extract"
+  },
+  {
+    "id": "pcat_01K0X9HD2GG8MADEACEGK2T3GP",
+    "name": "Red Yeast Rice",
+    "description": "Red yeast rice (RYR) is a fermented rice used traditionally in East Asia as a medicine and food. Supplementation with RYR seems to reduce cholesterol levels and may improve overall cardiovascular health. The main active compound in RYR is monacolin K, which is identical to the cholesterol-lowering medication lovastatin.",
+    "handle": "red-yeast-rice"
+  },
+  {
+    "id": "pcat_01K0X9HD4473QPMKXP9RX3KTMB",
+    "name": "Reishi",
+    "description": "Ganoderma lucidum is a potent immune system regulator, promising anti-cancer agent, and stress reducer. This mushroom is frequently used in traditional Chinese medicine.",
+    "handle": "reishi"
+  },
+  {
+    "id": "pcat_01K0X9HD5P2P7YHYZDSCS5K9C2",
+    "name": "Resistant Starch",
+    "description": "Resistant starch is a type of dietary fiber that can be found naturally in foods (e.g., legumes, whole grains, potatoes, underripe bananas) or taken as a supplement. Resistant starch acts as a food source for microbes in the gut, which can stimulate the growth of potentially beneficial bacteria and lead to the production of short-chain fatty acids. While this might lead to positive effects both locally in the gut and for overall health, clinical trials tend to report inconsistent results and any benefits seem to be small in magnitude.",
+    "handle": "resistant-starch"
+  },
+  {
+    "id": "pcat_01K0X9HD79Z1G4TDZBPQVZ6G8H",
+    "name": "Resveratrol",
+    "description": "Resveratrol is a bioactive molecule found in plant sources such as grapes, peanuts, blueberries, and, famously, red wine. Resveratrol has anti-inflammatory and antioxidant properties that benefit cardiovascular function, glycemic control, and lipid metabolism. Although it’s promoted for lifespan extension, there’s no evidence for this in humans and limited evidence in animals.",
+    "handle": "resveratrol"
+  },
+  {
+    "id": "pcat_01K0X9HD8XCC80XCDSZ0MWN4Z9",
+    "name": "Rhamnogalacturonan I",
+    "description": "Rhamnogalacturonan I is a polysaccharide found in pectin (a type of fiber abundant in fruit). Supplementation may benefit immune health.",
+    "handle": "rhamnogalacturonan-i"
+  },
+  {
+    "id": "pcat_01K0X9HDAH02A9MR67WYBBA0HK",
+    "name": "Rhamnus Nakaharai",
+    "description": "Rhamnus nakaharai is a herb that has been used as folk medicine in Taiwan for intestinal distress (mostly constipation) and asthma, it is a good source of quercetin glycosides but not much research exists on the herb per se.",
+    "handle": "rhamnus-nakaharai"
+  },
+  {
+    "id": "pcat_01K0X9HDC2VVTCFWW4PG8AX52E",
+    "name": "Rhodiola Rosea",
+    "description": "Rhodiola rosea, often called “rhodiola” for short, is a plant in the genus Rhodiola that’s used as an herbal supplement with adaptogenic properties that help to provide general resistance to stress. Although its mechanisms of action are not completely understood, it is clear that rhodiola increases resilience to stress at both the cellular and systemic levels.",
+    "handle": "rhodiola-rosea"
+  },
+  {
+    "id": "pcat_01K0X9HDDN95S8QFV2WN4ZFH5T",
+    "name": "Riboflavin (Vitamin B2)",
+    "description": "Riboflavin is an essential vitamin that is required for some enzymes in the body to act normally. Supplementation of riboflavin is not outright required with a good diet, but may serve some benefits for cardiovascular health in genetically susceptible people.",
+    "handle": "vitamin-b2"
+  },
+  {
+    "id": "pcat_01K0X9HDF8S8G4W2TXEAA4081Q",
+    "name": "Rooibos",
+    "description": "Rooibos (Aspalathus linearis) is a semi-sweet tea touted for its potent antioxidant properties; despite being highly palatable and marketed, the poor absorption of the main bioactive (aspalathin) suggests a limit to its health promoting properties.",
+    "handle": "rooibos"
+  },
+  {
+    "id": "pcat_01K0X9HDGSY039FN54W0EHFM59",
+    "name": "Rose Essential Oil",
+    "description": "Rose oil is an oil derived from roses (plant genus Rosa) used in aromatherapy and romance. The essential oil appears to be rich in Citronellol, and preliminary evidence suggests sedative, stress relieving, and anti-depressive effects from the aroma.",
+    "handle": "rose-essential-oil"
+  },
+  {
+    "id": "pcat_01K0X9HDJDRY1WF3Q331GGDEP8",
+    "name": "Rose Hip",
+    "description": "Rose hip, the fruit of Rosa canina, is a dietary supplement for joint health. It can alleviate symptoms of arthritis if taken daily.",
+    "handle": "rose-hip"
+  },
+  {
+    "id": "pcat_01K0X9HDM15E0CJ98G29SZFBG2",
+    "name": "Roselle",
+    "description": "Hibiscus Sabdariffa (Roselle or Sour Tea) is a tea where the usually dark colored flowers are used to brew. It appears to inhibit carbohydrate absorption to a degree and appears to be effective in reducing blood pressure.",
+    "handle": "roselle"
+  },
+  {
+    "id": "pcat_01K0X9HDNNYNJ4W307BN8TD4SB",
+    "name": "Roselle",
+    "description": "Hibiscus Sabdariffa (Roselle or Sour Tea) is a tea where the usually dark colored flowers are used to brew. It appears to inhibit carbohydrate absorption to a degree and appears to be effective in reducing blood pressure.",
+    "handle": "hibiscus-sabdariffa"
+  },
+  {
+    "id": "pcat_01K0X9HDQ8S6J2JK182P0XX170",
+    "name": "Rosemary Oil",
+    "description": "Rosemary Oil is an essential oil that is derived from the rosemary plant. It's commonly used for hair loss and skin health.",
+    "handle": "rosemary-oil"
+  },
+  {
+    "id": "pcat_01K0X9HDRVW22AP8TC5N0ZR8SC",
+    "name": "Rosmarinic Acid",
+    "description": "Rosmarinic Acid is a polyphenol similar to caffeic acid (found in coffee) and is in high levels in Perilla Oil and Rosemary, from which it draws its name. It is a general anti-oxidant and health compound, and seen as 'healthy'.",
+    "handle": "rosmarinic-acid"
+  },
+  {
+    "id": "pcat_01K0X9HDTBTBZMM3FCJH13WRJR",
+    "name": "Royal Jelly",
+    "description": "Royal jelly is a nutritious jelly with a composition similar to pollen, created by worker bees. It is being researched for its effects on testosterone and longevity.",
+    "handle": "royal-jelly"
+  },
+  {
+    "id": "pcat_01K0X9HDW2M14JMWHRCG9HW417",
+    "name": "Rutin",
+    "description": "Rutin is a flavonoid that is found in plant foods, such as apples, buckwheat, and figs. ",
+    "handle": "rutin"
+  },
+  {
+    "id": "pcat_01K0X9HDXNWGBXXZ8N8W6A8QHY",
+    "name": "S-Adenosylmethionine",
+    "description": "S-adenosylmethionine (SAMe) is a metabolite in the body that helps maintain several important biological reactions. Low levels of SAMe in the body are associated with several conditions, including liver conditions, chronic kidney disease (CKD), coronary artery disease (CAD), depression, and neurodegenerative conditions like dementia and Alzheimer’s disease. Supplementation with SAMe might improve liver health and depression, but further high-quality clinical trials are needed to confirm those benefits.",
+    "handle": "s-adenosyl-methionine"
+  },
+  {
+    "id": "pcat_01K0X9HDZAT5694SVTBP3ZHCC2",
+    "name": "Sacred Lotus",
+    "description": "Nelumbo nucifera (a flower commonly called Indian Lotus or Sacred Lotus) is sometimes used in Asiatic dishes. It is high in phenolics and may be anti-depressant and anti-diabetic; no human studies.",
+    "handle": "sacred-lotus"
+  },
+  {
+    "id": "pcat_01K0X9HE0XJC52CWFNQ027JWAH",
+    "name": "Safed Musli",
+    "description": "Chlorophytum borivilianum (Safed Musli) is a Rasayana herb from Indian Medicine supposedly used as an aphrodisiac and adaptogen. Mostly rat studies currently, but it appears to be an effective erectogenic agent and aphrodisiac.",
+    "handle": "safed-musli"
+  },
+  {
+    "id": "pcat_01K0X9HE2HESV2CW7CWVMVKD1F",
+    "name": "Safflower Oil",
+    "description": "Safflower Oil is a cooking oil that is found in two main forms; high (up to 75%) linoleic (omega-6 fatty acid) and high (up to 75%) oleic, the main fatty acid in Olive Oil, with about 7% saturated fat content.",
+    "handle": "safflower-oil"
+  },
+  {
+    "id": "pcat_01K0X9HE42E82QG9C2K176F7Q9",
+    "name": "Saffron",
+    "description": "Saffron is a spice with antioxidant properties derived from the flowering plant Crocus sativus. When used as a supplement, saffron seems to be effective at reducing symptoms of depression and possibly anxiety.",
+    "handle": "saffron"
+  },
+  {
+    "id": "pcat_01K0X9HE5N4MDM4FKVXVA1D85G",
+    "name": "Sage",
+    "description": "Sage, also known as Salvia officinalis, is an herbal supplement that is used for a variety of ailments, such as pain, inflammation, infections, and more. ",
+    "handle": "sage"
+  },
+  {
+    "id": "pcat_01K0X9HE790HNZVRET7FWKRHDK",
+    "name": "Salacia Reticulata",
+    "description": "Salacia reticulata is a medicinal herb from Ayurveda which appears to have anti-diabetic activities, namely by inhibiting carbohydrate uptake from the intestines; it appears quite effective at this, similar to acarbose in potency.",
+    "handle": "salacia-reticulata"
+  },
+  {
+    "id": "pcat_01K0X9HE8XA3J2X33EAEQCC7DG",
+    "name": "Salidrosides",
+    "description": "Salidrosides is a compound found in the popular supplement, Rhodiola rosea. Salidroside has been used to treat many brain-related problems, such as Alzheimer's, stroke, depression, and more.",
+    "handle": "salidrosides"
+  },
+  {
+    "id": "pcat_01K0X9HEAH4B4G4QZDRY5J123T",
+    "name": "Salt",
+    "description": "Salt refers to typical table salt, which is composed of sodium and chloride. ",
+    "handle": "salt"
+  },
+  {
+    "id": "pcat_01K0X9HEC4D8534RMSTTMF100S",
+    "name": "Sarcosine",
+    "description": "Sarcosine is a product of glycine. It can be used as a cognitive enhancer and to treat schizophrenia.",
+    "handle": "sarcosine"
+  },
+  {
+    "id": "pcat_01K0X9HEDP7XECES7TFV2GD3RW",
+    "name": "Saw Palmetto",
+    "description": "Saw Palmetto is a fatty acid mix from Serenoa repens that has been touted for its abilities to increase testosterone (not effective) and suppress prostate growth (questionable effectiveness); safe for use in benign prostatic hyperplasia and abnormal urine flow rates in men, but studies have had mixed results in terms of efficacy.",
+    "handle": "saw-palmetto"
+  },
+  {
+    "id": "pcat_01K0X9HEF7KRSG5D5WGPD722TD",
+    "name": "Schisandra",
+    "description": "Schizandra berries have been used traditionally as performance enhancers and as an adaptogen. Lots of human evidence from many decades ago in Russia that cannot be accessed, and limited Western evidence. Appears to also reduce anxiety and cortisol, with a tart taste.",
+    "handle": "schisandra"
+  },
+  {
+    "id": "pcat_01K0X9HEGSJZ41JY0P6DRC3YD8",
+    "name": "Sea Buckthorn",
+    "description": "Sea buckthorn (Hippophae rhamnoides) is a plant whose leaves are sometimes supplemented (or the berries consumed as juice) for general antiinflammatory and antioxidative purposes. Though healthy, it does not appear to have any unique literature on it to support supplementation.",
+    "handle": "sea-buckthorn"
+  },
+  {
+    "id": "pcat_01K0X9HEJGXFD8H22GY60NJW0H",
+    "name": "Selenium",
+    "description": "An Essential Mineral that is heralded for its anti-oxidant capabilities, it forms a part of some anti-oxidant enzymes such as glutathione to confer protective effects. Taking more than needed, however, can cause oxidative damage and may be pro-diabetic.",
+    "handle": "selenium"
+  },
+  {
+    "id": "pcat_01K0X9HEM6P8H6P174S18FEXAA",
+    "name": "Senna",
+    "description": "Senna alexandrina is a plant containing sennosides which possess laxative properties. Senna is commonly used to treat constipation and prepare the bowels for a colonoscopy.",
+    "handle": "senna"
+  },
+  {
+    "id": "pcat_01K0X9HEQE8GGAZCWDANTC2V97",
+    "name": "Serrapeptase",
+    "description": "Serrapeptase is an enzyme derived from silkworms. It has anti-inflammatory effects and can help prevent blood clots, but these effects are somewhat unreliable.",
+    "handle": "serrapeptase"
+  },
+  {
+    "id": "pcat_01K0X9HETDS3A60HCP4YK4DXWP",
+    "name": "Sesamin",
+    "description": "Sesamin is a lignan derived from sesame seeds (Sesamum indicum) that appears to inhibit vitamin E metabolism, which causes a relative increase in circulating levels of γ-tocopherol and γ-tocotrienol; it shows most promise in augmenting the efficacy of vitamin E supplements.",
+    "handle": "sesamin"
+  },
+  {
+    "id": "pcat_01K0X9HEW2V6K53GE0T4X445B6",
+    "name": "Shatavari",
+    "description": "Asparagus racemosus is an herb used in Ayurveda medicine. It is not the commonly consumed vegetable, but it is a related plant.",
+    "handle": "shatavari"
+  },
+  {
+    "id": "pcat_01K0X9HEXN7B4N6XG8J8YX7W3R",
+    "name": "Shilajit",
+    "description": "Shilajit is a natural compound that seeps out of sedimentary rock in certain regions of the world. It is best known for its antioxidant and anti-inflammatory properties. However, despite a long history of traditional use, there’s very little high-quality human research on it.",
+    "handle": "shilajit"
+  },
+  {
+    "id": "pcat_01K0X9HEZ9T4D3F1DNGXGA1PRY",
+    "name": "Shivlingi",
+    "description": "An Ayurveda herb used traditionally as an aphrodisiac and pro-fertility compound, touted to increase masculinity and enhance youthfulness during aging. It belongs to the category of Vrishya rasayana alongside Anacyclus Pyrethrum.",
+    "handle": "shivlingi"
+  },
+  {
+    "id": "pcat_01K0X9HF0XTEE8F1V9Z3NR1XMK",
+    "name": "Silica",
+    "description": "Silica (aka silicon dioxide) is a naturally occurring mineral with the chemical formula SiO2. It is found in many compounds with other minerals in nature and in synthetic products.",
+    "handle": "silica"
+  },
+  {
+    "id": "pcat_01K0X9HF2HDV81R4TMMMZZ8QWB",
+    "name": "Silk Amino Acid (SAA)",
+    "description": "SAAs are amino acids derived from the Silkworm cocoon, containing the peptide compounds Sericin-S and Sericin-L (small and large). Hydrolyzed SAAs are needed to be digested, and SAAs appear to be very nice compounds for skin, hair, and nail health when orally ingested.",
+    "handle": "silk-amino-acids"
+  },
+  {
+    "id": "pcat_01K0X9HF46CFYRXJ8DPXB4JK7D",
+    "name": "Silymarin",
+    "description": "Silymarin is a complex mixture of plant-derived compounds extracted from milk thistle. It mostly contains flavonolignans and flavonoids, which have antioxidant and anti-inflammatory properties.",
+    "handle": "silymarin"
+  },
+  {
+    "id": "pcat_01K0X9HF5TP4MDA98KAGGC59BK",
+    "name": "Slippery Elm",
+    "description": "Slippery elm is a species of tree found in the United States and Canada. Its inner bark is ingested (often as a tea) to treat symptoms like sore throat, constipation, and irritable bowel syndrome, although it’s difficult to say whether it’s actually helpful for these conditions.",
+    "handle": "slippery-elm"
+  },
+  {
+    "id": "pcat_01K0X9HF7E7KBC1G9KP8T148QD",
+    "name": "Society Garlic",
+    "description": "An African herb traditionally used for its anti-infectious effects, it may be heart healthy and has some preliminary testicular effects suggesting it might increase testosterone levels; not enough evidence currently though.",
+    "handle": "society-garlic"
+  },
+  {
+    "id": "pcat_01K0X9HF92R4BMR3T7784VEG76",
+    "name": "Sodium Bicarbonate",
+    "description": "Sodium bicarbonate is a buffer that neutralizes acidity in the human body. It is used in dental products and antacids and sometimes to treat acidosis in critical illness. When taken as a supplement, sodium bicarbonate can enhance exercise performance.",
+    "handle": "sodium-bicarbonate"
+  },
+  {
+    "id": "pcat_01K0X9HFAPK60TR3MKRS6H4A9V",
+    "name": "Sodium Oligomannate",
+    "description": "Sodium Oligomannate is an oligosaccharide derived from marine algae. It is used to treat Alzheimer's disease, however, research is still ongoing. ",
+    "handle": "sodium-oligomannate"
+  },
+  {
+    "id": "pcat_01K0X9HFC93CSZ9QHQGN77BKFF",
+    "name": "Soy Isoflavones",
+    "description": "Soy Isoflavones, usually Genistein and Daidzein, are bioflavonoids found in soy products and other plants that are able to interact with various hormones such as estrogen. They appear to be healthy, and are not anathema to young men and testosterone levels.",
+    "handle": "soy-isoflavones"
+  },
+  {
+    "id": "pcat_01K0X9HFDY7RJCGYAGGRDQQ81S",
+    "name": "Soy Lecithin",
+    "description": "Soy lecithin is a lecithin (a structural term for a triglyceride with one fatty acid replaced by phosphatic acid conjugates) which delivers a high level of phosphatidylserine (PS), phosphatidylcholine (PC), and phosphatidylinositol (PI).",
+    "handle": "soy-lecithin"
+  },
+  {
+    "id": "pcat_01K0X9HFFJNH0Y4SN6HJHJM4AW",
+    "name": "Soy Protein",
+    "description": "Soy protein refers to protein that is derived from soybeans. Soybeans are harvested and processed into high-protein products such as soy flour, soy concentrates, and soy isolates that are used as ingredients in foods.",
+    "handle": "soy-protein"
+  },
+  {
+    "id": "pcat_01K0X9HFH7CN4PN4DYFQP153YR",
+    "name": "Spermidine",
+    "description": "Spermidine is a polyamine that plays a role in many metabolic processes. Supplementation may be beneficial for brain health and have anti-aging affects.",
+    "handle": "spermidine"
+  },
+  {
+    "id": "pcat_01K0X9HFJS7WAX0CX9QJQJF4SW",
+    "name": "Spikenard",
+    "description": "Nardostachys jatamansi (Jatamansi) is a supposedly calming herb from Ayurveda that has been used for anticonvulsive and antiepileptic properties. It may enhance learning in youth and neuroprotective properties (needs human evidence) and is protective against pancreatitis.",
+    "handle": "spikenard"
+  },
+  {
+    "id": "pcat_01K0X9HFMDPF73CWRANGQW0EWN",
+    "name": "Spirulina",
+    "description": "Spirulina, commonly known as “blue-green algae”, is a nontoxic cyanobacterium that is rich in various nutrients and bioactive pigments and polyphenols. Spirulina contains many antioxidant compounds and could have beneficial cardiometabolic effects.",
+    "handle": "spirulina"
+  },
+  {
+    "id": "pcat_01K0X9HFNZWRTJX4C6DWPAPBW8",
+    "name": "Squalene",
+    "description": "Squalene is a compound found in Olive Oil and in high amounts in shark oil. It was touted as the reason sharks don't get cancer, until it was found that sharks can get cancer. Squalene however, remains an anti-cancer compound, is fairly healthy, and benefits cholesterol levels.",
+    "handle": "squalene"
+  },
+  {
+    "id": "pcat_01K0X9HFQHQ6CJ3T8C1RAKWTH0",
+    "name": "St. John's Wort",
+    "description": "St. John’s wort, also known by its Linnean name of Hypericum perforatum (HP), is an anti-depressant herb that is commonly used for its neurological effects. While it appears effective, it is well known to adversely interact with a variety of pharmaceuticals.",
+    "handle": "st-johns-wort"
+  },
+  {
+    "id": "pcat_01K0X9HFS53PQD8M6Z1PMDKVJM",
+    "name": "Stinging Nettle",
+    "description": "Stinging Nettle is quite a nasty plant to touch, but oral ingestion of pills without spikes results in a moderately potent anti-inflammatory that can reduce the sniffles. Does not boost testosterone despite being claims to, although it can help Benign Prostatic Hyperplasia and urine abnormalities.",
+    "handle": "stinging-nettle"
+  },
+  {
+    "id": "pcat_01K0X9HFTYBW5FRB777DE3DN6V",
+    "name": "Sulbutiamine",
+    "description": "Sulbutiamine is a synthetic molecule which consists of two Thiamine (Vitamin B1) molecules bound together by a sulfur group, and appears to be somewhat useful in alleviating fatigue; especially that associated with infection.",
+    "handle": "sulbutiamine"
+  },
+  {
+    "id": "pcat_01K0X9HFZ81TMJJDF1ND1N99E7",
+    "name": "Sulforaphane",
+    "description": "Sulforaphane is an anti-cancer compound in cruciferous vegetables, most commonly credited to Broccoli. It appears to have general but potent antioxidant and possible anti-inflammatory actions, with the former similar to curcumin.",
+    "handle": "sulforaphane"
+  },
+  {
+    "id": "pcat_01K0X9HG0VWHATEHBFVK7E9SYS",
+    "name": "Sunifiram",
+    "description": "Sunifiram (DM-235) is an AMPAkine drug (acting via AMPA receptors) that exerts anti-amnesiac properties. With similar actions as nefiracetam, it holds promise as a cognitive enhancer but is relatively understudied currently.",
+    "handle": "sunifiram"
+  },
+  {
+    "id": "pcat_01K0X9HG2P8VF16DDT9YA2ZNH4",
+    "name": "Sweet Flag",
+    "description": "Acorus calamus is a plant used in traditional medicine. Due to its β-asarone content, it has been deemed unfit for human consumption.",
+    "handle": "sweet-flag"
+  },
+  {
+    "id": "pcat_01K0X9HG48GZAPEXRTW7C7R8QV",
+    "name": "Synbiotics",
+    "description": "Synbiotics refer to combinations of probiotics and prebiotics that may have a synergetic effect on the gut microbiome. Synbiotics are often used as dietary supplements or food ingredients.",
+    "handle": "synbiotics"
+  },
+  {
+    "id": "pcat_01K0X9HG5ZC4PJRDB3SE80CP20",
+    "name": "Tart Cherry Juice",
+    "description": "Tart cherry juice is best known for its antioxidant and anti-inflammatory effects. It seems to improve exercise recovery and possibly sleep quality. More evidence is needed to determine whether it is helpful for gout management.",
+    "handle": "tart-cherry-juice"
+  },
+  {
+    "id": "pcat_01K0X9HG7H7W2S3CW79NVGB1AG",
+    "name": "Taurine",
+    "description": "Taurine is a sulfur-containing amino acid that is not involved in protein synthesis but is essential to cardiovascular function and the development and function of the brain, retina, and skeletal muscle.",
+    "handle": "taurine"
+  },
+  {
+    "id": "pcat_01K0X9HG95EG6EC4JREWDSSHBZ",
+    "name": "Tea Catechins",
+    "description": "Tea catechins are compounds found in tea that have numerous health benefits.",
+    "handle": "tea-catechins"
+  },
+  {
+    "id": "pcat_01K0X9HGASME0XZ51FHKMGQ055",
+    "name": "Tea Tree Oil",
+    "description": "Tea tree oil, also known as melaleuca oil, is extracted from tea trees that grow in Australia. It is usually used as a topical treatment for acne, athlete's foot, and lice. However, it should never be ingested, as it can be poisonous internally.",
+    "handle": "tea-tree-oil"
+  },
+  {
+    "id": "pcat_01K0X9HGC93WE46QVD9H70HKQ7",
+    "name": "Terminalia Arjuna",
+    "description": "Terminalia arjuna (Arjuna) is a tree that has its bark used medicinally, usually for the purposes of cardioprotection. It appears to reduce pressure and pulse rate, and may increase aerobic exercise capacity.",
+    "handle": "terminalia-arjuna"
+  },
+  {
+    "id": "pcat_01K0X9HGDWRPR67GFJCA0SWKRF",
+    "name": "Terminalia Chebula",
+    "description": "Terminalia chebula, also known as black myrobalan, is an herbal supplement commonly used in Ayurvedic medicine. It is supposedly beneficial for conditions such as asthma, fungal infections, and gingivitis.",
+    "handle": "terminalia-chebula"
+  },
+  {
+    "id": "pcat_01K0X9HGFFVZ6BQPGT8QRVDBHT",
+    "name": "Tetradecyl Thioacetic Acid",
+    "description": "Technically an Omega-3 fatty acid, TTA is a non-metabolizable fatty acid that cannot be used for energy and may be able to burn fat via mechanisms similar to Conjugated Linoleic Acid. Lacking studies in humans at the moment, TTA appears to be a promising future candidate for fat loss and health.",
+    "handle": "tetradecyl-thioacetic-acid"
+  },
+  {
+    "id": "pcat_01K0X9HGH2MS44JGNVER938EM1",
+    "name": "Tetraselmis Chuii",
+    "description": "Tetraselmis chuii is a microalgae that is high in amino acids, essential fatty acids, and micronutrients.",
+    "handle": "tetraselmis-chuii"
+  },
+  {
+    "id": "pcat_01K0X9HGJNA0CNQK4GEHJDAC9Y",
+    "name": "Thai Ginseng",
+    "description": "Thai ginseng, also known as black ginger, is an herbal supplement usually used to improve male sexual function. It also has supposed benefits for allergies, asthma, gout, and gastrointestinal problems. ",
+    "handle": "thai-ginseng"
+  },
+  {
+    "id": "pcat_01K0X9HGM62N9SG926SRGA88FJ",
+    "name": "Theacrine",
+    "description": "Theacrine is an alkaloid structurally similar to caffeine, and preliminary evidence suggests that it activates similar signalling pathways. The preliminary evidence also suggests less tolerance with theacrine, but research is too sparse to draw any conclusions.",
+    "handle": "theacrine"
+  },
+  {
+    "id": "pcat_01K0X9HGNSXBFXJ8YPX9TYREJ7",
+    "name": "Theaflavins",
+    "description": "Theaflavins are a group of molecules that are found in black tea (due to an additional fermentation process from green tea) that are said to be the bioactives of black tea.",
+    "handle": "theaflavins"
+  },
+  {
+    "id": "pcat_01K0X9HGQDVS7F0YAWAQP04JMP",
+    "name": "Theanine",
+    "description": "Theanine, also commonly referred to as L-theanine, is a naturally occurring amino acid found in tea. Supplementation with L-theanine may help reduce stress and anxiety and might improve sleep quality and some aspects of cognitive function.",
+    "handle": "theanine"
+  },
+  {
+    "id": "pcat_01K0X9HGRYDYB32GQW13AGTRP0",
+    "name": "Thermal Spring Water",
+    "description": "Distilled from hot springs, Thermal Spring Water is a mineral-rich water used topically to treat various skin concerns, such as acne or eczema",
+    "handle": "thermal-spring-water"
+  },
+  {
+    "id": "pcat_01K0X9HGTHC52H5FQMVVYPC517",
+    "name": "Thiamine (Vitamin B1)",
+    "description": "Thiamine (Vitamin B1) is an essential vitamin involved heavily in glucose production. While not a common deficiency in an otherwise healthy diet and limited benefits when taken by a healthy subject, instances of high blood glucose and/or alcoholism can increase the need for this vitamin drastically.",
+    "handle": "vitamin-b1"
+  },
+  {
+    "id": "pcat_01K0X9HGW5NY12BH28C8KRGMXV",
+    "name": "Thunder God Vine",
+    "description": "Tripterygium wilfordii (Thunder God Vine) is a Traditional Chinese Medicine that appears to be effective for the treatment of inflammatory and autoimmune diseases, but has toxicity associated per se and a low therapeutic threshold.",
+    "handle": "thunder-god-vine"
+  },
+  {
+    "id": "pcat_01K0X9HGXTXDPYVAN2RZ6JF1P1",
+    "name": "Tongkat Ali",
+    "description": "Tongkat ali, also known as Eurycoma longifolia, is known for its aphrodisiac and profertility effects. It’s also promoted as a “testosterone booster”, and while some evidence exists for this effect in men with low testosterone and the mechanisms are plausible, the data aren’t convincing.",
+    "handle": "tongkat-ali"
+  },
+  {
+    "id": "pcat_01K0X9HGZDFSFVXCY0XE57HTTG",
+    "name": "Toothache Plant",
+    "description": "Spilanthes acmella is a traditional medicine for toothache, fever, and as an aphrodisiac; one study in rats suggests that it may increase testosterone, but it is an understudied herb.",
+    "handle": "toothache-plant"
+  },
+  {
+    "id": "pcat_01K0X9HH111M973MQG067M8KGV",
+    "name": "Torbangun",
+    "description": "Coleus amboinicus leaves are a traditional glactogogue used in Indoensia and are often served in the form of a soup.",
+    "handle": "torbangun"
+  },
+  {
+    "id": "pcat_01K0X9HH2PX2D96R7QDQ00WBPP",
+    "name": "Trehalose",
+    "description": "Trehalose is a sugar which, on a cellular level, appears to have therapeutic mechanisms by regulating protein unfolding. Practically, its low oral absorption in its intact form paired with rapid digestion may preclude any benefits of oral intake.",
+    "handle": "trehalose"
+  },
+  {
+    "id": "pcat_01K0X9HH6WDC80ERBWYAAS708V",
+    "name": "Tribulus Terrestris",
+    "description": "Tribulus terrestris is a plant whose root and fruits are used in Ayurvedic medicine for male virility and general vitality, respectively. It is also used in Traditional Chinese Medicine. It appears to reduce symptoms of sexual dysfunction (but not improve testosterone levels) in men and women and might improve metabolic health as well.",
+    "handle": "tribulus-terrestris"
+  },
+  {
+    "id": "pcat_01K0X9HH8M4C76C2KRG43CG71T",
+    "name": "Trichopus Zeylanicus",
+    "description": "Trichopus zeylanicus is a berry and plant that is referred to as Kerala Ginseng. It does not have much evidence behind it at this time but appears to be a performance enhancer, adaptogen, and aphrodisiac as well as generally healthy.",
+    "handle": "trichopus-zeylanicus"
+  },
+  {
+    "id": "pcat_01K0X9HHA9A8V5FNWXV8R80NP5",
+    "name": "Tryptophan",
+    "description": "Tryptophan is an amino acid that is needed in the body to build proteins and neurotransmitters. It is an essential amino acid, meaning that it cannot be synthesized by the body and therefore must be obtained from dietary sources.",
+    "handle": "tryptophan"
+  },
+  {
+    "id": "pcat_01K0X9HHBXHAMMSJ6CASQGYM3Y",
+    "name": "TUDCA",
+    "description": "TUDCA is a water soluble bile acid. It shows great potency in treating cholestasis (bile acid backup in the liver) as the water soluble bile acids counteract the toxicity of regular bile acids. Can also protect and rehabilitate the liver, and in general protects cells; very promising molecule.",
+    "handle": "tudca"
+  },
+  {
+    "id": "pcat_01K0X9HHDH1JNMKNY3KGJ2WDP2",
+    "name": "Tulsi",
+    "description": "Tulsi (also known as holy basil) is an aromatic plant with a long history of use in Ayurvedic medicine. While research is limited, preliminary studies have found benefits for gingivitis, metabolic health, and symptoms of stress.",
+    "handle": "tulsi"
+  },
+  {
+    "id": "pcat_01K0X9HHF8AD8X5BNG04NTF38C",
+    "name": "Turkey Tail Mushroom",
+    "description": "Turkey Tail Mushroom (Trametes versicolor) is a mushroom that is a source of a polysaccharide, known as polysaccharide K, that is established as a cancer adjunct therapy for the immune system.",
+    "handle": "turkey-tail-mushroom"
+  },
+  {
+    "id": "pcat_01K0X9HHGTHE95VPFMMEPB52JV",
+    "name": "Type-II Collagen",
+    "description": "Type II collagen (CII) is a protein and component of joint cartilage. Oral ingestion of CII in its undenatured form may reduce autoimmunity to the body's own CII, resulting in less joint inflammation in instances of osteoarthritis and rheumatism.",
+    "handle": "type-ii-collagen"
+  },
+  {
+    "id": "pcat_01K0X9HHJFBA8YRQG9FVBYYA6Y",
+    "name": "Umckaloabo",
+    "description": "Pelargonium sidoides, also known as African geranium, is a medicinal plant used to treat acute bronchitis. It may also act as an immune system booster, and alleviate symptoms of the common cold and herpes.",
+    "handle": "umckaloabo"
+  },
+  {
+    "id": "pcat_01K0X9HHM2S5DEPKHV2V3WRV01",
+    "name": "Uridine",
+    "description": "Uridine is a nucleotide base found in high levels in beer which is used for increasing synthesis of cellular membranes and for other neurological properties. It appears to have potentially cognitive enhancing properties, and is synergistic with fish oil.",
+    "handle": "uridine"
+  },
+  {
+    "id": "pcat_01K0X9HHNNSV8V44CZTF2NMPSD",
+    "name": "Urolithin A",
+    "description": "Urolithin A is a metabolite produced by gut bacteria from ellagitannins (compounds from various plant foods). Supplementation may benefit muscle function and endurance.",
+    "handle": "urolithin-a"
+  },
+  {
+    "id": "pcat_01K0X9HHQ9142K2JHY2WT5YKRA",
+    "name": "Ursolic Acid",
+    "description": "Ursolic Acid is a molecule found in apple peels, and in the Ayurveda herb known as Holy Basil. No human interventions exist right now, but ursolic acid appears to be a promising body recomposition agent; able to increase muscle mass and decrease fat mass. May be anti-fertility, however.",
+    "handle": "ursolic-acid"
+  },
+  {
+    "id": "pcat_01K0X9HHRTMV8H9HA50DDPVT81",
+    "name": "Uva Ursi",
+    "description": "Arctostaphylos uva-ursi, also known as uva ursi or bear’s grape, is a plant that grows in cool climates. The leaves of the plant are used in the treatment of urinary tract infections, but more human studies are needed before it can be recommended for supplementation.",
+    "handle": "uva-ursi"
+  },
+  {
+    "id": "pcat_01K0X9HHTD6YP0Z36NQ09CSWB6",
+    "name": "Valerian",
+    "description": "Valeriana officinalis, also known as valerian, is an herb that can be taken as a tea or a supplement. It is commonly used for its sedative and anxiety-reducing effects.",
+    "handle": "valerian"
+  },
+  {
+    "id": "pcat_01K0X9HHW2Y6HYBGXRZCW0CYFB",
+    "name": "Valine",
+    "description": "Valine is one of the three branched chain amino acids, although infrequently tested in isolation and possibly the least important BCAA for body composition and does not appear to have any known unique benefits associated with it.",
+    "handle": "valine"
+  },
+  {
+    "id": "pcat_01K0X9HHXNWZC5V9YY9SR7CX1C",
+    "name": "Vanadium",
+    "description": "Vanadium is a mineral that is not one of the Essential Mineral compounds, but is sometimes ingested in the diet. Can be found in bone tissues, Vanadium may influence glucose metabolism in an anti-diabetic manner.",
+    "handle": "vanadium"
+  },
+  {
+    "id": "pcat_01K0X9HHZ98892FMJ9FN73339M",
+    "name": "Velvet Antler",
+    "description": "Velvet Antler (usually from deer) is crushed antler that is orally consumed for preventative health purposes. Hailing from Traditional Chinese Medicine, velvet antler does not appear to influence hormones and is currently unsupported for muscle repair (although it may aid skin regeneration rates).",
+    "handle": "velvet-antler"
+  },
+  {
+    "id": "pcat_01K0X9HJ0TH9ES5HW9E08Z9D16",
+    "name": "Vinpocetine",
+    "description": "Vinpocetine is a compound from the Periwinkle plant that is used as a cognitive protective and anti-aging agent. One of the more common of the nootropics, Vinpocetine may enhance blood flow and is touted to increase memory; this latter claim has not been investigated.",
+    "handle": "vinpocetine"
+  },
+  {
+    "id": "pcat_01K0X9HJ2FSWJSZXJ9N2A31X1J",
+    "name": "Violet Flower",
+    "description": "Violet flower is an herbal supplement commonly used for allergic rhinitis, coughs, and pain.",
+    "handle": "violet-flower"
+  },
+  {
+    "id": "pcat_01K0X9HJ45198EM8H2YJPENCG0",
+    "name": "Vitamin A",
+    "description": "Vitamin A describes a group of metabolites involved in cell and tissue growth, and several bodily functions, including vision, bone metabolism, and immune function. Vitamin A metabolites include preformed vitamin A — retinols, retinals, retinyl esters, and retinoic acids — and precursors (i.e., provitamin A molecules) like beta-carotene, which can be converted by the body into the other forms of vitamin A.",
+    "handle": "vitamin-a"
+  },
+  {
+    "id": "pcat_01K0X9HJ5SP0CBSH0M6ABY1HHQ",
+    "name": "Vitamin C",
+    "description": "Vitamin C, or ascorbic acid, is an essential vitamin and a very popular supplement due to its antioxidant properties, safety profile, and low price. Many people supplement with vitamin C because it is believed to reduce symptoms of the common cold.",
+    "handle": "vitamin-c"
+  },
+  {
+    "id": "pcat_01K0X9HJ7DQPP9XQNMT6SHRCAH",
+    "name": "Vitamin D",
+    "description": "Vitamin D is a fat-soluble vitamin that our skin synthesizes when exposed to the sun. It benefits us in many ways, from bone health to mood.",
+    "handle": "vitamin-d"
+  },
+  {
+    "id": "pcat_01K0X9HJ91Z4RMYHMV83RHFHMT",
+    "name": "Vitamin E",
+    "description": "Vitamin E is a group of eight different compounds which, collectively, help support antioxidation in the body. Benefits of high doses have uncertain safety, and lower doses seem effective in boosting immunity in the elderly.",
+    "handle": "vitamin-e"
+  },
+  {
+    "id": "pcat_01K0X9HJAMWWQ7031XRWQ58V8T",
+    "name": "Vitamin K",
+    "description": "Vitamin K is a fat-soluble vitamin that plays a key role in blood coagulation, bone metabolism, and vascular health. Vitamin K1 is found in many leafy greens and soy, while vitamin K2 is found in meat and fermented foods and is synthesized by intestinal bacteria. Supplementation with vitamin K improves markers of bone health, and vitamin K is administered to newborns to prevent vitamin K deficiency bleeding.",
+    "handle": "vitamin-k"
+  },
+  {
+    "id": "pcat_01K0X9HJC9H71FCVSVRV51R068",
+    "name": "Vitamins E And C",
+    "description": "Vitamin C combined with vitamin E is a commonly supplemented combination of two essential antioxidants.",
+    "handle": "vit-e-c-combo"
+  },
+  {
+    "id": "pcat_01K0X9HJDX5YMGE6VB8ZJXRSKJ",
+    "name": "Whey Protein",
+    "description": "Whey protein is one of the two high-quality proteins derived from cow’s milk (casein being the other). Its high digestibility, quick absorption, and well-researched benefits for muscle gain and cardiometabolic health make it a popular protein supplement among athletes and older adults.",
+    "handle": "whey-protein"
+  },
+  {
+    "id": "pcat_01K0X9HJFDZAHFPYR1K5H1WS8A",
+    "name": "White Kidney Bean Extract",
+    "description": "White Kidney Bean extract, or Phase 2, is a dietary carbohydrate blocker similar to chlorogenic acid and is sometimes used alongside carb containing meals to reduce the absorption of carbohydrates. It does appear to work, but its potency is quite unreliable and relatively subpar.",
+    "handle": "white-kidney-bean-extract"
+  },
+  {
+    "id": "pcat_01K0X9HJH1H4H7B7K7A22ZMNGN",
+    "name": "White Mulberry",
+    "description": "Morus Alba (White Mulberry) is a plant where both the fruit and roots have been used traditionally for vitality and immune support; it may have cognitive enhancing properties (mostly unexplored) and anti-cancer effects.",
+    "handle": "white-mulberry"
+  },
+  {
+    "id": "pcat_01K0X9HJJKQ47HF19P86V0JZH2",
+    "name": "Whole Coffee Fruit Extract",
+    "description": "Whole Coffee Fruit Extract is derived from whole coffee fruit. It is high in antioxidants and has potential benefits for brain health. Although the extract comes from coffee, there is little to no caffeine. ",
+    "handle": "whole-coffee-fruit-extract"
+  },
+  {
+    "id": "pcat_01K0X9HJM58VM033X8PBHR0KG6",
+    "name": "Wild Celery Extract",
+    "description": "Wild Celery Extract, also known as Smyrnium olusatrum L., is a plant that was used for medicinal purposes in the Medieval period.",
+    "handle": "wild-celery-extract"
+  },
+  {
+    "id": "pcat_01K0X9HJNSRS9R7B9A3YF0G743",
+    "name": "Wild Yam",
+    "description": "Dioscorea villosa is one of the species of yam referred to as ‘wild yam’. It is claimed to alleviate symptoms of menopause, but there is no evidence to support this effect.",
+    "handle": "wild-yam"
+  },
+  {
+    "id": "pcat_01K0X9HJQAWPF9S0RPP271TVJQ",
+    "name": "Yacon",
+    "description": "Yacon (Smallanthus sonchifolius) is a tuber, whose syrup contains a large amount of fructooligosaccharides (FOS), which are carbohydrates that are partially absorbed and prebiotic in nature. Yacon may have benefits for intestinal health and may reduce appetite, but studies on it are limited.",
+    "handle": "yacon"
+  },
+  {
+    "id": "pcat_01K0X9HJRWBVMDKEKQYQZ0CPAC",
+    "name": "Yarrow",
+    "description": "The yarrow plant (Achillea millefolium) is a member of the Asteraceae family that has been used in cultural and traditional treatment of wounds, menstrual concerns, and gastrointestinal discomfort worldwide.",
+    "handle": "yarrow"
+  },
+  {
+    "id": "pcat_01K0X9HJTFG25DWGR09DZY6B9T",
+    "name": "Yeast Mannan",
+    "description": "Yeast Mannan is a polysaccharide found on the cell wall of yeast. Although indigestible, bacteria in the gut are able to break it down.",
+    "handle": "yeast-mannan"
+  },
+  {
+    "id": "pcat_01K0X9HJW1KGKZ27RV2XW8EZQ5",
+    "name": "Yohimbine",
+    "description": "Yohimbine is promoted for its fat-burning properties and benefits for male sexual dysfunction. Though yohimbine is effective, side effects may include anxiety, nervousness, and an elevated heart rate, and the reported dose of yohimbine in many supplement formulas doesn’t match the actual dose.",
+    "handle": "yohimbine"
+  },
+  {
+    "id": "pcat_01K0X9HJXP16TGHVZ1XWDWK0BK",
+    "name": "Zeaxanthin",
+    "description": "Zeaxanthin is a carotenoid commonly used alongside lutein for preserving retinal health.",
+    "handle": "zeaxanthin"
+  },
+  {
+    "id": "pcat_01K0X9HJZ9R1PPZ0J8Z3W0D7KK",
+    "name": "Zinc",
+    "description": "Zinc is an essential mineral that is critical for the function of hundreds of enzymes. Consequently, it plays many roles, including in antioxidant enzymes, brain function, and the immune system. Zinc is most commonly taken to reduce the duration of respiratory infections and the common cold.",
+    "handle": "zinc"
+  },
+  {
+    "id": "pcat_01K0X9HK0WE47J762CC4W1X59V",
+    "name": "ZMA",
+    "description": "ZMA stands for zinc, magnesium, and aspartate. ZMA is an easy way to supplement these two minerals and vitamin B6.",
+    "handle": "zma"
+  }
+]
