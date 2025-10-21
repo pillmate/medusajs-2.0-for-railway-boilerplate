@@ -1,0 +1,918 @@
+[
+  {
+    "id": "pcat_01K43XZB2YGG7RW5TF42RT4FHQ",
+    "name": "Allergies & Immunity",
+    "handle": "allergies-immunity",
+    "metadata": {
+      "supplements": {
+        "primary": [
+          {
+            "id": "pcat_01K0X9HJ5SP0CBSH0M6ABY1HHQ",
+            "name": "Vitamin C",
+            "purpose": "for mitigation of colds"
+          },
+          {
+            "id": "pcat_01K0X9HJ7DQPP9XQNMT6SHRCAH",
+            "name": "Vitamin D",
+            "purpose": "for prevention of acute respiratory infections"
+          }
+        ],
+        "secondary": [
+          {
+            "id": "pcat_01K0X9HJZ9R1PPZ0J8Z3W0D7KK",
+            "name": "Zinc",
+            "purpose": "for mitigation and prevention of colds"
+          }
+        ],
+        "promising": [
+          {
+            "id": "pcat_01K0X9GYFP1PTQ3TBCQ6G1TC0H",
+            "name": "Curcumin",
+            "purpose": "for asthma / COVID-19"
+          },
+          {
+            "id": "pcat_01K0X9GZR9T98V6GM53WQVB4YW",
+            "name": "Echinacea",
+            "purpose": "for prevention of upper respiratory tract infections"
+          },
+          {
+            "id": "",
+            "name": "Honey",
+            "purpose": "for reduction in upper respiratory tract infection symptoms"
+          },
+          {
+            "id": "",
+            "name": "Garlic",
+            "purpose": "could reduce the risk of colds and other infections"
+          },
+          {
+            "id": "pcat_01K0X9HFMDPF73CWRANGQW0EWN",
+            "name": "Spirulina",
+            "purpose": "for reduction of allergy symptoms"
+          },
+          {
+            "id": "pcat_01K0X9HJ91Z4RMYHMV83RHFHMT",
+            "name": "Vitamin E",
+            "purpose": "for improving general immune cell markers"
+          },
+          {
+            "id": "pcat_01K0X9HCQA01WG98W06BWP6X4E",
+            "name": "Quercetin",
+            "purpose": "for reduction of COVID-19 symptoms"
+          },
+          {
+            "id": "",
+            "name": "Nigella Sativa",
+            "purpose": "for reduction of allergies and allergic asthma"
+          }
+        ],
+        "unproven": [
+          { "id": "pcat_01K0X9GZVGA90XNDQ2WGDR9WY2", "name": "Elderberry" },
+          { "id": "", "name": "Ginger" },
+          {
+            "id": "pcat_01K0X9HBZC2FBK285HK967GH9W",
+            "name": "Probiotics/Synbiotics"
+          },
+          {
+            "id": "pcat_01K0X9H879GRPEWKPTDKMBHS7S",
+            "name": "N-Acetylcysteine (NAC)"
+          },
+          { "id": "pcat_01K0X9H160PBRJX8KEWCZMV20V", "name": "Fish Oil" },
+          {
+            "id": "pcat_01K0X9HFS53PQD8M6Z1PMDKVJM",
+            "name": "Stinging Nettle (Urtica Dioica)"
+          },
+          { "id": "", "name": "Tinospora Cordifolia" },
+          { "id": "pcat_01K0X9GTF974YNM8GW77H98PF4", "name": "Bromelain" }
+        ],
+        "inadvisable": [{ "id": "", "name": "Tinospora Crispa" }]
+      }
+    }
+  },
+  {
+    "id": "pcat_01K43Y0BJYNPFDXTFJP0AD7M02",
+    "name": "Bone Health",
+    "handle": "bone-health",
+    "metadata": {
+      "supplements": {
+        "primary": [
+          { "id": "pcat_01K0X9GV2XW4FT8HRP2T9KEKP2", "name": "Calcium" },
+          { "id": "pcat_01K0X9HJ7DQPP9XQNMT6SHRCAH", "name": "Vitamin D" },
+          { "id": "", "name": "Isoflavones" }
+        ],
+        "secondary": [
+          { "id": "pcat_01K0X9H6HD83584EC05D8GZYWV", "name": "Magnesium" },
+          { "id": "", "name": "Protein" }
+        ],
+        "promising": [
+          { "id": "pcat_01K0X9GYB1X6XSVTNMV4409QC4", "name": "Creatine" },
+          { "id": "pcat_01K0X9HJAMWWQ7031XRWQ58V8T", "name": "Vitamin K" },
+          { "id": "", "name": "Strontium" }
+        ],
+        "unproven": [
+          { "id": "pcat_01K0X9GRQJBD14D6J6T1GXXRGS", "name": "B vitamins" },
+          { "id": "pcat_01K0X9GXY4Q82W2WBNBTACYS5Z", "name": "Collagen" },
+          { "id": "pcat_01K0X9HD79Z1G4TDZBPQVZ6G8H", "name": "Resveratrol" },
+          {
+            "id": "pcat_01K0X9GX5P358BV4B1SSWC7FVW",
+            "name": "Cissus Quadrangularis"
+          },
+          { "id": "pcat_01K0X9H6ZS7T4QTCRPCDY7QBWK", "name": "Melatonin" },
+          { "id": "pcat_01K0X9HJZ9R1PPZ0J8Z3W0D7KK", "name": "Zinc" },
+          { "id": "pcat_01K0X9GT5JZ8FP72Q80TZFQ5H8", "name": "Boron" },
+          {
+            "id": "pcat_01K0X9H976QK6FKCVDHV8AQDH2",
+            "name": "Omega-3 Fatty Acids"
+          },
+          { "id": "pcat_01K0X9HBZC2FBK285HK967GH9W", "name": "Probiotics" }
+        ],
+        "inadvisable": [{ "id": "", "name": "Coral Calcium" }]
+      }
+    }
+  },
+  {
+    "id": "pcat_01K43Y1GPHKV94F6XCTKW2NB47",
+    "name": "Cardiovascular Health",
+    "handle": "cardiovascular-health",
+    "metadata": {
+      "supplements": {
+        "primary": [
+          { "id": "", "name": "Olive Oil" },
+          { "id": "", "name": "Cocoa" },
+          { "id": "", "name": "Garlic" },
+          { "id": "", "name": "Nitrates" }
+        ],
+        "secondary": [
+          { "id": "", "name": "Carnitine" },
+          { "id": "pcat_01K0X9H160PBRJX8KEWCZMV20V", "name": "Fish Oil" },
+          { "id": "pcat_01K0X9H29XWPBQ9HWZ6093C5S0", "name": "Grape Seed" },
+          { "id": "pcat_01K0X9HG7H7W2S3CW79NVGB1AG", "name": "Taurine" },
+          { "id": "", "name": "Tomatoes and Lycopene" },
+          { "id": "", "name": "Venotropics" },
+          { "id": "pcat_01K0X9GR87TGSF5VC9S6VBRF5M", "name": "Arginine" }
+        ],
+        "promising": [
+          { "id": "", "name": "Green Tea" },
+          { "id": "pcat_01K0X9GYP5HS745MRNYBWDN8C4", "name": "D-Ribose" },
+          { "id": "", "name": "Olive Leaf" },
+          { "id": "pcat_01K0X9HCF9D9DCYXCYCH4V38ZD", "name": "Pycnogenol" },
+          { "id": "pcat_01K0X9GX8WAE89ZJPH58SQNKRE", "name": "Citrulline" },
+          { "id": "pcat_01K0X9HFMDPF73CWRANGQW0EWN", "name": "Spirulina" },
+          { "id": "", "name": "Arjuna" }
+        ],
+        "unproven": [
+          { "id": "", "name": "CoQ10" },
+          { "id": "pcat_01K0X9HD79Z1G4TDZBPQVZ6G8H", "name": "Resveratrol" },
+          { "id": "pcat_01K0X9HJAMWWQ7031XRWQ58V8T", "name": "Vitamin K" }
+        ],
+        "inadvisable": [
+          { "id": "pcat_01K0X9GV18BPJRD7P963DHPDC1", "name": "Caffeine" },
+          { "id": "pcat_01K0X9HJ7DQPP9XQNMT6SHRCAH", "name": "Vitamin D" }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pcat_01K43Y2GBQ2XA3EHXC6NYMKNYJ",
+    "name": "Memory & Focus",
+    "handle": "memory-focus",
+    "metadata": {
+      "supplements": {
+        "primary": [],
+        "secondary": [
+          { "id": "pcat_01K0X9H1R067NP18TCXEBFN7RZ", "name": "Ginkgo biloba" },
+          { "id": "", "name": "Blueberry" },
+          { "id": "pcat_01K0X9GV18BPJRD7P963DHPDC1", "name": "Caffeine" },
+          { "id": "pcat_01K0X9H9W9ARPWYDZBAHG23EW1", "name": "Panax ginseng" }
+        ],
+        "promising": [
+          { "id": "pcat_01K0X9H2H9N4RNX8GHZNMB23S0", "name": "Guarana" },
+          { "id": "pcat_01K0X9GVTX9AR9GMF6Q9AAHZDW", "name": "CDP-Choline" },
+          { "id": "pcat_01K0X9GQQNPK5S9N1NRVE86GHX", "name": "Alpha-GPC" },
+          { "id": "pcat_01K0X9H8TGASRQRWZCX6YAJBTD", "name": "Nicotine" },
+          { "id": "", "name": "Isoflavones" }
+        ],
+        "unproven": [
+          { "id": "pcat_01K0X9GYB1X6XSVTNMV4409QC4", "name": "Creatine" },
+          { "id": "", "name": "Coleus Forskohlii with Artichoke Extract" },
+          {
+            "id": "pcat_01K0X9GRTZJ4FYNA8Z9HSA94W7",
+            "name": "Bacopa monnieri"
+          },
+          { "id": "pcat_01K0X9HDC2VVTCFWW4PG8AX52E", "name": "Rhodiola rosea" }
+        ],
+        "inadvisable": []
+      }
+    }
+  },
+  {
+    "id": "pcat_01K43Y5S01M95N75YWK7WAX0BX",
+    "name": "Diabetes & Blood Sugar",
+    "handle": "blood-sugar",
+    "metadata": {
+      "supplements": {
+        "primary": [
+          { "id": "pcat_01K0X9HBZC2FBK285HK967GH9W", "name": "Probiotics" },
+          { "id": "pcat_01K0X9H0ZDKP7T7ZQGAS0ZRSNR", "name": "Fenugreek" },
+          { "id": "", "name": "Dietary Fiber or Prebiotic" }
+        ],
+        "secondary": [
+          { "id": "", "name": "Anthocyanins" },
+          { "id": "pcat_01K0X9HE42E82QG9C2K176F7Q9", "name": "Saffron" },
+          {
+            "id": "pcat_01K0X9GQWHV8G73V2BBMRYJZAD",
+            "name": "Alpha-Lipoic Acid"
+          },
+          { "id": "pcat_01K0X9GS68T1MGC532N08ZV830", "name": "Berberine" },
+          { "id": "pcat_01K0X9H3KRE622XCA4WFM3PJ9K", "name": "Inositol" },
+          { "id": "pcat_01K0X9H6HD83584EC05D8GZYWV", "name": "Magnesium" },
+          { "id": "pcat_01K0X9HJZ9R1PPZ0J8Z3W0D7KK", "name": "Zinc" }
+        ],
+        "promising": [
+          { "id": "pcat_01K0X9GYFP1PTQ3TBCQ6G1TC0H", "name": "Curcumin" },
+          { "id": "", "name": "Bitter melon" },
+          {
+            "id": "pcat_01K0X9H0M1N6KFXX4Z1HBEAFWZ",
+            "name": "Exogenous ketones"
+          },
+          { "id": "", "name": "Sumac" },
+          { "id": "pcat_01K0X9GX0W21A7GZ8GTR47PGMK", "name": "Chromium" },
+          { "id": "pcat_01K0X9GX41J30C9CR95NAJRJ8Y", "name": "Cinnamon" },
+          {
+            "id": "pcat_01K0X9H3KRE622XCA4WFM3PJ9K",
+            "name": "Inositol",
+            "purpose": "for type 2 diabetes and prediabetes"
+          }
+        ],
+        "unproven": [
+          { "id": "pcat_01K0X9GRZSP158QYPJRTWY8CMR", "name": "Banaba Leaf" },
+          {
+            "id": "pcat_01K0X9GTADNJQ30SFWNFXKPZ8H",
+            "name": "Branched-Chain Amino Acids"
+          },
+          { "id": "pcat_01K0X9GYB1X6XSVTNMV4409QC4", "name": "Creatine" },
+          { "id": "pcat_01K0X9H21SGCHYZKRBD63V1QF3", "name": "Glycine" },
+          {
+            "id": "pcat_01K0X9H3KRE622XCA4WFM3PJ9K",
+            "name": "Inositol",
+            "purpose": "for gestational diabetes"
+          },
+          {
+            "id": "pcat_01K0X9HE790HNZVRET7FWKRHDK",
+            "name": "Salacia Reticulata"
+          },
+          {
+            "id": "pcat_01K0X9HH6WDC80ERBWYAAS708V",
+            "name": "Tribulus Terrestris"
+          },
+          { "id": "", "name": "Vinegar" },
+          { "id": "pcat_01K0X9HJ5SP0CBSH0M6ABY1HHQ", "name": "Vitamin C" }
+        ],
+        "inadvisable": [
+          { "id": "pcat_01K0X9H1E85PQ93X9GKTDXXF5S", "name": "Fructose" },
+          { "id": "", "name": "Tinospora Crispa" }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pcat_01K43Y6EY59VV46B47TNKPSSAQ",
+    "name": "Fat Loss",
+    "handle": "fat-loss",
+    "metadata": {
+      "supplements": {
+        "primary": [{ "id": "", "name": "Protein" }],
+        "secondary": [
+          { "id": "pcat_01K0X9GV18BPJRD7P963DHPDC1", "name": "Caffeine" },
+          { "id": "pcat_01K0X9H2D7DTKR09VKCQBF8CT2", "name": "Green Tea" }
+        ],
+        "promising": [
+          {
+            "id": "pcat_01K0X9GY2Y6F116AE4ZENRGR26",
+            "name": "Conjugated Linoleic Acid"
+          },
+          { "id": "pcat_01K0X9HJW1KGKZ27RV2XW8EZQ5", "name": "Yohimbine" },
+          { "id": "pcat_01K0X9H50M48FC16RFFR7R0SAQ", "name": "L-Carnitine" },
+          { "id": "pcat_01K0X9GQ5TT6K2JFJZT7F8Z364", "name": "5-HTP" },
+          { "id": "pcat_01K0X9H14CRWTYJ222K0WE9F2H", "name": "Fiber" },
+          {
+            "id": "pcat_01K0X9H6Y601QBGDGH09N8WMSY",
+            "name": "Medium-Chain Triglycerides"
+          },
+          {
+            "id": "pcat_01K0X9H1K4V7FDM4RHR9H1DEWA",
+            "name": "Garcinia cambogia"
+          },
+          { "id": "", "name": "Irvingia gabonensis" },
+          {
+            "id": "pcat_01K0X9H2BHHJ7FK067CZ2BNT5W",
+            "name": "Green Coffee Extract"
+          },
+          { "id": "pcat_01K0X9GS68T1MGC532N08ZV830", "name": "Berberine" }
+        ],
+        "unproven": [
+          { "id": "", "name": "Seaweed" },
+          { "id": "", "name": "Yerba Mate" },
+          { "id": "pcat_01K0X9H2H9N4RNX8GHZNMB23S0", "name": "Guarana" },
+          { "id": "", "name": "White Willow Bark" },
+          {
+            "id": "pcat_01K0X9GXP06XPKVNZMQMVZHJZT",
+            "name": "Coleus forskohlii"
+          },
+          { "id": "", "name": "Fucoxanthin" },
+          { "id": "pcat_01K0X9HE42E82QG9C2K176F7Q9", "name": "Saffron" },
+          { "id": "", "name": "Synephrine" }
+        ],
+        "inadvisable": [
+          { "id": "", "name": "Hoodia gordonii" },
+          { "id": "", "name": "Senna alexandrina" },
+          {
+            "id": "pcat_01K0X9HCRX8EN1PXFXPQP4HWD2",
+            "name": "Raspberry Ketone"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pcat_01K43Y8HB6NYDJXDMANQBACACJ",
+    "name": "Healthy Aging",
+    "handle": "healthy-aging",
+    "metadata": {
+      "supplements": {
+        "primary": [
+          { "id": "", "name": "Protein" },
+          { "id": "pcat_01K0X9H6HD83584EC05D8GZYWV", "name": "Magnesium" },
+          { "id": "pcat_01K0X9HJ7DQPP9XQNMT6SHRCAH", "name": "Vitamin D" }
+        ],
+        "secondary": [
+          { "id": "", "name": "Folate" },
+          {
+            "id": "pcat_01K0X9GYJYCFY90Y3B18MCE37T",
+            "name": "Cyanocobalamin (Vitamin B12)"
+          },
+          { "id": "", "name": "Blueberries" },
+          { "id": "pcat_01K0X9GYB1X6XSVTNMV4409QC4", "name": "Creatine" },
+          { "id": "pcat_01K0X9GZ6GXZDVP44P2093F2ZJ", "name": "DHEA" },
+          {
+            "id": "pcat_01K0X9H6FTF4TK5KSRGQ4YKXWP",
+            "name": "Maca",
+            "purpose": "for libido"
+          },
+          { "id": "pcat_01K0X9HJAMWWQ7031XRWQ58V8T", "name": "Vitamin K" }
+        ],
+        "promising": [
+          { "id": "pcat_01K0X9GVTX9AR9GMF6Q9AAHZDW", "name": "CDP-Choline" },
+          { "id": "pcat_01K0X9GQQNPK5S9N1NRVE86GHX", "name": "Alpha-GPC" },
+          {
+            "id": "pcat_01K0X9H6FTF4TK5KSRGQ4YKXWP",
+            "name": "Maca",
+            "purpose": "for menopause symptoms"
+          }
+        ],
+        "unproven": [
+          {
+            "id": "pcat_01K0X9GSHRRC0R749F65XE9NKV",
+            "name": "Biotin (Vitamin B7)"
+          }
+        ],
+        "inadvisable": [
+          { "id": "pcat_01K0X9H3Y0Y0QA5V1TT2G6CFXX", "name": "Iron" }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pcat_01K43Y8YMFSV5FP7ZJ69E5XG6P",
+    "name": "Joint Health",
+    "handle": "joint-health",
+    "metadata": {
+      "supplements": {
+        "primary": [],
+        "secondary": [
+          { "id": "", "name": "Avocado/Soybean Unsaponifiables" },
+          { "id": "", "name": "Ginger" },
+          { "id": "", "name": "Boswellia Serrata" },
+          { "id": "pcat_01K0X9GXY4Q82W2WBNBTACYS5Z", "name": "Collagen" },
+          { "id": "pcat_01K0X9GYFP1PTQ3TBCQ6G1TC0H", "name": "Curcumin" },
+          {
+            "id": "pcat_01K0X9H976QK6FKCVDHV8AQDH2",
+            "name": "Omega-3 Fatty Acids"
+          }
+        ],
+        "promising": [
+          { "id": "pcat_01K0X9GWZ8A05E9A4XEGSSEYS4", "name": "Chondroitin" },
+          { "id": "pcat_01K0X9H1SNB30SJVVD12DT2PT9", "name": "Glucosamine" },
+          { "id": "pcat_01K0X9H7TGABH4JKGCR8DB8V0M", "name": "MSM" },
+          { "id": "pcat_01K0X9HCF9D9DCYXCYCH4V38ZD", "name": "Pycnogenol" },
+          { "id": "pcat_01K0X9HJ5SP0CBSH0M6ABY1HHQ", "name": "Vitamin C" }
+        ],
+        "unproven": [
+          {
+            "id": "pcat_01K0X9GVCMEYC2J2NX53XP2RWC",
+            "name": "Cannabidiol (CBD)"
+          },
+          {
+            "id": "pcat_01K0X9GX5P358BV4B1SSWC7FVW",
+            "name": "Cissus Quadrangularis"
+          },
+          { "id": "", "name": "Glucosamine + chondroitin" },
+          { "id": "pcat_01K0X9HE42E82QG9C2K176F7Q9", "name": "Saffron" }
+        ],
+        "inadvisable": []
+      }
+    }
+  },
+  {
+    "id": "pcat_01K43YA8APTMAMDJGY78JM9X08",
+    "name": "Libido & Sexual Function",
+    "handle": "libido",
+    "metadata": {
+      "supplements": {
+        "primary": [],
+        "secondary": [
+          { "id": "", "name": "Aerobic Exercise" },
+          { "id": "pcat_01K0X9H9W9ARPWYDZBAHG23EW1", "name": "Panax Ginseng" },
+          { "id": "pcat_01K0X9H6FTF4TK5KSRGQ4YKXWP", "name": "Maca" },
+          { "id": "pcat_01K0X9GR87TGSF5VC9S6VBRF5M", "name": "Arginine" },
+          { "id": "pcat_01K0X9HJW1KGKZ27RV2XW8EZQ5", "name": "Yohimbine" }
+        ],
+        "promising": [
+          { "id": "pcat_01K0X9GX8WAE89ZJPH58SQNKRE", "name": "Citrulline" },
+          { "id": "pcat_01K0X9HGXTXDPYVAN2RZ6JF1P1", "name": "Tongkat ali" },
+          { "id": "pcat_01K0X9H0ZDKP7T7ZQGAS0ZRSNR", "name": "Fenugreek" },
+          {
+            "id": "pcat_01K0X9HH6WDC80ERBWYAAS708V",
+            "name": "Tribulus terrestris"
+          }
+        ],
+        "unproven": [
+          { "id": "", "name": "Cocoa" },
+          { "id": "", "name": "Garlic" },
+          { "id": "pcat_01K0X9H3A132GKFTEE7ET2ABKB", "name": "Horny Goat Weed" }
+        ],
+        "inadvisable": [
+          { "id": "pcat_01K0X9H8TGASRQRWZCX6YAJBTD", "name": "Nicotine" }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pcat_01K43YAYSS5XA74B9MZB2A561Y",
+    "name": "Liver Health",
+    "handle": "liver-health",
+    "metadata": {
+      "supplements": {
+        "primary": [
+          { "id": "pcat_01K0X9HBZC2FBK285HK967GH9W", "name": "Probiotics" },
+          { "id": "pcat_01K0X9HJ91Z4RMYHMV83RHFHMT", "name": "Vitamin E" },
+          { "id": "pcat_01K0X9HHBXHAMMSJ6CASQGYM3Y", "name": "TUDCA" }
+        ],
+        "secondary": [
+          {
+            "id": "pcat_01K0X9H976QK6FKCVDHV8AQDH2",
+            "name": "Omega-3 Fatty Acids"
+          },
+          { "id": "pcat_01K0X9GYFP1PTQ3TBCQ6G1TC0H", "name": "Curcumin" },
+          { "id": "pcat_01K0X9H79R3SRRAVXHWFSXEZD5", "name": "Milk Thistle" },
+          {
+            "id": "pcat_01K0X9H879GRPEWKPTDKMBHS7S",
+            "name": "N-Acetylcysteine (NAC)"
+          }
+        ],
+        "promising": [
+          { "id": "pcat_01K0X9HC0XTDNDAF4KRTD0W5E3", "name": "Propolis" },
+          { "id": "pcat_01K0X9HJ7DQPP9XQNMT6SHRCAH", "name": "Vitamin D" },
+          { "id": "pcat_01K0X9GS68T1MGC532N08ZV830", "name": "Berberine" },
+          { "id": "", "name": "Coffee" },
+          { "id": "", "name": "Artichoke Leaf" }
+        ],
+        "unproven": [
+          { "id": "pcat_01K0X9GYWNW9BAGG0HCD8SE6GX", "name": "Dandelion" },
+          { "id": "", "name": "Picrorhiza Kurroa" },
+          {
+            "id": "pcat_01K0X9HDXNWGBXXZ8N8W6A8QHY",
+            "name": "S-Adenosylmethionine"
+          },
+          { "id": "pcat_01K0X9HE42E82QG9C2K176F7Q9", "name": "Saffron" },
+          { "id": "", "name": "Ginger" },
+          {
+            "id": "pcat_01K0X9GQWHV8G73V2BBMRYJZAD",
+            "name": "Alpha-Lipoic Acid"
+          },
+          { "id": "pcat_01K0X9HFMDPF73CWRANGQW0EWN", "name": "Spirulina" },
+          { "id": "pcat_01K0X9H5X5BBE88KB1K4RRTR9A", "name": "Licorice root" },
+          { "id": "pcat_01K0X9HJZ9R1PPZ0J8Z3W0D7KK", "name": "Zinc" }
+        ],
+        "inadvisable": [
+          { "id": "pcat_01K0X9GQMCGK9TK8PT8AK2PCNA", "name": "Alcohol" }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pcat_01K43YC1NX4YJKG68HDDT1TZ48",
+    "name": "Mood & Depression",
+    "handle": "mood-depression",
+    "metadata": {
+      "supplements": {
+        "primary": [
+          {
+            "id": "pcat_01K0X9H976QK6FKCVDHV8AQDH2",
+            "name": "Omega-3 Fatty Acids"
+          },
+          { "id": "pcat_01K0X9HE42E82QG9C2K176F7Q9", "name": "Saffron" }
+        ],
+        "secondary": [
+          { "id": "", "name": "Light Therapy" },
+          {
+            "id": "pcat_01K0X9HFQHQ6CJ3T8C1RAKWTH0",
+            "name": "St. John's Wort"
+          },
+          { "id": "pcat_01K0X9HJ7DQPP9XQNMT6SHRCAH", "name": "Vitamin D" }
+        ],
+        "promising": [
+          { "id": "pcat_01K0X9GQ5TT6K2JFJZT7F8Z364", "name": "5-HTP" },
+          { "id": "pcat_01K0X9HDC2VVTCFWW4PG8AX52E", "name": "Rhodiola rosea" },
+          {
+            "id": "pcat_01K0X9H879GRPEWKPTDKMBHS7S",
+            "name": "N-Acetylcysteine"
+          },
+          { "id": "pcat_01K0X9GYFP1PTQ3TBCQ6G1TC0H", "name": "Curcumin" },
+          { "id": "pcat_01K0X9HJZ9R1PPZ0J8Z3W0D7KK", "name": "Zinc" },
+          { "id": "", "name": "SAMe" },
+          { "id": "pcat_01K0X9H6HD83584EC05D8GZYWV", "name": "Magnesium" },
+          { "id": "pcat_01K0X9HJ91Z4RMYHMV83RHFHMT", "name": "Vitamin E" }
+        ],
+        "unproven": [
+          { "id": "pcat_01K0X9GX0W21A7GZ8GTR47PGMK", "name": "Chromium" },
+          { "id": "pcat_01K0X9HHM2S5DEPKHV2V3WRV01", "name": "Uridine" },
+          { "id": "pcat_01K0X9GRH2X2EDJT63CKKWPN9V", "name": "Ashwagandha" },
+          { "id": "pcat_01K0X9H3KRE622XCA4WFM3PJ9K", "name": "Inositol" }
+        ],
+        "inadvisable": [{ "id": "", "name": "Psychostimulants" }]
+      }
+    }
+  },
+  {
+    "id": "pcat_01K43YDTZKDZJXSWHGFTKFBRY0",
+    "name": "Muscle Gain & Exercise Performance",
+    "handle": "muscle-gain",
+    "metadata": {
+      "supplements": {
+        "primary": [
+          { "id": "pcat_01K0X9GS7VPWM24E02FTKBA419", "name": "Beta-Alanine" },
+          { "id": "pcat_01K0X9GYB1X6XSVTNMV4409QC4", "name": "Creatine" },
+          { "id": "", "name": "Protein" },
+          { "id": "", "name": "Carbohydrates" },
+          { "id": "pcat_01K0X9GV18BPJRD7P963DHPDC1", "name": "Caffeine" }
+        ],
+        "secondary": [
+          {
+            "id": "pcat_01K0X9GTADNJQ30SFWNFXKPZ8H",
+            "name": "Branched-Chain Amino Acids"
+          },
+          { "id": "pcat_01K0X9GX8WAE89ZJPH58SQNKRE", "name": "Citrulline" },
+          { "id": "", "name": "Nitrates" },
+          {
+            "id": "pcat_01K0X9HF92R4BMR3T7784VEG76",
+            "name": "Sodium Bicarbonate"
+          }
+        ],
+        "promising": [
+          { "id": "pcat_01K0X9GRH2X2EDJT63CKKWPN9V", "name": "Ashwagandha" },
+          { "id": "", "name": "Tart Cherry" },
+          { "id": "pcat_01K0X9HG7H7W2S3CW79NVGB1AG", "name": "Taurine" }
+        ],
+        "unproven": [
+          { "id": "pcat_01K0X9GQQNPK5S9N1NRVE86GHX", "name": "Alpha-GPC" },
+          { "id": "pcat_01K0X9GSCZ2TPG5YCK4T64JXCX", "name": "Betaine" },
+          { "id": "pcat_01K0X9GVFSNQXRF0FGQ1MBSDDS", "name": "Capsaicin" },
+          { "id": "pcat_01K0X9H0ZDKP7T7ZQGAS0ZRSNR", "name": "Fenugreek" },
+          { "id": "pcat_01K0X9H9W9ARPWYDZBAHG23EW1", "name": "Ginseng" },
+          { "id": "pcat_01K0X9H1WXNC17W9TM9ZR43XK3", "name": "Glutamine" },
+          { "id": "pcat_01K0X9H36V35E2FKD55Q2PT63W", "name": "HMB" },
+          { "id": "pcat_01K0X9H6FTF4TK5KSRGQ4YKXWP", "name": "Maca" },
+          { "id": "pcat_01K0X9HDC2VVTCFWW4PG8AX52E", "name": "Rhodiola Rosea" },
+          {
+            "id": "pcat_01K0X9HH6WDC80ERBWYAAS708V",
+            "name": "Tribulus Terrestris"
+          }
+        ],
+        "inadvisable": [
+          { "id": "pcat_01K0X9GR87TGSF5VC9S6VBRF5M", "name": "Arginine" },
+          { "id": "pcat_01K0X9GVTX9AR9GMF6Q9AAHZDW", "name": "Choline" },
+          { "id": "pcat_01K0X9H9W9ARPWYDZBAHG23EW1", "name": "Panax Ginseng" },
+          { "id": "", "name": "Phosphatidic Acid" }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pcat_01K43YERCGVBV651EX54NCHJGS",
+    "name": "Skin, Hair & Nails",
+    "handle": "skin-hair-nails",
+    "metadata": {
+      "supplements": {
+        "primary": [
+          {
+            "id": "",
+            "name": "Sunscreen",
+            "purpose": "for skin appearance & UV protection"
+          }
+        ],
+        "secondary": [
+          {
+            "id": "pcat_01K0X9H7BJHGYD1WRJTWDSV76A",
+            "name": "Minoxidil",
+            "purpose": "for hair loss"
+          },
+          {
+            "id": "pcat_01K0X9HJBCPK4KCN1N9ACFFR21",
+            "name": "Vitamin A",
+            "purpose": "for acne & skin appearance"
+          }
+        ],
+        "promising": [
+          {
+            "id": "pcat_01K0X9HBZC2FBK285HK967GH9W",
+            "name": "Probiotics",
+            "purpose": "for prevention of eczema"
+          },
+          {
+            "id": "pcat_01K0X9GXGXKTKGF4YMVDDKCK6X",
+            "name": "Cocoa Extract",
+            "purpose": "for skin appearance & UV protection"
+          },
+          {
+            "id": "",
+            "name": "Coconut Oil",
+            "purpose": "for atopic dermatitis & dry skin"
+          },
+          { "id": "", "name": "Nicotinamide", "purpose": "for acne" },
+          {
+            "id": "",
+            "name": "Nicotinamide",
+            "purpose": "for non-melanoma skin-cancer prevention"
+          },
+          {
+            "id": "",
+            "name": "Polypodium Leucotomos",
+            "purpose": "for UV protection"
+          },
+          { "id": "", "name": "Tazarotene", "purpose": "for plaque psoriasis" }
+        ],
+        "unproven": [
+          {
+            "id": "pcat_01K0X9GRM9DH15CMY0R4CSKCSR",
+            "name": "Astaxanthin",
+            "purpose": "for skin appearance & UV protection"
+          },
+          {
+            "id": "pcat_01K0X9GV18BPJRD7P963DHPDC1",
+            "name": "Caffeine",
+            "purpose": "for cellulite & skin disorders"
+          },
+          { "id": "", "name": "Coconut Oil", "purpose": "for hair appearance" },
+          {
+            "id": "pcat_01K0X9GYB1X6XSVTNMV4409QC4",
+            "name": "Creatine",
+            "purpose": "for skin appearance"
+          },
+          { "id": "", "name": "Forti5®", "purpose": "for hair loss" },
+          { "id": "", "name": "Marine Proteins", "purpose": "for hair loss" },
+          {
+            "id": "pcat_01K0X9H7BJHGYD1WRJTWDSV76A",
+            "name": "Minoxidil",
+            "purpose": "for nail growth & non-androgenic hair loss"
+          },
+          {
+            "id": "",
+            "name": "Nicotinamide",
+            "purpose": "for skin appearance & disorders"
+          },
+          { "id": "", "name": "Nutrafol®", "purpose": "for hair loss" },
+          {
+            "id": "",
+            "name": "Polypodium Leucotomos",
+            "purpose": "for skin disorders"
+          },
+          {
+            "id": "pcat_01K0X9HBZC2FBK285HK967GH9W",
+            "name": "Probiotics",
+            "purpose": "for acne, eczema, & dermatitis"
+          },
+          {
+            "id": "",
+            "name": "Retinoids",
+            "purpose": "for hair loss & rosacea"
+          },
+          {
+            "id": "pcat_01K0X9HDRVW22AP8TC5N0ZR8SC",
+            "name": "Rosmarinic Acid and Grapefruit Extract",
+            "purpose": "for skin appearance & UV protection"
+          },
+          {
+            "id": "pcat_01K0X9GSHRRC0R749F65XE9NKV",
+            "name": "Biotin (Vitamin B7)",
+            "purpose": "for hair & nail appearance"
+          },
+          {
+            "id": "pcat_01K0X9HJ91Z4RMYHMV83RHFHMT",
+            "name": "Vitamin E",
+            "purpose": "for skin, hair, & nails"
+          },
+          {
+            "id": "pcat_01K0X9HJAMWWQ7031XRWQ58V8T",
+            "name": "Vitamin K",
+            "purpose": "for skin appearance"
+          },
+          {
+            "id": "pcat_01K0X9HJZ9R1PPZ0J8Z3W0D7KK",
+            "name": "Zinc",
+            "purpose": "for acne & eczema"
+          }
+        ],
+        "inadvisable": [
+          { "id": "", "name": "Coconut Oil", "purpose": "for UV protection" },
+          { "id": "", "name": "PABA", "purpose": "for UV protection" },
+          {
+            "id": "",
+            "name": "Proprietary Blends and Multi-Ingredient Products"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pcat_01K43YF7QVN6B26YYG74R6XDQW",
+    "name": "Sleep",
+    "handle": "sleep",
+    "metadata": {
+      "supplements": {
+        "primary": [],
+        "secondary": [
+          { "id": "pcat_01K0X9H5PMH6KE4EJ5KC470DZK", "name": "Lavender" },
+          { "id": "pcat_01K0X9H6ZS7T4QTCRPCDY7QBWK", "name": "Melatonin" }
+        ],
+        "promising": [
+          { "id": "pcat_01K0X9GRH2X2EDJT63CKKWPN9V", "name": "Ashwagandha" },
+          { "id": "", "name": "Light therapy" },
+          { "id": "", "name": "Melissa officinalis" }
+        ],
+        "unproven": [
+          { "id": "pcat_01K0X9H21SGCHYZKRBD63V1QF3", "name": "Glycine" },
+          { "id": "pcat_01K0X9H6HD83584EC05D8GZYWV", "name": "Magnesium" },
+          { "id": "", "name": "Lemon Verbena" },
+          { "id": "pcat_01K0X9H5FTNYF494KERBCXMM1S", "name": "L-Theanine" },
+          { "id": "pcat_01K0X9HHA9A8V5FNWXV8R80NP5", "name": "Tryptophan" },
+          { "id": "pcat_01K0X9HHTD6YP0Z36NQ09CSWB6", "name": "Valerian" }
+        ],
+        "inadvisable": [
+          { "id": "pcat_01K0X9GV18BPJRD7P963DHPDC1", "name": "Caffeine" },
+          { "id": "", "name": "Stimulants" }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pcat_01K43YFV7T8ANN2YPE3BH8WRM3",
+    "name": "Stress & Anxiety",
+    "handle": "stress-anxiety",
+    "metadata": {
+      "supplements": {
+        "primary": [],
+        "secondary": [
+          { "id": "pcat_01K0X9HE42E82QG9C2K176F7Q9", "name": "Saffron" },
+          { "id": "pcat_01K0X9H5PMH6KE4EJ5KC470DZK", "name": "Lavender" },
+          { "id": "pcat_01K0X9HA4CSHKE56VZZHZ4K8RV", "name": "Passionflower" }
+        ],
+        "promising": [
+          {
+            "id": "pcat_01K0X9GVCMEYC2J2NX53XP2RWC",
+            "name": "Cannabidiol (CBD)"
+          },
+          { "id": "pcat_01K0X9GYFP1PTQ3TBCQ6G1TC0H", "name": "Curcumin" },
+          { "id": "pcat_01K0X9H5FTNYF494KERBCXMM1S", "name": "Theanine" },
+          { "id": "pcat_01K0X9H4E946E2TS0FEB49YN37", "name": "Kava" },
+          { "id": "pcat_01K0X9GRH2X2EDJT63CKKWPN9V", "name": "Ashwagandha" },
+          {
+            "id": "pcat_01K0X9H976QK6FKCVDHV8AQDH2",
+            "name": "Omega-3 Fatty Acids"
+          },
+          { "id": "pcat_01K0X9H6HD83584EC05D8GZYWV", "name": "Magnesium" }
+        ],
+        "unproven": [
+          { "id": "pcat_01K0X9HJ91Z4RMYHMV83RHFHMT", "name": "Vitamin E" },
+          { "id": "pcat_01K0X9H1FYM4PE8KJ44HQX74NH", "name": "GABA" },
+          {
+            "id": "pcat_01K0X9GR87TGSF5VC9S6VBRF5M",
+            "name": "Arginine with Lysine"
+          },
+          { "id": "pcat_01K0X9H3KRE622XCA4WFM3PJ9K", "name": "Inositol" },
+          { "id": "pcat_01K0X9H5R54QGGGY01MPV9N0AF", "name": "Lemon Balm" },
+          { "id": "pcat_01K0X9GWC9A6NT2TW8A9YGPMAE", "name": "Chaste Tree" }
+        ],
+        "inadvisable": [
+          { "id": "pcat_01K0X9GQMCGK9TK8PT8AK2PCNA", "name": "Alcohol" },
+          { "id": "pcat_01K0X9H8TGASRQRWZCX6YAJBTD", "name": "Nicotine" },
+          { "id": "pcat_01K0X9HJW1KGKZ27RV2XW8EZQ5", "name": "Yohimbine" }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pcat_01K43YG5ZNN40E8HGPGRM588B6",
+    "name": "Testosterone",
+    "handle": "testosterone",
+    "metadata": {
+      "supplements": {
+        "primary": [],
+        "secondary": [
+          { "id": "pcat_01K0X9HJZ9R1PPZ0J8Z3W0D7KK", "name": "Zinc" },
+          { "id": "pcat_01K0X9GZ6GXZDVP44P2093F2ZJ", "name": "DHEA" },
+          { "id": "pcat_01K0X9GRH2X2EDJT63CKKWPN9V", "name": "Ashwagandha" },
+          {
+            "id": "pcat_01K0X9HJ7DQPP9XQNMT6SHRCAH",
+            "name": "Vitamin D",
+            "purpose": "For women with PCOS"
+          }
+        ],
+        "promising": [
+          { "id": "pcat_01K0X9H0ZDKP7T7ZQGAS0ZRSNR", "name": "Fenugreek" },
+          { "id": "pcat_01K0X9HGXTXDPYVAN2RZ6JF1P1", "name": "Tongkat ali" }
+        ],
+        "unproven": [
+          { "id": "pcat_01K0X9GT5JZ8FP72Q80TZFQ5H8", "name": "Boron" },
+          {
+            "id": "pcat_01K0X9GXP06XPKVNZMQMVZHJZT",
+            "name": "Coleus forskohlii"
+          },
+          {
+            "id": "pcat_01K0X9GYMHQAXSF52ZB1SGXQS9",
+            "name": "D-aspartic acid"
+          },
+          { "id": "pcat_01K0X9H6FTF4TK5KSRGQ4YKXWP", "name": "Maca" },
+          { "id": "pcat_01K0X9H6HD83584EC05D8GZYWV", "name": "Magnesium" },
+          { "id": "pcat_01K0X9H9W9ARPWYDZBAHG23EW1", "name": "Panax ginseng" },
+          {
+            "id": "pcat_01K0X9HH6WDC80ERBWYAAS708V",
+            "name": "Tribulus terrestris"
+          },
+          {
+            "id": "pcat_01K0X9HFS53PQD8M6Z1PMDKVJM",
+            "name": "Stinging nettle"
+          },
+          { "id": "", "name": "Ginger" },
+          {
+            "id": "pcat_01K0X9H7GK14X4MPJGMT8XJAMX",
+            "name": "Mucuna pruriens"
+          },
+          {
+            "id": "pcat_01K0X9HJ7DQPP9XQNMT6SHRCAH",
+            "name": "Vitamin D",
+            "purpose": "For men"
+          }
+        ],
+        "inadvisable": [
+          { "id": "pcat_01K0X9GYB1X6XSVTNMV4409QC4", "name": "Creatine" }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pcat_01K43YGKRGE5ZXQ8J2VWYR9ZHS",
+    "name": "Vegetarians & Vegans",
+    "handle": "vegetarians-vegans",
+    "metadata": {
+      "supplements": {
+        "primary": [
+          {
+            "id": "pcat_01K0X9GYJYCFY90Y3B18MCE37T",
+            "name": "Cyanocobalamin (Vitamin B12)"
+          }
+        ],
+        "secondary": [
+          { "id": "pcat_01K0X9GWXJ0FM7PY4PAR4G1S86", "name": "Choline" },
+          { "id": "pcat_01K0X9H3TQH011J41G1ZA1E4WJ", "name": "Iodine" },
+          { "id": "", "name": "Protein" },
+          { "id": "pcat_01K0X9HJ7DQPP9XQNMT6SHRCAH", "name": "Vitamin D" }
+        ],
+        "promising": [
+          { "id": "pcat_01K0X9HJZ9R1PPZ0J8Z3W0D7KK", "name": "Zinc" },
+          { "id": "pcat_01K0X9GYB1X6XSVTNMV4409QC4", "name": "Creatine" },
+          {
+            "id": "pcat_01K0X9H976QK6FKCVDHV8AQDH2",
+            "name": "Omega-3 Fatty Acids"
+          }
+        ],
+        "unproven": [
+          { "id": "", "name": "Carnitine" },
+          { "id": "pcat_01K0X9GS7VPWM24E02FTKBA419", "name": "Beta-Alanine" },
+          { "id": "pcat_01K0X9H3Y0Y0QA5V1TT2G6CFXX", "name": "Iron" }
+        ],
+        "inadvisable": []
+      }
+    }
+  }
+]
